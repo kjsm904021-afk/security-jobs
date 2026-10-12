@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T02:36:26+09:00",
+  "updated_at": "2026-10-13T06:27:49+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 4
     },
     "알바몬": {
       "ok": false,
@@ -90,17 +90,17 @@
     },
     {
       "company": "회사명 확인",
-      "title": "(주)국제시스템 채용정보 : 광주콘서트 보안/안전요원 모집 - 알바천국",
+      "title": "비엠티(BMT) 채용정보 : [보안/경비 구인] 기장군 장안읍, 비엠티(BMT) - 알바천국",
       "location": "근무지 확인",
-      "shift": "주간",
+      "shift": "격일",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
       "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147467713&listmenucd=SEARCH",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147480329&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-10-13T02:36:26+09:00",
+      "first_seen": "2026-10-13T06:27:49+09:00",
       "new": true
     },
     {
@@ -149,18 +149,48 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "(주)농협파트너스",
-      "title": "농협중앙회 인천지역본부 야간당직 경비원 모집",
-      "location": "인천 남동구 남동대로765번길 36 (인천농협지역본부)농협중앙회",
-      "shift": "야간",
+      "company": "한솔에스앤제이(주)",
+      "title": "강서사업부 호송경비 직원채용합니다.",
+      "location": "서울 양천구 남부순환로88길 5-3 (신정주차빌딩) 1층",
+      "shift": "08:00~17:00",
       "salary": "공고 확인",
-      "deadline": "2026-10-21",
-      "posted": "2026-10-08",
+      "deadline": "2026-10-25",
+      "posted": "2026-10-12",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147407773&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147478078&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-10-13T02:36:26+09:00",
+      "first_seen": "2026-10-13T06:27:49+09:00",
+      "new": true
+    },
+    {
+      "company": "한솔에스앤제이(주)",
+      "title": "강서사업부 호송경비 직원채용합니다.",
+      "location": "서울 양천구 남부순환로88길 5-3 (신정주차빌딩) 1층",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-10-25",
+      "posted": "2026-10-12",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147478080&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-13T06:27:49+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[신입가능] KT가산 데이터센터 보안사원 채용",
+      "location": "서울 금천구 가산디지털2로 23 KT가산데이터센터",
+      "shift": "교대",
+      "salary": "공고 확인",
+      "deadline": "2026-11-01",
+      "posted": "2026-10-12",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147484066&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-13T06:27:49+09:00",
       "new": true
     },
     {
@@ -205,21 +235,6 @@
       "type": "특수경비",
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-13T02:36:26+09:00",
-      "new": true
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
-      "location": "인천 중구 공항로 272 인천국제공항 제1여객터미널 2021호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-22",
-      "posted": "2026-10-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147286652&listmenucd=SEARCH",
-      "commute": "△",
       "first_seen": "2026-10-13T02:36:26+09:00",
       "new": true
     },
