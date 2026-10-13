@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T18:32:36+09:00",
+  "updated_at": "2026-10-13T21:38:44+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 1
+      "found": 2
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 5
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -164,36 +164,6 @@
       "new": true
     },
     {
-      "company": "(주) 프로에스콤",
-      "title": "[신입가능] KT가산 데이터센터 보안사원 채용",
-      "location": "서울 금천구 가산디지털2로 23 KT가산데이터센터",
-      "shift": "교대",
-      "salary": "공고 확인",
-      "deadline": "2026-11-01",
-      "posted": "2026-10-12",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147484066&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-13T15:38:03+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[긴급] KT가산데이터센터 보안 아르바이트 모집",
-      "location": "서울 금천구 가산디지털2로 23 KT가산데이터센터",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-01",
-      "posted": "2026-10-12",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147484046&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-13T15:38:03+09:00",
-      "new": true
-    },
-    {
       "company": "아이클라우드",
       "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
       "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
@@ -251,6 +221,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "○",
       "first_seen": "2026-10-13T12:30:48+09:00",
+      "new": true
+    },
+    {
+      "company": "호반써밋스카이센트럴2아파트 입주자대표회의",
+      "title": "경비원 구인",
+      "location": "인천광역시 중구 인천광역시 중구 숲쟁이로 11 (운남동 호반 써밋 스카이센트럴 2차)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-12",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610120003229&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-13T21:38:44+09:00",
       "new": true
     },
     {
