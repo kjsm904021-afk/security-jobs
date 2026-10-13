@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T06:27:49+09:00",
+  "updated_at": "2026-10-13T09:42:18+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -97,7 +97,7 @@
       "deadline": "공고 확인",
       "posted": "",
       "source": "알바천국",
-      "type": "CCTV/통합관제",
+      "type": "경호",
       "url": "https://www.alba.co.kr/job/Detail?adid=147480329&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-10-13T06:27:49+09:00",
@@ -179,21 +179,6 @@
       "new": true
     },
     {
-      "company": "(주) 프로에스콤",
-      "title": "[신입가능] KT가산 데이터센터 보안사원 채용",
-      "location": "서울 금천구 가산디지털2로 23 KT가산데이터센터",
-      "shift": "교대",
-      "salary": "공고 확인",
-      "deadline": "2026-11-01",
-      "posted": "2026-10-12",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147484066&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-13T06:27:49+09:00",
-      "new": true
-    },
-    {
       "company": "유니에스시큐리티",
       "title": "김포공항 대한항공 화물보안검색",
       "location": "김포공항 화물청사",
@@ -236,6 +221,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "○",
       "first_seen": "2026-10-13T02:36:26+09:00",
+      "new": true
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
+      "location": "인천 중구 공항로 272 인천국제공항 제1여객터미널 2021호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-22",
+      "posted": "2026-10-02",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147286652&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-10-13T09:42:18+09:00",
       "new": true
     },
     {
