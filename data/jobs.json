@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-10-13T09:42:18+09:00",
+  "updated_at": "2026-10-13T12:30:48+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 5
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 4
+      "found": 5
     },
     "알바몬": {
       "ok": false,
@@ -38,9 +38,9 @@
       "posted": "2026-09-14",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49981710?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49981710?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "◎",
-      "first_seen": "2026-10-13T02:36:26+09:00",
+      "first_seen": "2026-10-13T12:30:48+09:00",
       "new": true
     },
     {
@@ -104,6 +104,21 @@
       "new": true
     },
     {
+      "company": "회사명 확인",
+      "title": "(주)국제시스템 채용정보 : 광주콘서트 보안/안전요원 모집 - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147467713&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-13T12:30:48+09:00",
+      "new": true
+    },
+    {
       "company": "㈜삼구아이앤씨",
       "title": "[삼구아이앤씨] IKCS 정비고 특수경비원 모집",
       "location": "인천 중구 운서동 2955-74 샤프테크닉스(IKCS) 정비고",
@@ -114,21 +129,6 @@
       "source": "잡코리아",
       "type": "특수경비",
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49985401?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=1&sc=630",
-      "commute": "○",
-      "first_seen": "2026-10-13T02:36:26+09:00",
-      "new": true
-    },
-    {
-      "company": "㈜삼구아이앤씨",
-      "title": "[삼구아이앤씨] 여의도 코스콤 특수경비원 채용 (주야비 3교대)",
-      "location": "서울 영등포구 여의나루로 76 (여의도동, 한국거래소)",
-      "shift": "주야비",
-      "salary": "공고 확인",
-      "deadline": "2026-10-17",
-      "posted": "2026-10-07",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50120644?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
       "first_seen": "2026-10-13T02:36:26+09:00",
       "new": true
@@ -203,9 +203,9 @@
       "posted": "2026-08-19",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49812534?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49812534?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-13T02:36:26+09:00",
+      "first_seen": "2026-10-13T12:30:48+09:00",
       "new": true
     },
     {
@@ -218,9 +218,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-13T02:36:26+09:00",
+      "first_seen": "2026-10-13T12:30:48+09:00",
       "new": true
     },
     {
