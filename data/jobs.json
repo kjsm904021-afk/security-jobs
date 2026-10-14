@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T03:48:40+09:00",
+  "updated_at": "2026-10-15T06:39:29+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 6
     },
     "알바몬": {
       "ok": false,
@@ -74,18 +74,18 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "쓰리맥스",
-      "title": "경비직",
-      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
-      "shift": "공고 확인",
+      "company": "부산세광식품",
+      "title": "야간경비모집",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산업중로 381 (송정동)",
+      "shift": "야간",
       "salary": "공고 확인",
       "deadline": "공고 확인",
-      "posted": "2026-10-13",
+      "posted": "2026-10-14",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140001819&src=etc*search",
       "commute": "◎",
-      "first_seen": "2026-10-14T09:51:20+09:00",
+      "first_seen": "2026-10-15T06:39:29+09:00",
       "new": true
     },
     {
@@ -132,6 +132,36 @@
       "commute": "○",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-03",
+      "posted": "2026-10-14",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147534886&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-15T06:39:29+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-03",
+      "posted": "2026-10-14",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147535326&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-15T06:39:29+09:00",
+      "new": true
     },
     {
       "company": "아이클라우드",
@@ -210,17 +240,32 @@
     },
     {
       "company": "회사명 확인",
-      "title": "(주)농협파트너스 채용정보 : [농협 울산유통센터]하나로마트 보안업무 직원 모집(11/1일 입사) - 알바천국",
+      "title": "(주)프로에스콤 채용정보 : [학동역/월230만/임피리얼팰리스호텔 보안 / 앉아서 근무] - 알바천국",
+      "location": "근무지 확인",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147535314&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-15T06:39:29+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "(주)프로에스콤 채용정보 : [학동역/월230만/임피리얼팰리스호텔 보안 / 앉아서 근무] - 알바천국",
       "location": "근무지 확인",
       "shift": "주간",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
       "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147519443&listmenucd=SEARCH",
+      "type": "특수경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147534713&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-10-14T09:51:20+09:00",
+      "first_seen": "2026-10-15T06:39:29+09:00",
       "new": true
     },
     {
