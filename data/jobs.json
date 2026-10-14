@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-14T09:51:20+09:00",
+  "updated_at": "2026-10-14T12:39:50+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 5
+      "found": 4
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
-      "ok": true,
+      "ok": false,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 0
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 5
+      "found": 6
     },
     "알바몬": {
       "ok": false,
@@ -28,21 +28,6 @@
     }
   },
   "jobs": [
-    {
-      "company": "㈜아스타아이비에스",
-      "title": "서울 메트로9호선 차량기지 특수경비대원 모집",
-      "location": "서울 강서구 개화동로8길 38 (개화동, 9호선차량기지및901) 본관동 1층",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-14",
-      "posted": "2026-09-14",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49981710?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
-      "commute": "◎",
-      "first_seen": "2026-10-14T09:51:20+09:00",
-      "new": true
-    },
     {
       "company": "프로에스콤",
       "title": "쿠팡 인천4센터 보안사원",
@@ -119,6 +104,21 @@
       "new": true
     },
     {
+      "company": "회사명 확인",
+      "title": "(주)국제시스템 채용정보 : 광주콘서트 보안/안전요원 모집 - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147467713&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-14T12:39:50+09:00",
+      "new": true
+    },
+    {
       "company": "㈜삼구아이앤씨",
       "title": "[삼구아이앤씨] IKCS 정비고 특수경비원 모집",
       "location": "인천 중구 운서동 2955-74 샤프테크닉스(IKCS) 정비고",
@@ -173,9 +173,9 @@
       "posted": "2026-08-19",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49812534?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49812534?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-14T09:51:20+09:00",
+      "first_seen": "2026-10-14T12:39:50+09:00",
       "new": true
     },
     {
@@ -188,9 +188,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-14T09:51:20+09:00",
+      "first_seen": "2026-10-14T12:39:50+09:00",
       "new": true
     },
     {
