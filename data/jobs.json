@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:39:50+09:00",
+  "updated_at": "2026-10-14T15:50:34+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,18 +8,18 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 2
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 5
     },
     "알바몬": {
       "ok": false,
@@ -101,21 +101,6 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147513656&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-10-14T09:51:20+09:00",
-      "new": true
-    },
-    {
-      "company": "회사명 확인",
-      "title": "(주)국제시스템 채용정보 : 광주콘서트 보안/안전요원 모집 - 알바천국",
-      "location": "근무지 확인",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147467713&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-10-14T12:39:50+09:00",
       "new": true
     },
     {
