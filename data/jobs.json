@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T09:49:08+09:00",
+  "updated_at": "2026-10-15T12:39:59+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 5
     },
     "알바몬": {
       "ok": false,
@@ -119,6 +119,36 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "(주) 프로에스콤",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-03",
+      "posted": "2026-10-14",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147534886&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-15T12:39:59+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-03",
+      "posted": "2026-10-14",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147535326&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-15T12:39:59+09:00",
+      "new": true
+    },
+    {
       "company": "㈜아스타아이비에스",
       "title": "[여의도 에스트레뉴 빌딩]보안사원/3교대/연차/퇴직금별도.",
       "location": "서울 영등포구 국제금융로2길 37 (여의도동, S-TRENUE)",
@@ -128,9 +158,9 @@
       "posted": "2026-10-12",
       "source": "잡코리아",
       "type": "보안/경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50142828?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50142828?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-15T09:49:08+09:00",
+      "first_seen": "2026-10-15T12:39:59+09:00",
       "new": true
     },
     {
