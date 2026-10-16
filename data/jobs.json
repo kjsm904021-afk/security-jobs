@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T00:39:53+09:00",
+  "updated_at": "2026-10-17T03:44:44+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 1
+      "found": 2
     },
     "알바천국": {
       "ok": true,
@@ -86,6 +86,21 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140001819&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-10-16T21:50:37+09:00",
+      "new": true
+    },
+    {
+      "company": "쓰리맥스",
+      "title": "경비직",
+      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-13",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-17T03:44:44+09:00",
       "new": true
     },
     {
