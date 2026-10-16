@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T15:49:48+09:00",
+  "updated_at": "2026-10-16T18:40:05+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 2
     },
     "알바몬": {
       "ok": false,
@@ -192,21 +192,6 @@
       "commute": "△",
       "first_seen": "2026-10-16T00:43:38+09:00",
       "new": true
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "인천공항 화물터미널 특수경비보안요원 모집",
-      "location": "인천광역시 영종구 공항동로295번길 77-65 화물터미널",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-27",
-      "posted": "2026-10-14",
-      "source": "알바천국",
-      "type": "특수경비",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147529375&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-14T09:51:20+09:00",
-      "new": false
     },
     {
       "company": "월드유니텍㈜",
