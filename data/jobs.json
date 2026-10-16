@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T18:40:05+09:00",
+  "updated_at": "2026-10-16T21:50:37+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 1
+      "found": 2
     },
     "알바천국": {
       "ok": true,
@@ -72,6 +72,21 @@
       "commute": "◎",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
+    },
+    {
+      "company": "부산세광식품",
+      "title": "야간경비모집",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산업중로 381 (송정동)",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-14",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140001819&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-16T21:50:37+09:00",
+      "new": true
     },
     {
       "company": "쓰리맥스",
