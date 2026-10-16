@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:50:37+09:00",
+  "updated_at": "2026-10-17T00:39:53+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 1
     },
     "알바천국": {
       "ok": true,
@@ -89,21 +89,6 @@
       "new": true
     },
     {
-      "company": "쓰리맥스",
-      "title": "경비직",
-      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-13",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-16T15:49:48+09:00",
-      "new": true
-    },
-    {
       "company": "회사명 확인",
       "title": "서한통산 채용정보 : 농협은행 대구중동금융센터 경비 대직자 구인 10/21~23 경비이수증 필수 - 알바천국",
       "location": "근무지 확인",
@@ -112,7 +97,7 @@
       "deadline": "공고 확인",
       "posted": "",
       "source": "알바천국",
-      "type": "경호",
+      "type": "공항 보안검색",
       "url": "https://www.alba.co.kr/job/Detail?adid=147513656&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-10-14T09:51:20+09:00",
@@ -143,9 +128,9 @@
       "posted": "2026-10-12",
       "source": "잡코리아",
       "type": "보안/경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50142828?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50142828?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-15T12:39:59+09:00",
+      "first_seen": "2026-10-17T00:39:53+09:00",
       "new": true
     },
     {
