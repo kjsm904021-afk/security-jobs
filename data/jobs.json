@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T09:49:09+09:00",
+  "updated_at": "2026-10-16T12:40:28+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -101,7 +101,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147513656&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-10-14T09:51:20+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "일진디앤코",
@@ -206,7 +206,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147529375&listmenucd=SEARCH",
       "commute": "△",
       "first_seen": "2026-10-14T09:51:20+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "월드유니텍㈜",
