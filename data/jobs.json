@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T03:44:44+09:00",
+  "updated_at": "2026-10-17T06:38:24+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 3
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 2
+      "found": 4
     },
     "알바몬": {
       "ok": false,
@@ -74,6 +74,36 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "(주) 더맨",
+      "title": "롯데제타스마트센터 보안사원 모집",
+      "location": "부산 강서구 미음산단로 320 롯데제타스마트센터 1층 보안실",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-05",
+      "posted": "2026-10-16",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147586418&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-17T06:38:24+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 더맨",
+      "title": "롯데제타스마트센터 보안사원 모집",
+      "location": "부산 강서구 미음산단로 320 롯데제타스마트센터 1층 보안실",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-05",
+      "posted": "2026-10-16",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147586410&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-17T06:38:24+09:00",
+      "new": true
+    },
+    {
       "company": "부산세광식품",
       "title": "야간경비모집",
       "location": "부산광역시 강서구 부산광역시 강서구 녹산산업중로 381 (송정동)",
@@ -105,18 +135,18 @@
     },
     {
       "company": "회사명 확인",
-      "title": "서한통산 채용정보 : 농협은행 대구중동금융센터 경비 대직자 구인 10/21~23 경비이수증 필수 - 알바천국",
+      "title": "(주)국제시스템 채용정보 : 광주콘서트 보안/안전요원 모집 - 알바천국",
       "location": "근무지 확인",
-      "shift": "3조2교대",
+      "shift": "12:00~22:00 / 12:00~22:00",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
       "source": "알바천국",
-      "type": "공항 보안검색",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147513656&listmenucd=SEARCH",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147467713&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-10-14T09:51:20+09:00",
-      "new": false
+      "first_seen": "2026-10-17T06:38:24+09:00",
+      "new": true
     },
     {
       "company": "일진디앤코",
@@ -132,6 +162,21 @@
       "commute": "○",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
+    },
+    {
+      "company": "아이클라우드",
+      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-05",
+      "posted": "2026-10-06",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-17T06:38:24+09:00",
+      "new": true
     },
     {
       "company": "㈜아스타아이비에스",
