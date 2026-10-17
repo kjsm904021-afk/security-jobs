@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T00:35:52+09:00",
+  "updated_at": "2026-10-18T03:38:16+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -12,9 +12,9 @@
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 1
     },
     "알바천국": {
       "ok": true,
@@ -164,21 +164,6 @@
       "new": true
     },
     {
-      "company": "맨하탄빌딩관리단",
-      "title": "경비원 구인",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-31",
-      "posted": "2026-10-16",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-17T18:37:37+09:00",
-      "new": true
-    },
-    {
       "company": "유니에스시큐리티",
       "title": "김포공항 대한항공 화물보안검색",
       "location": "김포공항 화물청사",
@@ -266,7 +251,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147286652&listmenucd=SEARCH",
       "commute": "△",
       "first_seen": "2026-10-16T00:43:38+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "월드유니텍㈜",
