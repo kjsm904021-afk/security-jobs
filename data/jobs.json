@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-17T21:42:43+09:00",
+  "updated_at": "2026-10-18T00:35:52+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 4
+      "found": 6
     },
     "사람인": {
       "ok": false,
@@ -12,9 +12,9 @@
       "found": 0
     },
     "인크루트": {
-      "ok": true,
+      "ok": false,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 0
     },
     "알바천국": {
       "ok": true,
@@ -120,33 +120,33 @@
     },
     {
       "company": "회사명 확인",
-      "title": "(주)국제시스템 채용정보 : 광주콘서트 보안/안전요원 모집 - 알바천국",
+      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
       "location": "근무지 확인",
-      "shift": "12:00~22:00 / 12:00~22:00",
+      "shift": "야간",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147467713&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147546120&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-10-17T06:38:24+09:00",
+      "first_seen": "2026-10-18T00:35:52+09:00",
       "new": true
     },
     {
-      "company": "일진디앤코",
-      "title": "마곡 FM 보안사원",
-      "location": "서울 강서구 마곡나루역 300m",
-      "shift": "08:00~18:00",
-      "salary": "면접 후 결정",
-      "deadline": "2026-10-17",
-      "posted": "",
-      "source": "사람인",
-      "type": "시설보안",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=55059734",
+      "company": "코가스보안관리",
+      "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[인천기지]",
+      "location": "인천 연수구 인천신항대로 960 (송도동) 한국가스공사 인천기지본부",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-22",
+      "posted": "2026-10-15",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50172139?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
-      "new": false,
-      "first_seen": "2026-10-13T01:10:00+09:00"
+      "first_seen": "2026-10-18T00:35:52+09:00",
+      "new": true
     },
     {
       "company": "(주)프로에스콤",
@@ -179,21 +179,6 @@
       "new": true
     },
     {
-      "company": "㈜아스타아이비에스",
-      "title": "[여의도 에스트레뉴 빌딩]보안사원/3교대/연차/퇴직금별도.",
-      "location": "서울 영등포구 국제금융로2길 37 (여의도동, S-TRENUE)",
-      "shift": "교대",
-      "salary": "공고 확인",
-      "deadline": "2026-11-11",
-      "posted": "2026-10-12",
-      "source": "잡코리아",
-      "type": "보안/경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50142828?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
-      "commute": "○",
-      "first_seen": "2026-10-17T00:39:53+09:00",
-      "new": true
-    },
-    {
       "company": "유니에스시큐리티",
       "title": "김포공항 대한항공 화물보안검색",
       "location": "김포공항 화물청사",
@@ -218,9 +203,39 @@
       "posted": "2026-08-19",
       "source": "잡코리아",
       "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49812534?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "commute": "○",
+      "first_seen": "2026-10-18T00:35:52+09:00",
+      "new": true
+    },
+    {
+      "company": "㈜삼구아이앤씨",
+      "title": "[삼구아이앤씨] 대한송유관공사 고양저유소 특수경비대원 모집 (특수경비 이수증 필수/고양소재)",
+      "location": "경기 고양시 덕양구 중앙로 323 (화전동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2027-08-18",
+      "posted": "2026-08-19",
+      "source": "잡코리아",
+      "type": "특수경비",
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49812534?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "○",
       "first_seen": "2026-10-16T09:49:09+09:00",
+      "new": true
+    },
+    {
+      "company": "㈜삼구아이앤씨",
+      "title": "[삼구아이앤씨] 대한송유관공사 고양저유소 특수경비대원 모집 (특수경비 이수증 필수/고양소재)",
+      "location": "경기 고양시 덕양구 중앙로 323 (화전동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2027-10-01",
+      "posted": "2026-10-02",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
+      "commute": "○",
+      "first_seen": "2026-10-18T00:35:52+09:00",
       "new": true
     },
     {
