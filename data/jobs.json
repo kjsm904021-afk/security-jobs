@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T12:37:59+09:00",
+  "updated_at": "2026-10-17T15:45:08+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 2
     },
     "알바천국": {
       "ok": true,
@@ -176,36 +176,6 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147356849&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-10-17T09:50:26+09:00",
-      "new": true
-    },
-    {
-      "company": "맨하탄빌딩관리단",
-      "title": "경비원 구인",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-31",
-      "posted": "2026-10-16",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-17T09:50:26+09:00",
-      "new": true
-    },
-    {
-      "company": "아이클라우드",
-      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-05",
-      "posted": "2026-10-06",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-17T12:37:59+09:00",
       "new": true
     },
     {
