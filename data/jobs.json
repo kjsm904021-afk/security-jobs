@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T09:50:44+09:00",
+  "updated_at": "2026-10-18T12:38:02+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -12,14 +12,14 @@
       "found": 0
     },
     "인크루트": {
-      "ok": true,
+      "ok": false,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 0
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 1
+      "found": 2
     },
     "알바몬": {
       "ok": false,
@@ -86,6 +86,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50172139?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
       "first_seen": "2026-10-18T00:35:52+09:00",
+      "new": true
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[당비비/월280만/ 인천 현대면세점 통합물류센터] 보안사원 채용",
+      "location": "인천 중구 자유무역로 135 현대면세점 통합물류센터",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-26",
+      "posted": "2026-10-06",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147356849&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-18T12:38:02+09:00",
       "new": true
     },
     {
