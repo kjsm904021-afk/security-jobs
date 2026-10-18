@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T15:44:39+09:00",
+  "updated_at": "2026-10-18T18:37:29+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,13 +8,13 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
-      "ok": true,
+      "ok": false,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 3
+      "found": 0
     },
     "알바천국": {
       "ok": true,
