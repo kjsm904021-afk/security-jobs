@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T03:38:45+09:00",
+  "updated_at": "2026-10-19T06:36:11+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,18 +8,18 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 1
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 2
+      "found": 6
     },
     "알바몬": {
       "ok": false,
@@ -74,6 +74,21 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "(주)에스텍시스템",
+      "title": "삼성전기 부산 사업장 보안요원 모집 (에스텍 시스템)",
+      "location": "부산 강서구 녹산산업중로 333 삼성전기부산",
+      "shift": "07:00~18:00 / 07:00 ~ 18:00",
+      "salary": "공고 확인",
+      "deadline": "2026-10-31",
+      "posted": "2026-10-18",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147625723&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-19T06:36:11+09:00",
+      "new": true
+    },
+    {
       "company": "코가스보안관리",
       "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[인천기지]",
       "location": "인천 연수구 인천신항대로 960 (송도동) 한국가스공사 인천기지본부",
@@ -119,33 +134,33 @@
       "new": true
     },
     {
-      "company": "맨하탄빌딩관리단",
-      "title": "경비원 구인",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
+      "company": "에이셋",
+      "title": "[에이셋] 프리랜서 경호/경비 인력 모집.",
+      "location": "서울 영등포구 양평로 157 (선유도 투웨니퍼스트밸리)(근무지X/사무실)",
       "shift": "공고 확인",
       "salary": "공고 확인",
       "deadline": "2026-10-31",
-      "posted": "2026-10-16",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
+      "posted": "2026-10-18",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147624083&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-10-18T06:35:53+09:00",
+      "first_seen": "2026-10-19T06:36:11+09:00",
       "new": true
     },
     {
-      "company": "링크앤스카우트",
-      "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
+      "company": "아이클라우드",
+      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-11-10",
-      "posted": "2026-10-14",
+      "deadline": "2026-11-05",
+      "posted": "2026-10-06",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-10-19T03:38:45+09:00",
+      "first_seen": "2026-10-19T06:36:11+09:00",
       "new": true
     },
     {
@@ -207,6 +222,36 @@
       "commute": "○",
       "first_seen": "2026-10-16T09:49:09+09:00",
       "new": false
+    },
+    {
+      "company": "회사명 확인",
+      "title": "(주)BTS 롯데백화점 부산본점사업소 채용정보 : 롯데백화점 부산본점 (서면) 안전보안원 (주간) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147615909&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-19T06:36:11+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "주식회사 세진쉴더스 채용정보 : [숙소제공]범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "09:00 ~ 18:00",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147616506&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-19T06:36:11+09:00",
+      "new": true
     },
     {
       "company": "(주)프로에스콤",
