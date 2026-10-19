@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T06:36:11+09:00",
+  "updated_at": "2026-10-19T09:52:01+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 1
+      "found": 2
     },
     "알바천국": {
       "ok": true,
@@ -89,6 +89,21 @@
       "new": true
     },
     {
+      "company": "회사명 확인",
+      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147546120&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-19T09:52:01+09:00",
+      "new": true
+    },
+    {
       "company": "코가스보안관리",
       "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[인천기지]",
       "location": "인천 연수구 인천신항대로 960 (송도동) 한국가스공사 인천기지본부",
@@ -119,18 +134,18 @@
       "new": true
     },
     {
-      "company": "(주)프로에스콤",
-      "title": "[당비비/월280만/ 인천 현대면세점 통합물류센터] 보안사원 채용",
-      "location": "인천 중구 자유무역로 135 현대면세점 통합물류센터",
+      "company": "맨하탄빌딩관리단",
+      "title": "경비원 구인",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-10-26",
-      "posted": "2026-10-06",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147356849&listmenucd=SEARCH",
+      "deadline": "2026-10-31",
+      "posted": "2026-10-16",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-10-18T12:38:02+09:00",
+      "first_seen": "2026-10-19T09:52:01+09:00",
       "new": true
     },
     {
