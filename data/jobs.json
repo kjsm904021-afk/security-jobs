@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T03:48:26+09:00",
+  "updated_at": "2026-10-20T06:39:39+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -12,14 +12,14 @@
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 4
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 4
     },
     "알바몬": {
       "ok": false,
@@ -74,33 +74,63 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "(주)에스텍시스템",
-      "title": "삼성전기 부산 사업장 보안요원 모집 (에스텍 시스템)",
-      "location": "부산 강서구 녹산산업중로 333 삼성전기부산",
-      "shift": "07:00~18:00 / 07:00 ~ 18:00",
+      "company": "동산아이엔스",
+      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-10-31",
-      "posted": "2026-10-18",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147625723&listmenucd=SEARCH",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-19",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
       "commute": "◎",
-      "first_seen": "2026-10-19T06:36:11+09:00",
+      "first_seen": "2026-10-20T06:39:39+09:00",
       "new": true
     },
     {
-      "company": "회사명 확인",
-      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
-      "location": "근무지 확인",
+      "company": "(주) 더맨",
+      "title": "롯데제타스마트센터 보안사원 모집",
+      "location": "부산 강서구 미음산단로 320 롯데제타스마트센터 1층 보안실",
       "shift": "야간",
       "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
+      "deadline": "2026-11-08",
+      "posted": "2026-10-19",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147546120&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147628140&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-10-19T09:52:01+09:00",
+      "first_seen": "2026-10-20T06:39:39+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 더맨",
+      "title": "롯데제타스마트센터 보안사원 모집",
+      "location": "부산 강서구 미음산단로 320 롯데제타스마트센터 1층 보안실",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-08",
+      "posted": "2026-10-19",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147628138&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-20T06:39:39+09:00",
+      "new": true
+    },
+    {
+      "company": "쓰리맥스",
+      "title": "경비직",
+      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-13",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-20T06:39:39+09:00",
       "new": true
     },
     {
@@ -116,6 +146,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50172139?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "○",
       "first_seen": "2026-10-19T00:35:48+09:00",
+      "new": true
+    },
+    {
+      "company": "맨하탄빌딩관리단",
+      "title": "경비원 구인",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-31",
+      "posted": "2026-10-16",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-20T06:39:39+09:00",
       "new": true
     },
     {
@@ -173,9 +218,9 @@
       "posted": "2026-10-19",
       "source": "잡코리아",
       "type": "보안/경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50194339?Oem_Code=C1&logpath=1&stext=%EB%B3%B4%EC%95%88&listno=1&sc=552&traceId=ba6014ec6e11853d10082ce8e2d22fd5",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50194339?Oem_Code=C1&logpath=1&stext=%EB%B3%B4%EC%95%88&listno=3&sc=551&traceId=4665574594a3135f8050d83f75a793b0",
       "commute": "○",
-      "first_seen": "2026-10-20T03:48:26+09:00",
+      "first_seen": "2026-10-20T06:39:39+09:00",
       "new": true
     },
     {
@@ -203,9 +248,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-20T03:48:26+09:00",
+      "first_seen": "2026-10-20T06:39:39+09:00",
       "new": true
     },
     {
@@ -225,21 +270,6 @@
     },
     {
       "company": "회사명 확인",
-      "title": "(주)BTS 롯데백화점 부산본점사업소 채용정보 : 롯데백화점 부산본점 (서면) 안전보안원 (주간) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147615909&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-19T06:36:11+09:00",
-      "new": true
-    },
-    {
-      "company": "회사명 확인",
       "title": "주식회사 세진쉴더스 채용정보 : [숙소제공]범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
       "location": "근무지 확인",
       "shift": "09:00 ~ 18:00",
@@ -252,21 +282,6 @@
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
       "new": true
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
-      "location": "인천 중구 공항로 272 인천국제공항 제1여객터미널 2021호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-22",
-      "posted": "2026-10-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147286652&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-16T00:43:38+09:00",
-      "new": false
     },
     {
       "company": "월드유니텍㈜",
