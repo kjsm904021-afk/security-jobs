@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-19T09:52:01+09:00",
+  "updated_at": "2026-10-19T12:41:37+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 8
     },
     "사람인": {
       "ok": false,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -86,6 +86,21 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147625723&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-10-19T06:36:11+09:00",
+      "new": true
+    },
+    {
+      "company": "부산세광식품",
+      "title": "야간경비모집",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산업중로 381 (송정동)",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-14",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140001819&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-19T12:41:37+09:00",
       "new": true
     },
     {
@@ -192,6 +207,36 @@
       "commute": "○",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
+    },
+    {
+      "company": "㈜심플러스",
+      "title": "보안솔루션 기술지원 엔지니어 모집합니다.",
+      "location": "서울 영등포구 선유로49길 23 (양평동4가) 선유도역2차 아이에스비즈타워 411호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-18",
+      "posted": "2026-10-19",
+      "source": "잡코리아",
+      "type": "보안/경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50194339?Oem_Code=C1&logpath=1&stext=%EB%B3%B4%EC%95%88&listno=1&sc=551&traceId=f8ab75bf49666accdc73fddb921a0845",
+      "commute": "○",
+      "first_seen": "2026-10-19T12:41:37+09:00",
+      "new": true
+    },
+    {
+      "company": "㈜심플러스",
+      "title": "보안솔루션 기술지원 엔지니어 모집합니다.",
+      "location": "서울 영등포구 선유로49길 23 (양평동4가) 선유도역2차 아이에스비즈타워 411호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-18",
+      "posted": "2026-10-19",
+      "source": "잡코리아",
+      "type": "보안/경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50194339?Oem_Code=C1&logpath=1&stext=%EB%B3%B4%EC%95%88&listno=1&sc=808",
+      "commute": "○",
+      "first_seen": "2026-10-19T12:41:37+09:00",
+      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
