@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-19T12:41:37+09:00",
+  "updated_at": "2026-10-19T15:53:10+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 8
+      "found": 7
     },
     "사람인": {
       "ok": false,
@@ -104,6 +104,21 @@
       "new": true
     },
     {
+      "company": "쓰리맥스",
+      "title": "경비직",
+      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-13",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-19T15:53:10+09:00",
+      "new": true
+    },
+    {
       "company": "회사명 확인",
       "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
       "location": "근무지 확인",
@@ -128,9 +143,9 @@
       "posted": "2026-10-15",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50172139?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50172139?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-19T00:35:48+09:00",
+      "first_seen": "2026-10-19T15:53:10+09:00",
       "new": true
     },
     {
@@ -146,21 +161,6 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50172139?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "○",
       "first_seen": "2026-10-19T00:35:48+09:00",
-      "new": true
-    },
-    {
-      "company": "맨하탄빌딩관리단",
-      "title": "경비원 구인",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-31",
-      "posted": "2026-10-16",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-19T09:52:01+09:00",
       "new": true
     },
     {
@@ -218,21 +218,6 @@
       "posted": "2026-10-19",
       "source": "잡코리아",
       "type": "보안/경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50194339?Oem_Code=C1&logpath=1&stext=%EB%B3%B4%EC%95%88&listno=1&sc=551&traceId=f8ab75bf49666accdc73fddb921a0845",
-      "commute": "○",
-      "first_seen": "2026-10-19T12:41:37+09:00",
-      "new": true
-    },
-    {
-      "company": "㈜심플러스",
-      "title": "보안솔루션 기술지원 엔지니어 모집합니다.",
-      "location": "서울 영등포구 선유로49길 23 (양평동4가) 선유도역2차 아이에스비즈타워 411호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-18",
-      "posted": "2026-10-19",
-      "source": "잡코리아",
-      "type": "보안/경비",
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50194339?Oem_Code=C1&logpath=1&stext=%EB%B3%B4%EC%95%88&listno=1&sc=808",
       "commute": "○",
       "first_seen": "2026-10-19T12:41:37+09:00",
@@ -248,9 +233,9 @@
       "posted": "2026-09-17",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50007276?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50007276?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-19T00:35:48+09:00",
+      "first_seen": "2026-10-19T15:53:10+09:00",
       "new": true
     },
     {
@@ -263,9 +248,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-19T00:35:48+09:00",
+      "first_seen": "2026-10-19T15:53:10+09:00",
       "new": true
     },
     {
