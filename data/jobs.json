@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T03:45:12+09:00",
+  "updated_at": "2026-10-21T06:40:16+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,18 +8,18 @@
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 1
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 5
+      "found": 6
     },
     "알바몬": {
       "ok": false,
@@ -74,36 +74,6 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "(주) 더맨",
-      "title": "롯데제타스마트센터 보안사원 모집",
-      "location": "부산 강서구 미음산단로 320 롯데제타스마트센터 1층 보안실",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-08",
-      "posted": "2026-10-19",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147628140&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-10-20T06:39:39+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 더맨",
-      "title": "롯데제타스마트센터 보안사원 모집",
-      "location": "부산 강서구 미음산단로 320 롯데제타스마트센터 1층 보안실",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-08",
-      "posted": "2026-10-19",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147628138&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-10-20T06:39:39+09:00",
-      "new": true
-    },
-    {
       "company": "코가스보안관리",
       "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[인천기지]",
       "location": "인천 연수구 인천신항대로 960 (송도동) 한국가스공사 인천기지본부",
@@ -131,7 +101,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147624083&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "아이클라우드",
@@ -146,6 +116,51 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-21T00:41:21+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[중장년층우대] 금융투자협회 보안사원 모집",
+      "location": "서울 영등포구 의사당대로 143 (금투센터)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-09",
+      "posted": "2026-10-20",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147670998&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-21T06:40:16+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[중장년층우대] 금융투자협회 보안사원 모집",
+      "location": "서울 영등포구 의사당대로 143 (금투센터)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-09",
+      "posted": "2026-10-20",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147670842&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-21T06:40:16+09:00",
+      "new": true
+    },
+    {
+      "company": "프로에스콤",
+      "title": "[쿠팡 인천 BRF센터/월271만] CCTV 및 보안 시스템 운용 담당자",
+      "location": "인천 서해구 북항로120번길 55 쿠팡 인천 BRF 센터",
+      "shift": "3조2교대",
+      "salary": "공고 확인",
+      "deadline": "2026-11-09",
+      "posted": "2026-10-20",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147656552&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-21T06:40:16+09:00",
       "new": true
     },
     {
@@ -191,7 +206,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147616506&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "(주)프로에스콤",
