@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T15:48:08+09:00",
+  "updated_at": "2026-10-20T18:40:09+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 1
     },
     "알바천국": {
       "ok": true,
@@ -74,6 +74,21 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "동산아이엔스",
+      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-19",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-20T18:40:09+09:00",
+      "new": true
+    },
+    {
       "company": "(주) 더맨",
       "title": "롯데제타스마트센터 보안사원 모집",
       "location": "부산 강서구 미음산단로 320 롯데제타스마트센터 1층 보안실",
@@ -104,36 +119,6 @@
       "new": true
     },
     {
-      "company": "부산세광식품",
-      "title": "야간경비모집",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산업중로 381 (송정동)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-14",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140001819&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-20T15:48:08+09:00",
-      "new": true
-    },
-    {
-      "company": "쓰리맥스",
-      "title": "경비직",
-      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-13",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-20T15:48:08+09:00",
-      "new": true
-    },
-    {
       "company": "코가스보안관리",
       "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[인천기지]",
       "location": "인천 연수구 인천신항대로 960 (송도동) 한국가스공사 인천기지본부",
@@ -149,21 +134,6 @@
       "new": true
     },
     {
-      "company": "맨하탄빌딩관리단",
-      "title": "경비원 구인",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-31",
-      "posted": "2026-10-16",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-20T15:48:08+09:00",
-      "new": true
-    },
-    {
       "company": "에이셋",
       "title": "[에이셋] 프리랜서 경호/경비 인력 모집.",
       "location": "서울 영등포구 양평로 157 (선유도 투웨니퍼스트밸리)(근무지X/사무실)",
@@ -174,21 +144,6 @@
       "source": "알바천국",
       "type": "경호",
       "url": "https://www.alba.co.kr/job/Detail?adid=147624083&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-19T06:36:11+09:00",
-      "new": true
-    },
-    {
-      "company": "아이클라우드",
-      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-05",
-      "posted": "2026-10-06",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
       "new": true
