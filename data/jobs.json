@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T03:46:17+09:00",
+  "updated_at": "2026-10-22T06:41:38+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 4
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 2
     },
     "알바몬": {
       "ok": false,
@@ -74,6 +74,36 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "동산아이엔스",
+      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-19",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-22T06:41:38+09:00",
+      "new": true
+    },
+    {
+      "company": "쓰리맥스",
+      "title": "경비직",
+      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-13",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-22T06:41:38+09:00",
+      "new": true
+    },
+    {
       "company": "맨하탄빌딩관리단",
       "title": "경비원 구인",
       "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
@@ -116,21 +146,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-21T18:41:16+09:00",
-      "new": true
-    },
-    {
-      "company": "프로에스콤",
-      "title": "[쿠팡 인천 BRF센터/월271만] CCTV 및 보안 시스템 운용 담당자",
-      "location": "인천 서해구 북항로120번길 55 쿠팡 인천 BRF 센터",
-      "shift": "3조2교대",
-      "salary": "공고 확인",
-      "deadline": "2026-11-09",
-      "posted": "2026-10-20",
-      "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147656552&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-22T00:43:17+09:00",
       "new": true
     },
     {
