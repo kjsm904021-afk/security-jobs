@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T12:40:44+09:00",
+  "updated_at": "2026-10-21T15:49:24+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 2
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 4
     },
     "알바몬": {
       "ok": false,
@@ -89,21 +89,6 @@
       "new": true
     },
     {
-      "company": "쓰리맥스",
-      "title": "경비직",
-      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-13",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-21T12:40:44+09:00",
-      "new": true
-    },
-    {
       "company": "코가스보안관리",
       "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[인천기지]",
       "location": "인천 연수구 인천신항대로 960 (송도동) 한국가스공사 인천기지본부",
@@ -147,21 +132,6 @@
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
       "new": false
-    },
-    {
-      "company": "아이클라우드",
-      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-05",
-      "posted": "2026-10-06",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-21T00:41:21+09:00",
-      "new": true
     },
     {
       "company": "프로에스콤",
@@ -222,6 +192,21 @@
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
       "new": false
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
+      "location": "인천 중구 공항로 272 인천국제공항 제1여객터미널 2021호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-22",
+      "posted": "2026-10-02",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147286652&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-10-21T15:49:24+09:00",
+      "new": true
     },
     {
       "company": "월드유니텍㈜",
