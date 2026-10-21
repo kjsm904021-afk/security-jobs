@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T06:40:16+09:00",
+  "updated_at": "2026-10-21T09:51:16+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,18 +8,18 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 1
+      "found": 3
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -74,6 +74,21 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "부산세광식품",
+      "title": "야간경비모집",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산업중로 381 (송정동)",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-14",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140001819&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-21T09:51:16+09:00",
+      "new": true
+    },
+    {
       "company": "코가스보안관리",
       "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[인천기지]",
       "location": "인천 연수구 인천신항대로 960 (송도동) 한국가스공사 인천기지본부",
@@ -87,6 +102,21 @@
       "commute": "○",
       "first_seen": "2026-10-19T00:35:48+09:00",
       "new": false
+    },
+    {
+      "company": "맨하탄빌딩관리단",
+      "title": "경비원 구인",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-31",
+      "posted": "2026-10-16",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-21T09:51:16+09:00",
+      "new": true
     },
     {
       "company": "에이셋",
@@ -116,36 +146,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-21T00:41:21+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[중장년층우대] 금융투자협회 보안사원 모집",
-      "location": "서울 영등포구 의사당대로 143 (금투센터)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-09",
-      "posted": "2026-10-20",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147670998&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-21T06:40:16+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[중장년층우대] 금융투자협회 보안사원 모집",
-      "location": "서울 영등포구 의사당대로 143 (금투센터)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-09",
-      "posted": "2026-10-20",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147670842&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-21T06:40:16+09:00",
       "new": true
     },
     {
@@ -207,21 +207,6 @@
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
       "new": false
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
-      "location": "인천 중구 공항로 272 인천국제공항 제1여객터미널 2021호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-22",
-      "posted": "2026-10-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147286652&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-21T00:41:21+09:00",
-      "new": true
     },
     {
       "company": "월드유니텍㈜",
