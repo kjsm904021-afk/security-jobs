@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T15:49:24+09:00",
+  "updated_at": "2026-10-21T18:41:16+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 3
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 4
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -74,18 +74,18 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "동산아이엔스",
-      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
-      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
-      "shift": "공고 확인",
+      "company": "부산세광식품",
+      "title": "야간경비모집",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산업중로 381 (송정동)",
+      "shift": "야간",
       "salary": "공고 확인",
-      "deadline": "2026-11-06",
-      "posted": "2026-10-19",
+      "deadline": "공고 확인",
+      "posted": "2026-10-14",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140001819&src=etc*search",
       "commute": "◎",
-      "first_seen": "2026-10-21T12:40:44+09:00",
+      "first_seen": "2026-10-21T18:41:16+09:00",
       "new": true
     },
     {
@@ -132,6 +132,21 @@
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
       "new": false
+    },
+    {
+      "company": "아이클라우드",
+      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-05",
+      "posted": "2026-10-06",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-21T18:41:16+09:00",
+      "new": true
     },
     {
       "company": "프로에스콤",
@@ -192,21 +207,6 @@
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
       "new": false
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
-      "location": "인천 중구 공항로 272 인천국제공항 제1여객터미널 2021호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-22",
-      "posted": "2026-10-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147286652&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-21T15:49:24+09:00",
-      "new": true
     },
     {
       "company": "월드유니텍㈜",
