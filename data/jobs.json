@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T09:51:16+09:00",
+  "updated_at": "2026-10-21T12:40:44+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 3
+      "found": 4
     },
     "알바천국": {
       "ok": true,
@@ -74,18 +74,33 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "부산세광식품",
-      "title": "야간경비모집",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산업중로 381 (송정동)",
-      "shift": "야간",
+      "company": "동산아이엔스",
+      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-14",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-19",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140001819&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
       "commute": "◎",
-      "first_seen": "2026-10-21T09:51:16+09:00",
+      "first_seen": "2026-10-21T12:40:44+09:00",
+      "new": true
+    },
+    {
+      "company": "쓰리맥스",
+      "title": "경비직",
+      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-13",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-21T12:40:44+09:00",
       "new": true
     },
     {
