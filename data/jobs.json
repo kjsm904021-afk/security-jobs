@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-22T00:43:17+09:00",
+  "updated_at": "2026-10-22T03:46:17+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 2
     },
     "사람인": {
       "ok": false,
@@ -74,34 +74,19 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "동산아이엔스",
-      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
-      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "company": "맨하탄빌딩관리단",
+      "title": "경비원 구인",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-11-06",
-      "posted": "2026-10-19",
+      "deadline": "2026-10-31",
+      "posted": "2026-10-16",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-21T21:49:47+09:00",
-      "new": true
-    },
-    {
-      "company": "코가스보안관리",
-      "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[인천기지]",
-      "location": "인천 연수구 인천신항대로 960 (송도동) 한국가스공사 인천기지본부",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-22",
-      "posted": "2026-10-15",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50172139?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-10-19T00:35:48+09:00",
-      "new": false
+      "first_seen": "2026-10-22T03:46:17+09:00",
+      "new": true
     },
     {
       "company": "에이셋",
