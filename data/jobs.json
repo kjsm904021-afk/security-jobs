@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21T21:49:47+09:00",
+  "updated_at": "2026-10-22T00:43:17+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 5
+      "found": 2
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 4
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -89,36 +89,6 @@
       "new": true
     },
     {
-      "company": "부산세광식품",
-      "title": "야간경비모집",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산업중로 381 (송정동)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-14",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140001819&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-21T18:41:16+09:00",
-      "new": true
-    },
-    {
-      "company": "쓰리맥스",
-      "title": "경비직",
-      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-13",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-21T21:49:47+09:00",
-      "new": true
-    },
-    {
       "company": "코가스보안관리",
       "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[인천기지]",
       "location": "인천 연수구 인천신항대로 960 (송도동) 한국가스공사 인천기지본부",
@@ -132,21 +102,6 @@
       "commute": "○",
       "first_seen": "2026-10-19T00:35:48+09:00",
       "new": false
-    },
-    {
-      "company": "맨하탄빌딩관리단",
-      "title": "경비원 구인",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-31",
-      "posted": "2026-10-16",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-21T09:51:16+09:00",
-      "new": true
     },
     {
       "company": "에이셋",
@@ -179,33 +134,18 @@
       "new": true
     },
     {
-      "company": "(주) 프로에스콤",
-      "title": "[중장년층우대] 금융투자협회 보안사원 모집",
-      "location": "서울 영등포구 의사당대로 143 (금투센터)",
-      "shift": "공고 확인",
+      "company": "프로에스콤",
+      "title": "[쿠팡 인천 BRF센터/월271만] CCTV 및 보안 시스템 운용 담당자",
+      "location": "인천 서해구 북항로120번길 55 쿠팡 인천 BRF 센터",
+      "shift": "3조2교대",
       "salary": "공고 확인",
       "deadline": "2026-11-09",
       "posted": "2026-10-20",
       "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147670998&listmenucd=SEARCH",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147656552&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-10-21T21:49:47+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[중장년층우대] 금융투자협회 보안사원 모집",
-      "location": "서울 영등포구 의사당대로 143 (금투센터)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-09",
-      "posted": "2026-10-20",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147670842&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-21T21:49:47+09:00",
+      "first_seen": "2026-10-22T00:43:17+09:00",
       "new": true
     },
     {
