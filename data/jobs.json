@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T09:51:28+09:00",
+  "updated_at": "2026-10-22T12:40:46+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 4
     },
     "알바몬": {
       "ok": false,
@@ -116,6 +116,21 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-21T18:41:16+09:00",
+      "new": true
+    },
+    {
+      "company": "주원지엘에스(주)",
+      "title": "[급구] 480+a/생활물류 수거배송/야간근무/단순수거",
+      "location": "경기 김포시 사우중로 88 (센터권역)",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-11",
+      "posted": "2026-10-22",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147700066&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-22T12:40:46+09:00",
       "new": true
     },
     {
