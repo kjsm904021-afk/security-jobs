@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T06:41:38+09:00",
+  "updated_at": "2026-10-22T09:51:28+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 2
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 2
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -86,36 +86,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-10-22T06:41:38+09:00",
-      "new": true
-    },
-    {
-      "company": "쓰리맥스",
-      "title": "경비직",
-      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-13",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-22T06:41:38+09:00",
-      "new": true
-    },
-    {
-      "company": "맨하탄빌딩관리단",
-      "title": "경비원 구인",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-31",
-      "posted": "2026-10-16",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-22T03:46:17+09:00",
       "new": true
     },
     {
@@ -192,6 +162,21 @@
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
       "new": false
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
+      "location": "인천 중구 공항로 272 인천국제공항 제1여객터미널 2021호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-22",
+      "posted": "2026-10-02",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147286652&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-10-22T09:51:28+09:00",
+      "new": true
     },
     {
       "company": "월드유니텍㈜",
