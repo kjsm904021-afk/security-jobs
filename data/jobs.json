@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T00:42:17+09:00",
+  "updated_at": "2026-10-23T03:46:00+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,7 +8,7 @@
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
