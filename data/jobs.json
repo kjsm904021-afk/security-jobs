@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T03:46:00+09:00",
+  "updated_at": "2026-10-23T06:38:34+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,18 +8,18 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 5
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 5
     },
     "알바몬": {
       "ok": false,
@@ -89,19 +89,49 @@
       "new": true
     },
     {
-      "company": "에이셋",
-      "title": "[에이셋] 프리랜서 경호/경비 인력 모집.",
-      "location": "서울 영등포구 양평로 157 (선유도 투웨니퍼스트밸리)(근무지X/사무실)",
+      "company": "광명잉크제조",
+      "title": "공장 경비원 업무",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-22",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-23T06:38:34+09:00",
+      "new": true
+    },
+    {
+      "company": "쓰리맥스",
+      "title": "경비직",
+      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-13",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-23T06:38:34+09:00",
+      "new": true
+    },
+    {
+      "company": "맨하탄빌딩관리단",
+      "title": "경비원 구인",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
       "shift": "공고 확인",
       "salary": "공고 확인",
       "deadline": "2026-10-31",
-      "posted": "2026-10-18",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147624083&listmenucd=SEARCH",
+      "posted": "2026-10-16",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-10-19T06:36:11+09:00",
-      "new": false
+      "first_seen": "2026-10-23T06:38:34+09:00",
+      "new": true
     },
     {
       "company": "아이클라우드",
@@ -165,18 +195,63 @@
     },
     {
       "company": "회사명 확인",
-      "title": "주식회사 세진쉴더스 채용정보 : [숙소제공]범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
+      "title": "(주)농협파트너스 채용정보 : [농협 울산유통센터]하나로마트 보안업무 직원 모집(11/1일 입사) - 알바천국",
       "location": "근무지 확인",
-      "shift": "09:00 ~ 18:00",
+      "shift": "교대",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
       "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147616506&listmenucd=SEARCH",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147716076&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-10-19T06:36:11+09:00",
-      "new": false
+      "first_seen": "2026-10-23T06:38:34+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "(주)BTS 롯데백화점 부산본점사업소 채용정보 : 롯데백화점 부산본점 (서면) 안전보안원 (주간) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147712295&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-23T06:38:34+09:00",
+      "new": true
+    },
+    {
+      "company": "인천공항에너지(주)",
+      "title": "인천공항에너지주 현장운영직보안 채용",
+      "location": "인천광역시 영종구 평화대로119번길 43 인천공항에너지",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-26",
+      "posted": "2026-10-13",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147501870&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-10-23T06:38:34+09:00",
+      "new": true
+    },
+    {
+      "company": "인천공항운영서비스 주식회사",
+      "title": "인천공항운영서비스주 직원 채용보안운영 3조 2교대",
+      "location": "인천광역시 영종구 공항로 271 인천국제공항",
+      "shift": "3조2교대",
+      "salary": "공고 확인",
+      "deadline": "2026-11-02",
+      "posted": "2026-10-20",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147655115&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-10-23T06:38:34+09:00",
+      "new": true
     },
     {
       "company": "월드유니텍㈜",
