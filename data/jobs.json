@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T12:40:46+09:00",
+  "updated_at": "2026-10-22T15:49:44+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 4
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -177,21 +177,6 @@
       "commute": "○",
       "first_seen": "2026-10-19T06:36:11+09:00",
       "new": false
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
-      "location": "인천 중구 공항로 272 인천국제공항 제1여객터미널 2021호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-22",
-      "posted": "2026-10-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147286652&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-22T09:51:28+09:00",
-      "new": true
     },
     {
       "company": "월드유니텍㈜",
