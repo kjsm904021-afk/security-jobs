@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-24T03:46:13+09:00",
+  "updated_at": "2026-10-24T06:39:47+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": true,
-      "message": "",
-      "found": 2
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
+      "found": 0
     },
     "사람인": {
       "ok": false,
@@ -12,14 +12,14 @@
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 3
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 2
     },
     "알바몬": {
       "ok": false,
@@ -59,6 +59,21 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "한국공항보안 주식회사",
+      "title": "한국공항보안주 김포공항지사 보안검색직 기간제근로자 채용",
+      "location": "서울특별시 강서구 공항동 하늘길 112 김포국제공항",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-27",
+      "posted": "2026-10-24",
+      "source": "알바천국",
+      "type": "공항 보안검색",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147749088&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-24T06:39:47+09:00",
+      "new": true
+    },
+    {
       "company": "프로에스콤",
       "title": "쿠팡 인천 KKR센터 CCTV·보안시스템 운용",
       "location": "인천 서구 봉수대로 370",
@@ -74,6 +89,36 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "광명잉크제조",
+      "title": "공장 경비원 업무",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-22",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-24T06:39:47+09:00",
+      "new": true
+    },
+    {
+      "company": "쓰리맥스",
+      "title": "경비직",
+      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-13",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-24T06:39:47+09:00",
+      "new": true
+    },
+    {
       "company": "아이클라우드",
       "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
       "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
@@ -87,21 +132,6 @@
       "commute": "○",
       "first_seen": "2026-10-21T18:41:16+09:00",
       "new": false
-    },
-    {
-      "company": "주원지엘에스(주)",
-      "title": "[급구] 480+a/생활물류 수거배송/야간근무/단순수거",
-      "location": "경기 김포시 사우중로 88 (센터권역)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-11",
-      "posted": "2026-10-22",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147700066&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-22T12:40:46+09:00",
-      "new": true
     },
     {
       "company": "유니에스시큐리티",
@@ -134,51 +164,6 @@
       "new": true
     },
     {
-      "company": "회사명 확인",
-      "title": "(주)농협파트너스 채용정보 : [농협 울산유통센터]하나로마트 보안업무 직원 모집(11/1일 입사) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "교대",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147716076&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-23T06:38:34+09:00",
-      "new": true
-    },
-    {
-      "company": "인천공항에너지(주)",
-      "title": "인천공항에너지주 현장운영직보안 채용",
-      "location": "인천광역시 영종구 평화대로119번길 43 인천공항에너지",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-26",
-      "posted": "2026-10-13",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147501870&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-23T06:38:34+09:00",
-      "new": true
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "인천공항 화물터미널 특수경비보안요원 모집",
-      "location": "인천광역시 영종구 공항동로295번길 77-65 화물터미널",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-27",
-      "posted": "2026-10-14",
-      "source": "알바천국",
-      "type": "특수경비",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147529375&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-23T12:40:53+09:00",
-      "new": true
-    },
-    {
       "company": "인천공항운영서비스 주식회사",
       "title": "인천공항운영서비스주 직원 채용보안운영 3조 2교대",
       "location": "인천광역시 영종구 공항로 271 인천국제공항",
@@ -191,21 +176,6 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147655115&listmenucd=SEARCH",
       "commute": "△",
       "first_seen": "2026-10-23T06:38:34+09:00",
-      "new": true
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "2026 인천 중장년여성 일자리박람회 현장면접 인천공항 화물터미널 특수경비 보안검색 요원 모집",
-      "location": "인천광역시 영종구 공항동로295번길 77-65 화물터미널",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-03",
-      "posted": "2026-10-23",
-      "source": "알바천국",
-      "type": "특수경비",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147727005&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-23T09:53:25+09:00",
       "new": true
     },
     {
