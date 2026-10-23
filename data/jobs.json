@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-23T15:48:53+09:00",
+  "updated_at": "2026-10-23T18:40:52+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
-      "message": "",
+      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without",
       "found": 2
     },
     "사람인": {
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 1
     },
     "알바천국": {
-      "ok": true,
-      "message": "",
-      "found": 6
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
+      "found": 0
     },
     "알바몬": {
       "ok": false,
@@ -72,21 +72,6 @@
       "commute": "◎",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
-    },
-    {
-      "company": "동산아이엔스",
-      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
-      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-06",
-      "posted": "2026-10-19",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-22T06:41:38+09:00",
-      "new": true
     },
     {
       "company": "아이클라우드",
