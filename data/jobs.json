@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-23T18:40:52+09:00",
+  "updated_at": "2026-10-23T21:48:27+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
-      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without",
+      "message": "",
       "found": 2
     },
     "사람인": {
@@ -17,9 +17,9 @@
       "found": 1
     },
     "알바천국": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 6
     },
     "알바몬": {
       "ok": false,
@@ -86,7 +86,7 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-21T18:41:16+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "주원지엘에스(주)",
