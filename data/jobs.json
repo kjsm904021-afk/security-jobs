@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T12:39:29+09:00",
+  "updated_at": "2026-10-24T15:46:01+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -87,21 +87,6 @@
       "commute": "◎",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
-    },
-    {
-      "company": "광명잉크제조",
-      "title": "공장 경비원 업무",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-22",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-24T06:39:47+09:00",
-      "new": true
     },
     {
       "company": "쓰리맥스",
