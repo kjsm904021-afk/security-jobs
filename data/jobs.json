@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T18:38:46+09:00",
+  "updated_at": "2026-10-25T21:44:39+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 3
+      "found": 4
     },
     "알바천국": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -74,18 +74,33 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "광명잉크제조",
-      "title": "공장 경비원 업무",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
+      "company": "동산아이엔스",
+      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-23",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-25T21:44:39+09:00",
+      "new": true
+    },
+    {
+      "company": "쓰리맥스",
+      "title": "경비직",
+      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
       "shift": "공고 확인",
       "salary": "공고 확인",
       "deadline": "공고 확인",
-      "posted": "2026-10-22",
+      "posted": "2026-10-13",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
       "commute": "◎",
-      "first_seen": "2026-10-25T18:38:46+09:00",
+      "first_seen": "2026-10-25T21:44:39+09:00",
       "new": true
     },
     {
@@ -128,24 +143,9 @@
       "posted": "2026-10-24",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147751937&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147752206&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-10-25T15:46:40+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[선택가능] 트윈타워 보안사원 채용 (주간/야간)",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-13",
-      "posted": "2026-10-24",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147738012&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-25T15:46:40+09:00",
+      "first_seen": "2026-10-25T06:37:09+09:00",
       "new": true
     },
     {
@@ -173,9 +173,9 @@
       "posted": "2026-10-24",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147752206&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147751937&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-10-25T06:37:09+09:00",
+      "first_seen": "2026-10-25T15:46:40+09:00",
       "new": true
     },
     {
