@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T03:40:33+09:00",
+  "updated_at": "2026-10-26T06:37:09+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 3
     },
     "알바천국": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -44,6 +44,21 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "한국공항보안 주식회사",
+      "title": "한국공항보안주 김포공항지사 보안검색직 기간제근로자 채용",
+      "location": "서울특별시 강서구 공항동 하늘길 112 김포국제공항",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-27",
+      "posted": "2026-10-24",
+      "source": "알바천국",
+      "type": "공항 보안검색",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147749088&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-26T06:37:09+09:00",
+      "new": true
+    },
+    {
       "company": "프로에스콤",
       "title": "쿠팡 인천 KKR센터 CCTV·보안시스템 운용",
       "location": "인천 서구 봉수대로 370",
@@ -57,6 +72,21 @@
       "commute": "◎",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
+    },
+    {
+      "company": "동산아이엔스",
+      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-23",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-26T06:37:09+09:00",
+      "new": true
     },
     {
       "company": "광명잉크제조",
@@ -86,36 +116,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-25T12:39:46+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[선택가능] 트윈타워 보안사원 채용 (주간/야간)",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-13",
-      "posted": "2026-10-24",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147752206&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-25T06:37:09+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[선택가능] 트윈타워 보안사원 채용 (주간/야간)",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-13",
-      "posted": "2026-10-24",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147743102&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-25T06:37:09+09:00",
       "new": true
     },
     {
@@ -161,6 +161,36 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
       "commute": "○",
       "first_seen": "2026-10-25T18:38:46+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "(주)BTS 롯데백화점 부산본점사업소 채용정보 : 롯데백화점 부산본점 (서면) 안전보안원 (주간) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147766388&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-26T06:37:09+09:00",
+      "new": true
+    },
+    {
+      "company": "인천공항운영서비스 주식회사",
+      "title": "인천공항운영서비스주 직원 채용보안운영 3조 2교대",
+      "location": "인천광역시 영종구 공항로 271 인천국제공항",
+      "shift": "3조2교대",
+      "salary": "공고 확인",
+      "deadline": "2026-11-02",
+      "posted": "2026-10-20",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147655115&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-10-26T06:37:09+09:00",
       "new": true
     },
     {
