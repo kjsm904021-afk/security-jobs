@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-25T09:47:27+09:00",
+  "updated_at": "2026-10-25T12:39:46+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Read timed out. (read ",
       "found": 2
     },
     "사람인": {
@@ -60,6 +60,21 @@
     },
     {
       "company": "한국공항보안 주식회사",
+      "title": "한국공항보안(주) 김포공항지사 보안검색직 기간제근로자 채용",
+      "location": "서울 강서구 하늘길 112 (공항동, 김포공항) 김포공항",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-27",
+      "posted": "2026-10-23",
+      "source": "잡코리아",
+      "type": "공항 보안검색",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50231777?Oem_Code=C1&logpath=1&stext=%EA%B3%B5%ED%95%AD%EB%B3%B4%EC%95%88&listno=1&sc=630",
+      "commute": "◎",
+      "first_seen": "2026-10-25T12:39:46+09:00",
+      "new": true
+    },
+    {
+      "company": "한국공항보안 주식회사",
       "title": "한국공항보안주 김포공항지사 보안검색직 기간제근로자 채용",
       "location": "서울특별시 강서구 공항동 하늘길 112 김포국제공항",
       "shift": "공고 확인",
@@ -89,33 +104,33 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "광명잉크제조",
-      "title": "공장 경비원 업무",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
+      "company": "맨하탄빌딩관리단",
+      "title": "경비원 구인",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-22",
+      "deadline": "2026-10-31",
+      "posted": "2026-10-16",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-25T09:47:27+09:00",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-25T12:39:46+09:00",
       "new": true
     },
     {
-      "company": "쓰리맥스",
-      "title": "경비직",
-      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
+      "company": "아이클라우드",
+      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-13",
+      "deadline": "2026-11-05",
+      "posted": "2026-10-06",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-25T09:47:27+09:00",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-25T12:39:46+09:00",
       "new": true
     },
     {
@@ -164,34 +179,19 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "㈜삼구아이앤씨",
-      "title": "[삼구아이앤씨] 대한송유관공사 고양저유소 특수경비대원 모집 (특수경비 이수증 필수/고양소재)",
-      "location": "경기 고양시 덕양구 중앙로 323 (화전동)",
+      "company": "㈜프리죤에어포트서비스",
+      "title": "인천국제공항 미주행 보안인터뷰어 단시간 근무 채용",
+      "location": "인천 중구 공항로 272 (운서동, 인천공항) 인천국제공항",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2027-10-01",
-      "posted": "2026-10-02",
+      "deadline": "2026-10-31",
+      "posted": "2026-10-21",
       "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
-      "commute": "○",
-      "first_seen": "2026-10-23T15:48:53+09:00",
-      "new": true
-    },
-    {
-      "company": "월드유니텍㈜",
-      "title": "인천공항 SPK화물터미널 특수경비원 모집",
-      "location": "인천 중구 공항동로295번길 77-45 (운서동, 항공터미널비) 화물터미널C동 SPK화물터미널",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-14",
-      "posted": "2026-09-15",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49997539?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=3&sc=630",
+      "type": "보안/경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50207882?Oem_Code=C1&logpath=1&stext=%EA%B3%B5%ED%95%AD%EB%B3%B4%EC%95%88&listno=4&sc=630",
       "commute": "△",
-      "first_seen": "2026-10-16T09:49:09+09:00",
-      "new": false
+      "first_seen": "2026-10-25T12:39:46+09:00",
+      "new": true
     }
   ]
 }
