@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-25T12:39:46+09:00",
+  "updated_at": "2026-10-25T15:46:40+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": true,
-      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Read timed out. (read ",
-      "found": 2
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
+      "found": 0
     },
     "사람인": {
       "ok": false,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 1
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 4
     },
     "알바몬": {
       "ok": false,
@@ -74,21 +74,6 @@
       "new": true
     },
     {
-      "company": "한국공항보안 주식회사",
-      "title": "한국공항보안주 김포공항지사 보안검색직 기간제근로자 채용",
-      "location": "서울특별시 강서구 공항동 하늘길 112 김포국제공항",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-27",
-      "posted": "2026-10-24",
-      "source": "알바천국",
-      "type": "공항 보안검색",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147749088&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-10-25T09:47:27+09:00",
-      "new": true
-    },
-    {
       "company": "프로에스콤",
       "title": "쿠팡 인천 KKR센터 CCTV·보안시스템 운용",
       "location": "인천 서구 봉수대로 370",
@@ -104,21 +89,6 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "맨하탄빌딩관리단",
-      "title": "경비원 구인",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-31",
-      "posted": "2026-10-16",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-25T12:39:46+09:00",
-      "new": true
-    },
-    {
       "company": "아이클라우드",
       "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
       "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
@@ -131,6 +101,36 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-25T12:39:46+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[선택가능] 트윈타워 보안사원 채용 (주간/야간)",
+      "location": "서울 영등포구 여의대로 128 트윈타워",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-13",
+      "posted": "2026-10-24",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147751937&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-25T15:46:40+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[선택가능] 트윈타워 보안사원 채용 (주간/야간)",
+      "location": "서울 영등포구 여의대로 128 트윈타워",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-13",
+      "posted": "2026-10-24",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147738012&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-25T15:46:40+09:00",
       "new": true
     },
     {
