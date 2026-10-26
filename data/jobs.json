@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27T01:09:21+09:00",
+  "updated_at": "2026-10-27T03:53:47+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
-      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without",
-      "found": 4
+      "message": "",
+      "found": 5
     },
     "사람인": {
       "ok": false,
@@ -12,9 +12,9 @@
       "found": 0
     },
     "인크루트": {
-      "ok": true,
+      "ok": false,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 3
+      "found": 0
     },
     "알바천국": {
       "ok": true,
@@ -56,6 +56,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50209617?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "◎",
       "first_seen": "2026-10-26T18:51:08+09:00",
+      "new": true
+    },
+    {
+      "company": "코가스보안관리",
+      "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[서울지역]",
+      "location": "서울 강서구 공항대로 340 (내발산동, 한국가스공사서울지사) 한국가스공사 서울지역본부",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-27",
+      "posted": "2026-10-20",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50209617?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "commute": "◎",
+      "first_seen": "2026-10-27T03:53:47+09:00",
       "new": true
     },
     {
