@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-26T15:53:06+09:00",
+  "updated_at": "2026-10-26T18:51:08+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 5
     },
     "사람인": {
       "ok": false,
-      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 3
+      "found": 1
     },
     "알바천국": {
       "ok": true,
@@ -42,6 +42,36 @@
       "commute": "◎",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
+    },
+    {
+      "company": "코가스보안관리",
+      "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[서울지역]",
+      "location": "서울 강서구 공항대로 340 (내발산동, 한국가스공사서울지사) 한국가스공사 서울지역본부",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-27",
+      "posted": "2026-10-20",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50209617?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
+      "commute": "◎",
+      "first_seen": "2026-10-26T18:51:08+09:00",
+      "new": true
+    },
+    {
+      "company": "코가스보안관리",
+      "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[서울지역]",
+      "location": "서울 강서구 공항대로 340 (내발산동, 한국가스공사서울지사) 한국가스공사 서울지역본부",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-10-27",
+      "posted": "2026-10-20",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50209617?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "commute": "◎",
+      "first_seen": "2026-10-26T18:51:08+09:00",
+      "new": true
     },
     {
       "company": "한국공항보안 주식회사",
@@ -72,36 +102,6 @@
       "commute": "◎",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
-    },
-    {
-      "company": "광명잉크제조",
-      "title": "공장 경비원 업무",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-22",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-26T03:40:33+09:00",
-      "new": true
-    },
-    {
-      "company": "쓰리맥스",
-      "title": "경비직",
-      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-13",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-26T10:01:45+09:00",
-      "new": true
     },
     {
       "company": "아이클라우드",
@@ -143,9 +143,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-26T00:38:53+09:00",
+      "first_seen": "2026-10-26T18:51:08+09:00",
       "new": true
     },
     {
@@ -158,9 +158,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=3&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-25T18:38:46+09:00",
+      "first_seen": "2026-10-26T18:51:08+09:00",
       "new": true
     },
     {
@@ -203,9 +203,9 @@
       "posted": "2026-09-15",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49997539?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=3&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49997539?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=2&sc=630",
       "commute": "△",
-      "first_seen": "2026-10-25T18:38:46+09:00",
+      "first_seen": "2026-10-26T18:51:08+09:00",
       "new": true
     }
   ]
