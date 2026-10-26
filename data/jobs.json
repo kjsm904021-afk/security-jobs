@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-26T12:42:17+09:00",
+  "updated_at": "2026-10-26T15:53:06+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": true,
-      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without",
-      "found": 3
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
+      "found": 0
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without",
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -100,21 +100,6 @@
       "type": "보안/경비",
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
       "commute": "◎",
-      "first_seen": "2026-10-26T10:01:45+09:00",
-      "new": true
-    },
-    {
-      "company": "맨하탄빌딩관리단",
-      "title": "경비원 구인",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국제금융로6길 33 (여의도동 맨하탄빌딩)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-31",
-      "posted": "2026-10-16",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610160003616&src=etc*search",
-      "commute": "○",
       "first_seen": "2026-10-26T10:01:45+09:00",
       "new": true
     },
