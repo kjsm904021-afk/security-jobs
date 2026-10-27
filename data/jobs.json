@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T12:42:01+09:00",
+  "updated_at": "2026-10-27T15:49:39+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,13 +8,13 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 4
     },
     "알바천국": {
       "ok": true,
@@ -134,21 +134,6 @@
       "new": true
     },
     {
-      "company": "광명잉크제조",
-      "title": "공장 경비원 업무",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-22",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-27T01:09:21+09:00",
-      "new": true
-    },
-    {
       "company": "쓰리맥스",
       "title": "경비직",
       "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
@@ -206,6 +191,21 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147774512&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-10-27T06:40:44+09:00",
+      "new": true
+    },
+    {
+      "company": "순복음아파트입주자대표회의",
+      "title": "경비직원",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-20",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-27T15:49:39+09:00",
       "new": true
     },
     {
