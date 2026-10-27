@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27T15:49:39+09:00",
+  "updated_at": "2026-10-27T18:47:19+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 5
+      "found": 4
     },
     "사람인": {
       "ok": false,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -42,36 +42,6 @@
       "commute": "◎",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
-    },
-    {
-      "company": "코가스보안관리",
-      "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[서울지역]",
-      "location": "서울 강서구 공항대로 340 (내발산동, 한국가스공사서울지사) 한국가스공사 서울지역본부",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-27",
-      "posted": "2026-10-20",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50209617?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
-      "commute": "◎",
-      "first_seen": "2026-10-27T12:42:01+09:00",
-      "new": true
-    },
-    {
-      "company": "코가스보안관리",
-      "title": "한국가스공사 자회사KOGAS보안관리 특수경비 계약직(3개월)[서울지역]",
-      "location": "서울 강서구 공항대로 340 (내발산동, 한국가스공사서울지사) 한국가스공사 서울지역본부",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-27",
-      "posted": "2026-10-20",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50209617?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
-      "commute": "◎",
-      "first_seen": "2026-10-27T03:53:47+09:00",
-      "new": true
     },
     {
       "company": "프로에스콤",
@@ -134,18 +104,33 @@
       "new": true
     },
     {
-      "company": "쓰리맥스",
-      "title": "경비직",
-      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
+      "company": "아이클라우드",
+      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-13",
+      "deadline": "2026-11-05",
+      "posted": "2026-10-06",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-27T01:09:21+09:00",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-27T18:47:19+09:00",
+      "new": true
+    },
+    {
+      "company": "에이원",
+      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
+      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-10",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "특수경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-27T18:47:19+09:00",
       "new": true
     },
     {
@@ -194,18 +179,18 @@
       "new": true
     },
     {
-      "company": "순복음아파트입주자대표회의",
-      "title": "경비직원",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
-      "shift": "공고 확인",
+      "company": "㈜삼구아이앤씨",
+      "title": "[삼구아이앤씨] 여의도 코스콤 특수경비원 채용 야간근무자(주말당직근무)",
+      "location": "서울 영등포구 여의나루로 76 (여의도동, 한국거래소)",
+      "shift": "야간",
       "salary": "공고 확인",
-      "deadline": "2026-11-20",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "아파트 경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
+      "deadline": "2027-09-16",
+      "posted": "2026-09-17",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50007276?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-27T15:49:39+09:00",
+      "first_seen": "2026-10-27T18:47:19+09:00",
       "new": true
     },
     {
@@ -236,21 +221,6 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=3&sc=630",
       "commute": "○",
       "first_seen": "2026-10-26T18:51:08+09:00",
-      "new": true
-    },
-    {
-      "company": "부천한신아파트입주자대표회의",
-      "title": "경비원 구인",
-      "location": "경기도 부천시 경기도 부천시 소사구 소사로170번길 81 . (소사본동, 부천한신아파트)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-26",
-      "source": "인크루트",
-      "type": "아파트 경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610260001096&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-27T06:40:44+09:00",
       "new": true
     },
     {
