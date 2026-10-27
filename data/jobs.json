@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T03:50:20+09:00",
+  "updated_at": "2026-10-28T06:42:01+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,18 +8,18 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 4
     },
     "알바천국": {
-      "ok": true,
-      "message": "",
-      "found": 5
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
+      "found": 0
     },
     "알바몬": {
       "ok": false,
@@ -119,6 +119,21 @@
       "new": true
     },
     {
+      "company": "에이원",
+      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
+      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-10",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "특수경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-28T06:42:01+09:00",
+      "new": true
+    },
+    {
       "company": "유니에스시큐리티",
       "title": "김포공항 대한항공 화물보안검색",
       "location": "김포공항 화물청사",
@@ -161,21 +176,6 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147774512&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-10-27T06:40:44+09:00",
-      "new": true
-    },
-    {
-      "company": "순복음아파트입주자대표회의",
-      "title": "경비직원",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-20",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "아파트 경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-27T21:51:16+09:00",
       "new": true
     },
     {
