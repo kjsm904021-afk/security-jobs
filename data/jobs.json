@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T22:00:01+09:00",
+  "updated_at": "2026-10-29T00:57:37+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,13 +8,13 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 1
+      "found": 4
     },
     "알바천국": {
       "ok": true,
@@ -29,33 +29,63 @@
   },
   "jobs": [
     {
-      "company": "프로에스콤",
-      "title": "쿠팡 인천 KKR센터 CCTV·보안시스템 운용",
-      "location": "인천 서구 봉수대로 370",
-      "shift": "보안/CCTV 관제",
-      "salary": "월 271만원",
-      "deadline": "2026-10-28",
-      "posted": "",
-      "source": "사람인",
-      "type": "CCTV/시설보안",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55127581",
-      "commute": "◎",
-      "new": false,
-      "first_seen": "2026-10-13T01:10:00+09:00"
-    },
-    {
-      "company": "아이클라우드",
-      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
+      "company": "동산아이엔스",
+      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-11-05",
-      "posted": "2026-10-06",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-23",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-29T00:57:37+09:00",
+      "new": true
+    },
+    {
+      "company": "광명잉크제조",
+      "title": "공장 경비원 업무",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-22",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-29T00:57:37+09:00",
+      "new": true
+    },
+    {
+      "company": "쓰리맥스",
+      "title": "경비직",
+      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-13",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-29T00:57:37+09:00",
+      "new": true
+    },
+    {
+      "company": "에이원",
+      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
+      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-10",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "특수경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-10-28T22:00:01+09:00",
+      "first_seen": "2026-10-29T00:57:37+09:00",
       "new": true
     },
     {
