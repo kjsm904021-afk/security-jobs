@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T06:42:01+09:00",
+  "updated_at": "2026-10-28T10:03:29+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 1
     },
     "알바천국": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -44,93 +44,18 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "동산아이엔스",
-      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
-      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "company": "아이클라우드",
+      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-11-06",
-      "posted": "2026-10-23",
+      "deadline": "2026-11-05",
+      "posted": "2026-10-06",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-26T23:51:55+09:00",
-      "new": true
-    },
-    {
-      "company": "프로에스콤",
-      "title": "[인천 서해구/ 쿠팡 인천 KKR센터 /월271만] CCTV 보안관제 채용",
-      "location": "인천 서구 봉수대로 370 (인천 석남 혁신물류센터) 쿠팡 31센터",
-      "shift": "3조2교대",
-      "salary": "공고 확인",
-      "deadline": "2026-11-15",
-      "posted": "2026-10-26",
-      "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147785055&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-10-27T06:40:44+09:00",
-      "new": true
-    },
-    {
-      "company": "프로에스콤",
-      "title": "[인천 서해구/ 쿠팡 인천 KKR센터 /월271만] CCTV 보안관제 채용",
-      "location": "인천 서구 봉수대로 370 (인천 석남 혁신물류센터) 쿠팡 31센터",
-      "shift": "3조2교대",
-      "salary": "공고 확인",
-      "deadline": "2026-11-15",
-      "posted": "2026-10-26",
-      "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147786411&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-10-27T06:40:44+09:00",
-      "new": true
-    },
-    {
-      "company": "광명잉크제조",
-      "title": "공장 경비원 업무",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-22",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-27T21:51:16+09:00",
-      "new": true
-    },
-    {
-      "company": "쓰리맥스",
-      "title": "경비직",
-      "location": "인천광역시 계양구 인천광역시 계양구 계산새로 71 C동 702호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-13",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610130001974&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-27T21:51:16+09:00",
-      "new": true
-    },
-    {
-      "company": "에이원",
-      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
-      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-10",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "특수경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-10-28T06:42:01+09:00",
+      "first_seen": "2026-10-28T10:03:29+09:00",
       "new": true
     },
     {
@@ -151,21 +76,6 @@
     {
       "company": "주원지엘에스(주)",
       "title": "[급구] 480+a/생활물류 수거배송/야간근무/단순수거",
-      "location": "인천 부평구 대정로 66 (센터권역)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-15",
-      "posted": "2026-10-26",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147774509&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-10-27T06:40:44+09:00",
-      "new": true
-    },
-    {
-      "company": "주원지엘에스(주)",
-      "title": "[급구] 480+a/생활물류 수거배송/야간근무/단순수거",
       "location": "서울 구로구 가마산로25길 9-9 (센터권역)",
       "shift": "야간",
       "salary": "공고 확인",
@@ -176,6 +86,21 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147774512&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-10-27T06:40:44+09:00",
+      "new": true
+    },
+    {
+      "company": "(주)현대에쓰앤에쓰",
+      "title": "[주5일/오목교역] 현대백화점 목동점 보안사원 채용(신입환영)",
+      "location": "서울 양천구 목동동로 257 현대백화점 목동점",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-17",
+      "posted": "2026-10-28",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147816878&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-10-28T10:03:29+09:00",
       "new": true
     },
     {
