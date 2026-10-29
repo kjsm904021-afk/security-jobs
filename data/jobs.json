@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29T22:01:46+09:00",
+  "updated_at": "2026-10-30T00:58:51+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": true,
-      "message": "",
-      "found": 4
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
+      "found": 0
     },
     "사람인": {
       "ok": false,
@@ -12,14 +12,14 @@
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 4
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 4
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -41,6 +41,21 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-10-29T10:01:13+09:00",
+      "new": true
+    },
+    {
+      "company": "광명잉크제조",
+      "title": "공장 경비원 업무",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-22",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-10-30T00:58:51+09:00",
       "new": true
     },
     {
@@ -87,6 +102,21 @@
       "commute": "○",
       "first_seen": "2026-10-27T06:40:44+09:00",
       "new": false
+    },
+    {
+      "company": "순복음아파트입주자대표회의",
+      "title": "경비직원",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-20",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-30T00:58:51+09:00",
+      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -149,21 +179,6 @@
       "new": true
     },
     {
-      "company": "(주)프로에스콤",
-      "title": "2026 인천 중장년여성 일자리박람회 현장면접 인천공항 화물터미널 특수경비 보안검색 요원 모집",
-      "location": "인천광역시 영종구 공항동로295번길 77-65 화물터미널",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-03",
-      "posted": "2026-10-23",
-      "source": "알바천국",
-      "type": "특수경비",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147727005&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-29T12:52:50+09:00",
-      "new": true
-    },
-    {
       "company": "월드유니텍㈜",
       "title": "인천공항 SPK화물터미널 특수경비원 모집",
       "location": "인천 중구 공항동로295번길 77-45 (운서동, 항공터미널비) 화물터미널C동 SPK화물터미널",
@@ -182,7 +197,7 @@
       "company": "회사명 확인",
       "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
       "location": "근무지 확인",
-      "shift": "09:00~17:00 / 08:00~12:00",
+      "shift": "주간",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
