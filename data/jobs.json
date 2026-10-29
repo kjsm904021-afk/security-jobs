@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29T18:56:17+09:00",
+  "updated_at": "2026-10-29T22:01:46+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 5
+      "found": 4
     },
     "사람인": {
       "ok": false,
@@ -28,21 +28,6 @@
     }
   },
   "jobs": [
-    {
-      "company": "㈜캡스텍 영남지점",
-      "title": "[캡스텍] 부산 신항 특수경비원 모집합니다",
-      "location": "부산 강서구 신항남로 330 (성북동, PSA부산신항국제터미널(주))",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-10-29",
-      "posted": "2026-09-29",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50073373?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
-      "commute": "◎",
-      "first_seen": "2026-10-29T12:52:50+09:00",
-      "new": true
-    },
     {
       "company": "동산아이엔스",
       "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
