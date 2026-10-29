@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29T12:52:50+09:00",
+  "updated_at": "2026-10-29T16:00:16+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 5
+      "found": 6
     },
     "사람인": {
       "ok": false,
@@ -59,18 +59,18 @@
       "new": true
     },
     {
-      "company": "광명잉크제조",
-      "title": "공장 경비원 업무",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
+      "company": "에이원",
+      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
+      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-22",
+      "deadline": "2026-11-10",
+      "posted": "2026-10-27",
       "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-29T10:01:13+09:00",
+      "type": "특수경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-29T16:00:16+09:00",
       "new": true
     },
     {
@@ -102,6 +102,21 @@
       "commute": "○",
       "first_seen": "2026-10-27T06:40:44+09:00",
       "new": false
+    },
+    {
+      "company": "㈜삼구아이앤씨",
+      "title": "[삼구아이앤씨] 여의도 코스콤 특수경비원 채용 야간근무자(주말당직근무)",
+      "location": "서울 영등포구 여의나루로 76 (여의도동, 한국거래소)",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2027-09-16",
+      "posted": "2026-09-17",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50007276?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
+      "commute": "○",
+      "first_seen": "2026-10-29T16:00:16+09:00",
+      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
