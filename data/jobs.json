@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30T00:58:51+09:00",
+  "updated_at": "2026-10-30T03:56:47+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 4
     },
     "사람인": {
       "ok": false,
@@ -12,9 +12,9 @@
       "found": 0
     },
     "인크루트": {
-      "ok": true,
-      "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "ok": false,
+      "message": "",
+      "found": 0
     },
     "알바천국": {
       "ok": true,
@@ -57,6 +57,21 @@
       "commute": "◎",
       "first_seen": "2026-10-30T00:58:51+09:00",
       "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "09:00~17:00 / 08:00~12:00",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147805808&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-27T12:42:01+09:00",
+      "new": false
     },
     {
       "company": "에이원",
@@ -191,21 +206,6 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49997539?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=2&sc=630",
       "commute": "△",
       "first_seen": "2026-10-26T18:51:08+09:00",
-      "new": false
-    },
-    {
-      "company": "회사명 확인",
-      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147805808&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-27T12:42:01+09:00",
       "new": false
     }
   ]
