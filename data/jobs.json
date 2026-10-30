@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30T10:03:02+09:00",
+  "updated_at": "2026-10-30T12:53:51+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 5
+      "found": 6
     },
     "사람인": {
       "ok": false,
@@ -12,9 +12,9 @@
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 5
     },
     "알바천국": {
       "ok": true,
@@ -59,18 +59,48 @@
       "new": true
     },
     {
-      "company": "아이클라우드",
-      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
+      "company": "회사명 확인",
+      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "09:00~17:00 / 08:00~12:00",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147805808&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-10-27T12:42:01+09:00",
+      "new": false
+    },
+    {
+      "company": "링크앤스카우트",
+      "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-11-05",
-      "posted": "2026-10-06",
+      "deadline": "2026-11-10",
+      "posted": "2026-10-14",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-10-30T06:50:03+09:00",
+      "first_seen": "2026-10-30T12:53:51+09:00",
+      "new": true
+    },
+    {
+      "company": "에이원",
+      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
+      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-10",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "특수경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-30T12:53:51+09:00",
       "new": true
     },
     {
@@ -131,21 +161,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610290001260&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-30T06:50:03+09:00",
-      "new": true
-    },
-    {
-      "company": "㈜삼구아이앤씨",
-      "title": "[삼구아이앤씨] 여의도 코스콤 특수경비원 채용 야간근무자(주말당직근무)",
-      "location": "서울 영등포구 여의나루로 76 (여의도동, 한국거래소)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2027-09-16",
-      "posted": "2026-09-17",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50007276?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
-      "commute": "○",
-      "first_seen": "2026-10-30T10:03:02+09:00",
       "new": true
     },
     {
@@ -239,19 +254,34 @@
       "new": false
     },
     {
-      "company": "회사명 확인",
-      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "09:00~17:00 / 08:00~12:00",
+      "company": "㈜조은시스템",
+      "title": "[인천공항/AACT3] AACT3 특수경비원, 경력자 우대",
+      "location": "인천 중구 공항동로295번길 88 (운서동, AACT제3화물터미널) AACT 제3화물터미널",
+      "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147805808&listmenucd=SEARCH",
+      "deadline": "2026-11-29",
+      "posted": "2026-10-30",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "△",
-      "first_seen": "2026-10-27T12:42:01+09:00",
-      "new": false
+      "first_seen": "2026-10-30T12:53:51+09:00",
+      "new": true
+    },
+    {
+      "company": "㈜조은시스템",
+      "title": "[인천공항/AACT3] AACT3 특수경비원, 경력자 우대",
+      "location": "인천 중구 공항동로295번길 88 (운서동, AACT제3화물터미널) AACT 제3화물터미널",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-10-30",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "commute": "△",
+      "first_seen": "2026-10-30T12:53:51+09:00",
+      "new": true
     }
   ]
 }
