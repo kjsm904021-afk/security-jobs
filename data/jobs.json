@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:53:51+09:00",
+  "updated_at": "2026-10-30T16:01:34+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 5
+      "found": 4
     },
     "알바천국": {
       "ok": true,
@@ -74,36 +74,6 @@
       "new": false
     },
     {
-      "company": "링크앤스카우트",
-      "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-10",
-      "posted": "2026-10-14",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-30T12:53:51+09:00",
-      "new": true
-    },
-    {
-      "company": "에이원",
-      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
-      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-10",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "특수경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-30T12:53:51+09:00",
-      "new": true
-    },
-    {
       "company": "주식회사 대덕파트너스",
       "title": "[월250만/주주야야비비] 쿠팡대구3.7.8센터 보안사원모집",
       "location": "대구 달성군 구지면 국가산단대로46길 113 쿠팡대구3.7.8센터",
@@ -149,6 +119,21 @@
       "new": true
     },
     {
+      "company": "순복음아파트입주자대표회의",
+      "title": "경비직원",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-20",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-30T16:01:34+09:00",
+      "new": true
+    },
+    {
       "company": "벽산빌리지관리사무소",
       "title": "경비원 모집",
       "location": "인천광역시 연수구 인천광역시 연수구 한나루로158번길 31 벽산빌리지아파트 (옥련동)",
@@ -191,7 +176,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "○",
       "first_seen": "2026-10-28T15:59:09+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜삼구아이앤씨",
