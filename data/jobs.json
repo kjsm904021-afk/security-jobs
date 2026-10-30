@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:55:54+09:00",
+  "updated_at": "2026-10-31T03:52:04+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -44,18 +44,18 @@
       "new": true
     },
     {
-      "company": "아이클라우드",
-      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
+      "company": "링크앤스카우트",
+      "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-11-05",
-      "posted": "2026-10-06",
+      "deadline": "2026-11-10",
+      "posted": "2026-10-14",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-10-30T22:00:02+09:00",
+      "first_seen": "2026-10-31T03:52:04+09:00",
       "new": true
     },
     {
@@ -101,6 +101,21 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147847015&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-10-30T06:50:03+09:00",
+      "new": true
+    },
+    {
+      "company": "순복음아파트입주자대표회의",
+      "title": "경비직원",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-20",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-31T03:52:04+09:00",
       "new": true
     },
     {
