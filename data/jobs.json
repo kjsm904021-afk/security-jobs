@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T10:02:23+09:00",
+  "updated_at": "2026-10-31T12:50:05+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -12,14 +12,14 @@
       "found": 0
     },
     "인크루트": {
-      "ok": true,
+      "ok": false,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 0
     },
     "알바천국": {
-      "ok": true,
-      "message": "",
-      "found": 1
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
+      "found": 0
     },
     "알바몬": {
       "ok": false,
