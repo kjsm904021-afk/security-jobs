@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T12:50:05+09:00",
+  "updated_at": "2026-10-31T15:56:12+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -12,14 +12,14 @@
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 6
     },
     "알바천국": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 2
     },
     "알바몬": {
       "ok": false,
@@ -29,18 +29,33 @@
   },
   "jobs": [
     {
-      "company": "광명잉크제조",
-      "title": "공장 경비원 업무",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
+      "company": "동산아이엔스",
+      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-10-22",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-23",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
       "commute": "◎",
-      "first_seen": "2026-10-31T06:44:26+09:00",
+      "first_seen": "2026-10-31T15:56:12+09:00",
+      "new": true
+    },
+    {
+      "company": "아이클라우드",
+      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-05",
+      "posted": "2026-10-06",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-31T15:56:12+09:00",
       "new": true
     },
     {
@@ -86,6 +101,21 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-31T03:52:04+09:00",
+      "new": true
+    },
+    {
+      "company": "벽산빌리지관리사무소",
+      "title": "경비원 모집",
+      "location": "인천광역시 연수구 인천광역시 연수구 한나루로158번길 31 벽산빌리지아파트 (옥련동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-28",
+      "posted": "2026-10-29",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610290001260&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-10-31T15:56:12+09:00",
       "new": true
     },
     {
@@ -146,6 +176,21 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220002838&src=etc*search",
       "commute": "△",
       "first_seen": "2026-10-31T10:02:23+09:00",
+      "new": true
+    },
+    {
+      "company": "인천공항에너지(주)",
+      "title": "인천공항에너지주 2026년 현장운영직보안 채용변경",
+      "location": "인천광역시 영종구 평화대로119번길 43 인천공항에너지",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-30",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147870811&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-10-31T15:56:12+09:00",
       "new": true
     },
     {
