@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T18:46:25+09:00",
+  "updated_at": "2026-10-31T21:53:32+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -12,9 +12,9 @@
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -28,21 +28,6 @@
     }
   },
   "jobs": [
-    {
-      "company": "동산아이엔스",
-      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
-      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-06",
-      "posted": "2026-10-23",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-10-31T15:56:12+09:00",
-      "new": true
-    },
     {
       "company": "아이클라우드",
       "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
@@ -87,21 +72,6 @@
       "commute": "○",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
-    },
-    {
-      "company": "순복음아파트입주자대표회의",
-      "title": "경비직원",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-20",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "아파트 경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-10-31T03:52:04+09:00",
-      "new": true
     },
     {
       "company": "벽산빌리지관리사무소",
@@ -162,21 +132,6 @@
       "commute": "○",
       "first_seen": "2026-10-26T18:51:08+09:00",
       "new": false
-    },
-    {
-      "company": "삼구아이앤씨",
-      "title": "★2026.11.2(월) 중장년내일센터 열린현장면접★인천공항 대한항공 정비기지 특수경비원 모집",
-      "location": "서울특별시 중구 서울특별시 중구 청계천로 100 (수표동 동관)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-02",
-      "posted": "2026-10-23",
-      "source": "인크루트",
-      "type": "특수경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220002838&src=etc*search",
-      "commute": "△",
-      "first_seen": "2026-10-31T10:02:23+09:00",
-      "new": true
     },
     {
       "company": "인천공항에너지(주)",
