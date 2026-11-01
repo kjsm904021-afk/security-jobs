@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T03:49:21+09:00",
+  "updated_at": "2026-11-02T06:41:43+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,13 +8,13 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 7
+      "found": 6
     },
     "알바천국": {
       "ok": true,
@@ -56,21 +56,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
       "commute": "○",
       "first_seen": "2026-10-31T15:56:12+09:00",
-      "new": true
-    },
-    {
-      "company": "링크앤스카우트",
-      "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-10",
-      "posted": "2026-10-14",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-02T03:49:21+09:00",
       "new": true
     },
     {
@@ -233,9 +218,9 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-01T10:12:44+09:00",
+      "first_seen": "2026-11-02T06:41:43+09:00",
       "new": true
     },
     {
