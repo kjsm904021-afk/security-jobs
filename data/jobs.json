@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T06:40:36+09:00",
+  "updated_at": "2026-11-01T10:12:44+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,13 +8,13 @@
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 6
     },
     "알바천국": {
       "ok": true,
@@ -28,6 +28,21 @@
     }
   },
   "jobs": [
+    {
+      "company": "광명잉크제조",
+      "title": "공장 경비원 업무",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-22",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-11-01T10:12:44+09:00",
+      "new": true
+    },
     {
       "company": "아이클라우드",
       "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
@@ -72,6 +87,21 @@
       "commute": "○",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
+    },
+    {
+      "company": "순복음아파트입주자대표회의",
+      "title": "경비직원",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-20",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-11-01T10:12:44+09:00",
+      "new": true
     },
     {
       "company": "벽산빌리지관리사무소",
@@ -134,6 +164,21 @@
       "new": false
     },
     {
+      "company": "삼구아이앤씨",
+      "title": "★2026.11.2(월) 중장년내일센터 열린현장면접★인천공항 대한항공 정비기지 특수경비원 모집",
+      "location": "서울특별시 중구 서울특별시 중구 청계천로 100 (수표동 동관)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-02",
+      "posted": "2026-10-23",
+      "source": "인크루트",
+      "type": "특수경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220002838&src=etc*search",
+      "commute": "△",
+      "first_seen": "2026-11-01T10:12:44+09:00",
+      "new": true
+    },
+    {
       "company": "인천공항에너지(주)",
       "title": "인천공항에너지주 2026년 현장운영직보안 채용변경",
       "location": "인천광역시 영종구 평화대로119번길 43 인천공항에너지",
@@ -173,9 +218,9 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-01T03:49:17+09:00",
+      "first_seen": "2026-11-01T10:12:44+09:00",
       "new": true
     },
     {
