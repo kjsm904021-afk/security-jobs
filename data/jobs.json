@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T21:54:27+09:00",
+  "updated_at": "2026-11-02T00:40:49+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -59,6 +59,21 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "주원지엘에스(주)",
+      "title": "[급구] 480+a/생활물류 수거배송/야간근무/단순수거",
+      "location": "경기 부천시 원미구 길주로 276 (센터권역)",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-18",
+      "posted": "2026-10-29",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147847015&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-02T00:40:49+09:00",
+      "new": true
+    },
+    {
       "company": "㈜삼구아이앤씨",
       "title": "[삼구아이앤씨] 여의도 코스콤 특수경비원 채용 야간근무자(주말당직근무)",
       "location": "서울 영등포구 여의나루로 76 (여의도동, 한국거래소)",
@@ -102,21 +117,6 @@
       "commute": "○",
       "first_seen": "2026-10-26T18:51:08+09:00",
       "new": false
-    },
-    {
-      "company": "인천공항에너지(주)",
-      "title": "인천공항에너지주 2026년 현장운영직보안 채용변경",
-      "location": "인천광역시 영종구 평화대로119번길 43 인천공항에너지",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-06",
-      "posted": "2026-10-30",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147870811&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-10-31T15:56:12+09:00",
-      "new": true
     },
     {
       "company": "월드유니텍㈜",
