@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02T10:10:23+09:00",
+  "updated_at": "2026-11-02T13:00:05+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": true,
-      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Read timed out. (read ",
-      "found": 10
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
+      "found": 0
     },
     "사람인": {
       "ok": false,
@@ -12,9 +12,9 @@
       "found": 0
     },
     "인크루트": {
-      "ok": true,
+      "ok": false,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 6
+      "found": 0
     },
     "알바천국": {
       "ok": true,
