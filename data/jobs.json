@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02T06:41:43+09:00",
+  "updated_at": "2026-11-02T10:10:23+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
-      "message": "",
-      "found": 5
+      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Read timed out. (read ",
+      "found": 10
     },
     "사람인": {
       "ok": false,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 2
+      "found": 1
     },
     "알바몬": {
       "ok": false,
@@ -28,6 +28,21 @@
     }
   },
   "jobs": [
+    {
+      "company": "동산아이엔스",
+      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-23",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-11-02T10:10:23+09:00",
+      "new": true
+    },
     {
       "company": "광명잉크제조",
       "title": "공장 경비원 업무",
@@ -44,33 +59,33 @@
       "new": true
     },
     {
-      "company": "아이클라우드",
-      "title": "팔로알토네트웍스 보안제품 신입/경력 기술영업 (보안) 모십니다",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포로 150 생각공장 당산 A동 13층",
+      "company": "인천국제공항보안㈜",
+      "title": "(2026-6) 일반직 직원 채용 공고",
+      "location": "인천 중구 공항로424번길 84 (운서동, 인하국제의료센터) 8층",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-11-05",
-      "posted": "2026-10-06",
-      "source": "인크루트",
+      "deadline": "2026-11-09",
+      "posted": "2026-10-27",
+      "source": "잡코리아",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610060002863&src=etc*search",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50237482?Oem_Code=C1&logpath=1&stext=%EA%B3%B5%ED%95%AD%EB%B3%B4%EC%95%88&listno=1&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-31T15:56:12+09:00",
+      "first_seen": "2026-11-02T10:10:23+09:00",
       "new": true
     },
     {
-      "company": "에이원",
-      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
-      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
+      "company": "링크앤스카우트",
+      "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
       "shift": "공고 확인",
       "salary": "공고 확인",
       "deadline": "2026-11-10",
-      "posted": "2026-10-27",
+      "posted": "2026-10-14",
       "source": "인크루트",
-      "type": "특수경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-11-02T03:49:21+09:00",
+      "first_seen": "2026-11-02T10:10:23+09:00",
       "new": true
     },
     {
@@ -87,21 +102,6 @@
       "commute": "○",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
-    },
-    {
-      "company": "주원지엘에스(주)",
-      "title": "[급구] 480+a/생활물류 수거배송/야간근무/단순수거",
-      "location": "경기 부천시 원미구 길주로 276 (센터권역)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-18",
-      "posted": "2026-10-29",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147847015&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-02T00:40:49+09:00",
-      "new": true
     },
     {
       "company": "순복음아파트입주자대표회의",
@@ -194,6 +194,36 @@
       "new": true
     },
     {
+      "company": "㈜프로에스콤",
+      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
+      "location": "인천 중구 공항로 272 (운서동, 인천공항) 인천국제공항 제1여객터미널 2021호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-03",
+      "posted": "2026-10-02",
+      "source": "잡코리아",
+      "type": "보안/경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50098819?Oem_Code=C1&logpath=1&stext=%EA%B3%B5%ED%95%AD%EB%B3%B4%EC%95%88&listno=2&sc=630",
+      "commute": "△",
+      "first_seen": "2026-11-02T10:10:23+09:00",
+      "new": true
+    },
+    {
+      "company": "㈜조은시스템",
+      "title": "[인천공항화물청사][한국공항][식대지급]화물청사내 특수경비원 모집",
+      "location": "인천 중구 공항동로193번길 40-112 (운서동, 대한항공화물터미널)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-05",
+      "posted": "2026-10-06",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50116462?Oem_Code=C1&logpath=1&stext=%EA%B3%B5%ED%95%AD%EB%B3%B4%EC%95%88&listno=3&sc=630",
+      "commute": "△",
+      "first_seen": "2026-11-02T10:10:23+09:00",
+      "new": true
+    },
+    {
       "company": "월드유니텍㈜",
       "title": "인천공항 SPK화물터미널 특수경비원 모집",
       "location": "인천 중구 공항동로295번길 77-45 (운서동, 항공터미널비) 화물터미널C동 SPK화물터미널",
@@ -209,6 +239,21 @@
       "new": false
     },
     {
+      "company": "㈜에스텍시스템경인지사",
+      "title": "[에스텍시스템] 3교대 주간 보안사원(샤넬, 루이비통)인천공항T1,T2",
+      "location": "인천 중구 공항로 272 (운서동, 인천공항) 제2 여객터널",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-20",
+      "posted": "2026-10-21",
+      "source": "잡코리아",
+      "type": "보안/경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50211798?Oem_Code=C1&logpath=1&stext=%EA%B3%B5%ED%95%AD%EB%B3%B4%EC%95%88&listno=5&sc=630",
+      "commute": "△",
+      "first_seen": "2026-11-02T10:10:23+09:00",
+      "new": true
+    },
+    {
       "company": "㈜조은시스템",
       "title": "[인천공항/AACT3] AACT3 특수경비원, 경력자 우대",
       "location": "인천 중구 공항동로295번길 88 (운서동, AACT제3화물터미널) AACT 제3화물터미널",
@@ -218,9 +263,24 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-02T06:41:43+09:00",
+      "first_seen": "2026-11-02T10:10:23+09:00",
+      "new": true
+    },
+    {
+      "company": "㈜조은시스템",
+      "title": "[인천공항/AACT3] AACT3 특수경비원, 경력자 우대",
+      "location": "인천 중구 공항동로295번길 88 (운서동, AACT제3화물터미널) AACT 제3화물터미널",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-10-30",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=7&sc=630",
+      "commute": "△",
+      "first_seen": "2026-11-02T10:10:23+09:00",
       "new": true
     },
     {
