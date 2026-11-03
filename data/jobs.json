@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T03:58:53+09:00",
+  "updated_at": "2026-11-04T06:51:56+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 3
+      "found": 6
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 7
+      "found": 4
     },
     "알바몬": {
       "ok": false,
@@ -29,48 +29,18 @@
   },
   "jobs": [
     {
-      "company": "(주) 스카우트",
-      "title": "(주)스카우트 경비 모집 ( 격일 근무)",
-      "location": "부산 강서구 녹산산업북로 30 (스타빌루스)",
-      "shift": "격일",
+      "company": "동산아이엔스",
+      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-11-15",
-      "posted": "2026-11-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147921673&listmenucd=SEARCH",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-23",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
       "commute": "◎",
-      "first_seen": "2026-11-03T06:48:01+09:00",
-      "new": true
-    },
-    {
-      "company": "프로에스콤",
-      "title": "[인천 서해구,미추홀구/ 쿠팡 인천 BRF센터.45센터] 보안사원 채용",
-      "location": "인천 서구 북항로120번길 55 쿠팡 인천 BRF센터.45센터",
-      "shift": "3조2교대",
-      "salary": "공고 확인",
-      "deadline": "2026-11-22",
-      "posted": "2026-11-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147923702&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-04T00:57:50+09:00",
-      "new": true
-    },
-    {
-      "company": "프로에스콤",
-      "title": "[인천 서해구,미추홀구/ 쿠팡 인천 BRF센터.45센터] 보안사원 채용",
-      "location": "인천 서구 북항로120번길 55 쿠팡 인천 BRF센터.45센터",
-      "shift": "3조2교대",
-      "salary": "공고 확인",
-      "deadline": "2026-11-22",
-      "posted": "2026-11-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147924986&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-04T00:57:50+09:00",
+      "first_seen": "2026-11-04T06:51:56+09:00",
       "new": true
     },
     {
@@ -119,6 +89,51 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "주식회사 포시즌파트너스",
+      "title": "경호.보안 요원 모집 (주말알바가능)",
+      "location": "인천 중구 공항로424번길 50 (IBC 월드게이트) 813호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-16",
+      "posted": "2026-11-03",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147960151&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-04T06:51:56+09:00",
+      "new": true
+    },
+    {
+      "company": "한솔에스앤제이(주)",
+      "title": "강서사업부 호송경비 직원채용합니다.",
+      "location": "서울 양천구 남부순환로88길 5-3 (신정주차빌딩) 1층",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-16",
+      "posted": "2026-11-03",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147948135&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-04T06:51:56+09:00",
+      "new": true
+    },
+    {
+      "company": "한솔에스앤제이(주)",
+      "title": "강서사업부 호송경비 직원채용합니다.",
+      "location": "서울 양천구 남부순환로88길 5-3 (신정주차빌딩) 1층",
+      "shift": "08:00~17:00",
+      "salary": "공고 확인",
+      "deadline": "2026-11-16",
+      "posted": "2026-11-03",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147948136&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-04T06:51:56+09:00",
+      "new": true
+    },
+    {
       "company": "순복음아파트입주자대표회의",
       "title": "경비직원",
       "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
@@ -131,51 +146,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-04T03:58:53+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
-      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-22",
-      "posted": "2026-11-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147923256&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-04T00:57:50+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
-      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-22",
-      "posted": "2026-11-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147923328&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-04T00:57:50+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[경비원신임교육이수자] 상암동 대기업사옥 안전통제원 채용",
-      "location": "서울 마포구 월드컵북로 416 주)엘지유플러스 상암사옥",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-22",
-      "posted": "2026-11-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147918694&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-03T06:48:01+09:00",
       "new": true
     },
     {
@@ -206,6 +176,36 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50293384?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=2&sc=808",
       "commute": "○",
       "first_seen": "2026-11-04T00:57:50+09:00",
+      "new": true
+    },
+    {
+      "company": "벽산빌리지관리사무소",
+      "title": "경비원 모집",
+      "location": "인천광역시 연수구 인천광역시 연수구 한나루로158번길 31 벽산빌리지아파트 (옥련동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-28",
+      "posted": "2026-10-29",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610290001260&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-11-04T06:51:56+09:00",
+      "new": true
+    },
+    {
+      "company": "그린시스템",
+      "title": "경비원 채용",
+      "location": "경기도 부천시 경기도 부천시 원미구 부일로233번길 18 (상동 송내프라자)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2027-01-02",
+      "posted": "2026-11-03",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611030000922&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-11-04T06:51:56+09:00",
       "new": true
     },
     {
