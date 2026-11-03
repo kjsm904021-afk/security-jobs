@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T16:14:45+09:00",
+  "updated_at": "2026-11-03T18:58:47+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 2
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 7
     },
     "알바몬": {
       "ok": false,
@@ -89,21 +89,6 @@
       "new": true
     },
     {
-      "company": "링크앤스카우트",
-      "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-10",
-      "posted": "2026-10-14",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-03T10:07:16+09:00",
-      "new": true
-    },
-    {
       "company": "에이원",
       "title": "[급]인천 인터지스 특수경비원 모집합니다.",
       "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
@@ -134,21 +119,6 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
-      "company": "순복음아파트입주자대표회의",
-      "title": "경비직원",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-20",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "아파트 경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-03T10:07:16+09:00",
-      "new": true
-    },
-    {
       "company": "(주) 프로에스콤",
       "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
       "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
@@ -161,6 +131,21 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147923256&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-03T06:48:01+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-22",
+      "posted": "2026-11-02",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147923328&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-03T18:58:47+09:00",
       "new": true
     },
     {
