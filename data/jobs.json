@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T10:07:16+09:00",
+  "updated_at": "2026-11-03T12:56:37+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -12,9 +12,9 @@
       "found": 0
     },
     "인크루트": {
-      "ok": true,
+      "ok": false,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 5
+      "found": 0
     },
     "알바천국": {
       "ok": true,
@@ -59,33 +59,18 @@
       "new": true
     },
     {
-      "company": "프로에스콤",
-      "title": "[인천 서해구,미추홀구/ 쿠팡 인천 BRF센터.45센터] 보안사원 채용",
-      "location": "인천 서구 북항로120번길 55 쿠팡 인천 BRF센터.45센터",
-      "shift": "3조2교대",
+      "company": "회사명 확인",
+      "title": "(주)프로에스콤 채용정보 : 월260-323만/ [여의도 현대백화점] 보안사원 채용/ 주간 우선채용 - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
       "salary": "공고 확인",
-      "deadline": "2026-11-22",
-      "posted": "2026-11-02",
+      "deadline": "공고 확인",
+      "posted": "",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147923702&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147923317&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-11-03T06:48:01+09:00",
-      "new": true
-    },
-    {
-      "company": "프로에스콤",
-      "title": "[인천 서해구,미추홀구/ 쿠팡 인천 BRF센터.45센터] 보안사원 채용",
-      "location": "인천 서구 북항로120번길 55 쿠팡 인천 BRF센터.45센터",
-      "shift": "3조2교대",
-      "salary": "공고 확인",
-      "deadline": "2026-11-22",
-      "posted": "2026-11-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147924986&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-03T06:48:01+09:00",
+      "first_seen": "2026-11-03T12:56:37+09:00",
       "new": true
     },
     {
@@ -296,6 +281,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
       "first_seen": "2026-11-03T01:05:35+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "(주)프로에스콤 채용정보 : 월260-323만/ [여의도 현대백화점] 보안사원 채용/ 주간 우선채용 - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "특수경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147922867&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-03T12:56:37+09:00",
       "new": true
     },
     {
