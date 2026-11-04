@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-04T22:10:17+09:00",
+  "updated_at": "2026-11-05T01:18:49+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
-      "message": "",
+      "message": "502 Server Error: Bad Gateway for url: https://www.jobkorea.co.kr/Search/?stext=",
       "found": 6
     },
     "사람인": {
@@ -12,9 +12,9 @@
       "found": 0
     },
     "인크루트": {
-      "ok": true,
-      "message": "",
-      "found": 1
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
+      "found": 0
     },
     "알바천국": {
       "ok": true,
@@ -128,9 +128,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-04T22:10:17+09:00",
+      "first_seen": "2026-11-05T01:18:49+09:00",
       "new": true
     },
     {
@@ -158,9 +158,9 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-04T22:10:17+09:00",
+      "first_seen": "2026-11-05T01:18:49+09:00",
       "new": true
     },
     {
@@ -188,9 +188,9 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-04T22:10:17+09:00",
+      "first_seen": "2026-11-05T01:18:49+09:00",
       "new": true
     },
     {
