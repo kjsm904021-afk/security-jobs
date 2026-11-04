@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-05T01:18:49+09:00",
+  "updated_at": "2026-11-05T04:01:42+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
-      "message": "502 Server Error: Bad Gateway for url: https://www.jobkorea.co.kr/Search/?stext=",
+      "message": "",
       "found": 6
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
@@ -28,6 +28,36 @@
     }
   },
   "jobs": [
+    {
+      "company": "한국공항보안 주식회사",
+      "title": "한국공항보안주 김포국제공항 항공보안직 기간제 근로자 채용 항공경비 안내보조",
+      "location": "서울특별시 강서구 하늘길 38 김포국제공항",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-07",
+      "posted": "2026-11-03",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147935829&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-05T04:01:42+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "09:00~17:00 / 08:00~12:00",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147805808&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-05T04:01:42+09:00",
+      "new": true
+    },
     {
       "company": "에이원",
       "title": "[급]인천 인터지스 특수경비원 모집합니다.",
@@ -57,51 +87,6 @@
       "commute": "○",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
-    },
-    {
-      "company": "주식회사 포시즌파트너스",
-      "title": "경호.보안 요원 모집 (주말알바가능)",
-      "location": "인천 중구 공항로424번길 50 (IBC 월드게이트) 813호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-16",
-      "posted": "2026-11-03",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147960151&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-04T06:51:56+09:00",
-      "new": true
-    },
-    {
-      "company": "한솔에스앤제이(주)",
-      "title": "강서사업부 호송경비 직원채용합니다.",
-      "location": "서울 양천구 남부순환로88길 5-3 (신정주차빌딩) 1층",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-16",
-      "posted": "2026-11-03",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147948135&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-04T06:51:56+09:00",
-      "new": true
-    },
-    {
-      "company": "한솔에스앤제이(주)",
-      "title": "강서사업부 호송경비 직원채용합니다.",
-      "location": "서울 양천구 남부순환로88길 5-3 (신정주차빌딩) 1층",
-      "shift": "08:00~17:00",
-      "salary": "공고 확인",
-      "deadline": "2026-11-16",
-      "posted": "2026-11-03",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147948136&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-04T06:51:56+09:00",
-      "new": true
     },
     {
       "company": "(주) 프로에스콤",
@@ -161,6 +146,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "○",
       "first_seen": "2026-11-05T01:18:49+09:00",
+      "new": true
+    },
+    {
+      "company": "인천공항에너지(주)",
+      "title": "인천공항에너지주 2026년 현장운영직보안 채용변경",
+      "location": "인천광역시 영종구 평화대로119번길 43 인천공항에너지",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-30",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147870811&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-05T04:01:42+09:00",
       "new": true
     },
     {
