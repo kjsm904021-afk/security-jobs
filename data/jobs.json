@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T16:22:06+09:00",
+  "updated_at": "2026-11-04T22:10:17+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -12,9 +12,9 @@
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "",
-      "found": 0
+      "found": 1
     },
     "알바천국": {
       "ok": true,
@@ -29,18 +29,18 @@
   },
   "jobs": [
     {
-      "company": "링크앤스카우트",
-      "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
+      "company": "에이원",
+      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
+      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
       "shift": "공고 확인",
       "salary": "공고 확인",
       "deadline": "2026-11-10",
-      "posted": "2026-10-14",
+      "posted": "2026-10-27",
       "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
+      "type": "특수경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-11-03T22:07:59+09:00",
+      "first_seen": "2026-11-04T22:10:17+09:00",
       "new": true
     },
     {
@@ -104,21 +104,6 @@
       "new": true
     },
     {
-      "company": "순복음아파트입주자대표회의",
-      "title": "경비직원",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-20",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "아파트 경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-04T03:58:53+09:00",
-      "new": true
-    },
-    {
       "company": "(주) 프로에스콤",
       "title": "[경비원신임교육이수자] 상암동 대기업사옥 안전통제원 채용",
       "location": "서울 마포구 월드컵북로 416 주)엘지유플러스 상암사옥",
@@ -134,21 +119,6 @@
       "new": true
     },
     {
-      "company": "그린시스템",
-      "title": "경비원 채용",
-      "location": "경기도 부천시 경기도 부천시 원미구 부일로233번길 18 (상동 송내프라자)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2027-01-02",
-      "posted": "2026-11-03",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611030000922&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-04T06:51:56+09:00",
-      "new": true
-    },
-    {
       "company": "㈜삼구아이앤씨",
       "title": "[삼구아이앤씨] 대한송유관공사 고양저유소 특수경비대원 모집 (특수경비 이수증 필수/고양소재)",
       "location": "경기 고양시 덕양구 중앙로 323 (화전동)",
@@ -158,9 +128,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-04T03:58:53+09:00",
+      "first_seen": "2026-11-04T22:10:17+09:00",
       "new": true
     },
     {
@@ -188,9 +158,9 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-04T12:58:06+09:00",
+      "first_seen": "2026-11-04T22:10:17+09:00",
       "new": true
     },
     {
@@ -218,9 +188,9 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-04T03:58:53+09:00",
+      "first_seen": "2026-11-04T22:10:17+09:00",
       "new": true
     },
     {
