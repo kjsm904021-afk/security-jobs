@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T04:01:42+09:00",
+  "updated_at": "2026-11-05T06:54:07+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,13 +8,13 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
-      "ok": false,
+      "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 0
+      "found": 1
     },
     "알바천국": {
       "ok": true,
@@ -59,18 +59,18 @@
       "new": true
     },
     {
-      "company": "에이원",
-      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
-      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
+      "company": "링크앤스카우트",
+      "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
       "shift": "공고 확인",
       "salary": "공고 확인",
       "deadline": "2026-11-10",
-      "posted": "2026-10-27",
+      "posted": "2026-10-14",
       "source": "인크루트",
-      "type": "특수경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
       "commute": "○",
-      "first_seen": "2026-11-04T22:10:17+09:00",
+      "first_seen": "2026-11-05T06:54:07+09:00",
       "new": true
     },
     {
@@ -101,7 +101,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147919717&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-03T06:48:01+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜삼구아이앤씨",
