@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T06:51:56+09:00",
+  "updated_at": "2026-11-04T10:09:00+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 6
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -29,21 +29,6 @@
   },
   "jobs": [
     {
-      "company": "동산아이엔스",
-      "title": "송도 센텀하이브 보안주임 및 보안요원 모집",
-      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-06",
-      "posted": "2026-10-23",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610190003426&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-11-04T06:51:56+09:00",
-      "new": true
-    },
-    {
       "company": "링크앤스카우트",
       "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
       "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
@@ -56,21 +41,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-03T22:07:59+09:00",
-      "new": true
-    },
-    {
-      "company": "에이원",
-      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
-      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-10",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "특수경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-04T03:58:53+09:00",
       "new": true
     },
     {
@@ -165,7 +135,7 @@
     },
     {
       "company": "㈜비엔인더스트리",
-      "title": "주차관제장비 A/S기사 정규직 채용",
+      "title": "주차관제장비 A/S기사 정규직 채용(경력 1년이상 10년미만)",
       "location": "서울 영등포구 양산로 43 (양평동3가, 양평동우림 이 비지센타) 812호",
       "shift": "공고 확인",
       "salary": "공고 확인",
@@ -176,21 +146,6 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50293384?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=2&sc=808",
       "commute": "○",
       "first_seen": "2026-11-04T00:57:50+09:00",
-      "new": true
-    },
-    {
-      "company": "벽산빌리지관리사무소",
-      "title": "경비원 모집",
-      "location": "인천광역시 연수구 인천광역시 연수구 한나루로158번길 31 벽산빌리지아파트 (옥련동)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-12-28",
-      "posted": "2026-10-29",
-      "source": "인크루트",
-      "type": "아파트 경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610290001260&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-04T06:51:56+09:00",
       "new": true
     },
     {
