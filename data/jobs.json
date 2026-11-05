@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T19:10:46+09:00",
+  "updated_at": "2026-11-05T22:16:33+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -13,8 +13,8 @@
     },
     "인크루트": {
       "ok": true,
-      "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 5
+      "message": "",
+      "found": 6
     },
     "알바천국": {
       "ok": true,
@@ -41,6 +41,21 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147935829&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-05T04:01:42+09:00",
+      "new": true
+    },
+    {
+      "company": "광명잉크제조",
+      "title": "공장 경비원 업무",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-10-22",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-11-05T22:16:33+09:00",
       "new": true
     },
     {
