@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T12:59:21+09:00",
+  "updated_at": "2026-11-05T16:24:51+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,7 +8,7 @@
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 5
+      "found": 4
     },
     "알바몬": {
       "ok": false,
@@ -266,21 +266,6 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "△",
       "first_seen": "2026-11-04T12:58:06+09:00",
-      "new": true
-    },
-    {
-      "company": "회사명 확인",
-      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "09:00~17:00 / 08:00~12:00",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147805808&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-11-05T04:01:42+09:00",
       "new": true
     }
   ]
