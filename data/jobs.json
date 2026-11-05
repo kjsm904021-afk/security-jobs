@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T10:11:16+09:00",
+  "updated_at": "2026-11-05T12:59:21+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,7 +8,7 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 4
+      "found": 5
     },
     "알바몬": {
       "ok": false,
@@ -206,6 +206,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "○",
       "first_seen": "2026-11-05T01:18:49+09:00",
+      "new": true
+    },
+    {
+      "company": "인천공항에너지(주)",
+      "title": "인천공항에너지주 2026년 현장운영직보안 채용변경",
+      "location": "인천광역시 영종구 평화대로119번길 43 인천공항에너지",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-06",
+      "posted": "2026-10-30",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147870811&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-05T12:59:21+09:00",
       "new": true
     },
     {
