@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T06:54:07+09:00",
+  "updated_at": "2026-11-05T10:11:16+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,13 +8,13 @@
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 1
+      "found": 5
     },
     "알바천국": {
       "ok": true,
@@ -44,21 +44,6 @@
       "new": true
     },
     {
-      "company": "회사명 확인",
-      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "09:00~17:00 / 08:00~12:00",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147805808&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-05T04:01:42+09:00",
-      "new": true
-    },
-    {
       "company": "링크앤스카우트",
       "title": "[글로벌 네트워크 장비 외국계] SSP Sales 대표(보안·영상보안) 영등포",
       "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동6가 145번지 영등포반도아이비밸리 311호 제2층 제201-알11호, 알10호, 알09호 (양평동2가)",
@@ -71,6 +56,21 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140000115&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-05T06:54:07+09:00",
+      "new": true
+    },
+    {
+      "company": "에이원",
+      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
+      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-10",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "특수경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-11-05T10:11:16+09:00",
       "new": true
     },
     {
@@ -89,6 +89,21 @@
       "first_seen": "2026-10-13T01:10:00+09:00"
     },
     {
+      "company": "순복음아파트입주자대표회의",
+      "title": "경비직원",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-20",
+      "posted": "2026-10-27",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-11-05T10:11:16+09:00",
+      "new": true
+    },
+    {
       "company": "(주) 프로에스콤",
       "title": "[경비원신임교육이수자] 상암동 대기업사옥 안전통제원 채용",
       "location": "서울 마포구 월드컵북로 416 주)엘지유플러스 상암사옥",
@@ -102,6 +117,51 @@
       "commute": "○",
       "first_seen": "2026-11-03T06:48:01+09:00",
       "new": false
+    },
+    {
+      "company": "주원지엘에스(주)",
+      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
+      "location": "경기 김포시 풍무2로 11 (센터권역)",
+      "shift": "07:00~16:00",
+      "salary": "공고 확인",
+      "deadline": "2026-11-24",
+      "posted": "2026-11-05",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147983598&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-05T10:11:16+09:00",
+      "new": true
+    },
+    {
+      "company": "벽산빌리지관리사무소",
+      "title": "경비원 모집",
+      "location": "인천광역시 연수구 인천광역시 연수구 한나루로158번길 31 벽산빌리지아파트 (옥련동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-28",
+      "posted": "2026-10-29",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610290001260&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-11-05T10:11:16+09:00",
+      "new": true
+    },
+    {
+      "company": "그린시스템",
+      "title": "경비원 채용",
+      "location": "경기도 부천시 경기도 부천시 원미구 부일로233번길 18 (상동 송내프라자)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2027-01-02",
+      "posted": "2026-11-03",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611030000922&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-11-05T10:11:16+09:00",
+      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -149,21 +209,6 @@
       "new": true
     },
     {
-      "company": "인천공항에너지(주)",
-      "title": "인천공항에너지주 2026년 현장운영직보안 채용변경",
-      "location": "인천광역시 영종구 평화대로119번길 43 인천공항에너지",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-06",
-      "posted": "2026-10-30",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147870811&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-11-05T04:01:42+09:00",
-      "new": true
-    },
-    {
       "company": "월드유니텍㈜",
       "title": "인천공항 SPK화물터미널 특수경비원 모집",
       "location": "인천 중구 공항동로295번길 77-45 (운서동, 항공터미널비) 화물터미널C동 SPK화물터미널",
@@ -206,6 +251,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "△",
       "first_seen": "2026-11-04T12:58:06+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "주식회사 코어시스템 채용정보 : 콘서트 MD부스 진행요원 모집중 (일주일 내 지급) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "09:00~17:00 / 08:00~12:00",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147805808&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-05T04:01:42+09:00",
       "new": true
     }
   ]
