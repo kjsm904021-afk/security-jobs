@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07T00:55:25+09:00",
+  "updated_at": "2026-11-07T03:57:40+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 5
     },
     "사람인": {
       "ok": false,
@@ -17,9 +17,9 @@
       "found": 6
     },
     "알바천국": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 11
     },
     "알바몬": {
       "ok": false,
@@ -28,6 +28,21 @@
     }
   },
   "jobs": [
+    {
+      "company": "한국공항보안 주식회사",
+      "title": "한국공항보안주 김포국제공항 항공보안직 기간제 근로자 채용 항공경비 안내보조",
+      "location": "서울특별시 강서구 하늘길 38 김포국제공항",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-07",
+      "posted": "2026-11-03",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147935829&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-07T03:57:40+09:00",
+      "new": true
+    },
     {
       "company": "(주) 맨파워코리아",
       "title": "[부산/강서구] 녹산공단 공장 경비직원 단기 파트직 채용 (출입관리)",
@@ -278,9 +293,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-05T01:18:49+09:00",
+      "first_seen": "2026-11-07T03:57:40+09:00",
       "new": true
     },
     {
@@ -293,10 +308,10 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=3&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
       "commute": "○",
-      "first_seen": "2026-10-26T18:51:08+09:00",
-      "new": false
+      "first_seen": "2026-11-07T03:57:40+09:00",
+      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -308,9 +323,9 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-05T01:18:49+09:00",
+      "first_seen": "2026-11-07T03:57:40+09:00",
       "new": true
     },
     {
@@ -353,25 +368,10 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-05T01:18:49+09:00",
+      "first_seen": "2026-11-07T03:57:40+09:00",
       "new": true
-    },
-    {
-      "company": "㈜조은시스템",
-      "title": "[인천공항/AACT3] AACT3 특수경비원, 경력자 우대",
-      "location": "인천 중구 공항동로295번길 88 (운서동, AACT제3화물터미널) AACT 제3화물터미널",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-29",
-      "posted": "2026-10-30",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
-      "commute": "△",
-      "first_seen": "2026-11-04T12:58:06+09:00",
-      "new": false
     }
   ]
 }
