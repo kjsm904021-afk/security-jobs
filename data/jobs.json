@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T10:14:42+09:00",
+  "updated_at": "2026-11-06T12:57:56+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,12 +8,12 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
       "found": 6
     },
     "알바천국": {
@@ -28,6 +28,21 @@
     }
   },
   "jobs": [
+    {
+      "company": "한국공항보안 주식회사",
+      "title": "한국공항보안주 김포국제공항 항공보안직 기간제 근로자 채용 항공경비 안내보조",
+      "location": "서울특별시 강서구 하늘길 38 김포국제공항",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-07",
+      "posted": "2026-11-03",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147935829&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-06T12:57:56+09:00",
+      "new": true
+    },
     {
       "company": "(주) 맨파워코리아",
       "title": "[부산/강서구] 녹산공단 공장 경비직원 단기 파트직 채용 (출입관리)",
@@ -69,21 +84,6 @@
       "source": "알바천국",
       "type": "경호",
       "url": "https://www.alba.co.kr/job/Detail?adid=147995144&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[식사제공] 다이소 부산허브센터 보안사원 채용",
-      "location": "부산 강서구 미음국제3로 31 아성다이소",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-25",
-      "posted": "2026-11-05",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147995140&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-06T06:52:27+09:00",
       "new": true
