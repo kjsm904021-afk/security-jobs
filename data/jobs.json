@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-06T19:08:23+09:00",
+  "updated_at": "2026-11-06T22:10:29+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 6
     },
     "사람인": {
       "ok": false,
