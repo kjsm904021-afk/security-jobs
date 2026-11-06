@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T03:57:40+09:00",
+  "updated_at": "2026-11-07T06:46:51+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 11
+      "found": 7
     },
     "알바몬": {
       "ok": false,
@@ -59,51 +59,6 @@
       "new": true
     },
     {
-      "company": "(주) 프로에스콤",
-      "title": "[식사제공] 다이소 부산허브센터 보안사원 채용",
-      "location": "부산 강서구 미음국제3로 31 아성다이소",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-25",
-      "posted": "2026-11-05",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147995174&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[식사제공] 다이소 부산허브센터 보안사원 채용",
-      "location": "부산 강서구 미음국제3로 31 아성다이소",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-25",
-      "posted": "2026-11-05",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147995144&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[식사제공] 다이소 부산허브센터 보안사원 채용",
-      "location": "부산 강서구 미음국제3로 31 아성다이소",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-25",
-      "posted": "2026-11-05",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147995140&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-06T19:08:23+09:00",
-      "new": true
-    },
-    {
       "company": "광명잉크제조",
       "title": "공장 경비원 업무",
       "location": "부산광역시 강서구 부산광역시 강서구 녹산산단165로 6",
@@ -116,6 +71,36 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610220003056&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-11-06T16:22:08+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148017668&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-07T06:46:51+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "(주) 에스텍시스템 채용정보 : 보안 경비 경호 - 알바천국",
+      "location": "근무지 확인",
+      "shift": "격일",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148014755&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-07T06:46:51+09:00",
       "new": true
     },
     {
@@ -164,21 +149,6 @@
       "new": true
     },
     {
-      "company": "(주) 프로에스콤",
-      "title": "[경비원신임교육이수자] 상암동 대기업사옥 안전통제원 채용",
-      "location": "서울 마포구 월드컵북로 416 주)엘지유플러스 상암사옥",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-22",
-      "posted": "2026-11-02",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147919717&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-06T19:08:23+09:00",
-      "new": true
-    },
-    {
       "company": "주원지엘에스(주)",
       "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
       "location": "경기 김포시 풍무2로 11 (센터권역)",
@@ -209,21 +179,6 @@
       "new": true
     },
     {
-      "company": "주원지엘에스(주)",
-      "title": "[급구] 480+a/생활물류 수거배송/야간근무/단순수거",
-      "location": "경기 부천시 원미구 부천로 57-1 (센터권역)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-24",
-      "posted": "2026-11-05",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147983374&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": true
-    },
-    {
       "company": "(주)유켄씨인터텍",
       "title": "[이마트 화정점] 보안사원 모집 (신임경비교육 이수자 우대)",
       "location": "경기 고양시 덕양구 백양로 79 (이마트)",
@@ -234,21 +189,6 @@
       "source": "알바천국",
       "type": "경호",
       "url": "https://www.alba.co.kr/job/Detail?adid=147992617&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": true
-    },
-    {
-      "company": "주식회사 캡스텍 경북지점",
-      "title": "엘앤에프 보안대원 모집합니다.",
-      "location": "대구 달성군 구지면 국가산단대로19길 40 엘앤에프 구지3공장",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-25",
-      "posted": "2026-11-05",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147991318&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-06T06:52:27+09:00",
       "new": true
