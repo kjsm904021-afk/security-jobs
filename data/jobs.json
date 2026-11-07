@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:03:30+09:00",
+  "updated_at": "2026-11-07T12:54:55+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -116,7 +116,7 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-05T10:11:16+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "유니에스시큐리티",
@@ -146,7 +146,7 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-05T10:11:16+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "주원지엘에스(주)",
@@ -161,7 +161,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147983598&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-05T10:11:16+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "주원지엘에스(주)",
@@ -206,7 +206,7 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610290001260&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-05T10:11:16+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "그린시스템",
@@ -221,7 +221,7 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611030000922&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-05T10:11:16+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜삼구아이앤씨",
