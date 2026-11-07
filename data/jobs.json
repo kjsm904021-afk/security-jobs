@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07T18:52:11+09:00",
+  "updated_at": "2026-11-07T21:55:35+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": true,
-      "message": "",
-      "found": 5
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
+      "found": 0
     },
     "사람인": {
       "ok": false,
@@ -272,7 +272,7 @@
       "company": "회사명 확인",
       "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
       "location": "근무지 확인",
-      "shift": "주간",
+      "shift": "격일",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
