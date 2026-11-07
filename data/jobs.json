@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07T21:55:35+09:00",
+  "updated_at": "2026-11-08T00:44:42+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 5
     },
     "사람인": {
       "ok": false,
@@ -28,21 +28,6 @@
     }
   },
   "jobs": [
-    {
-      "company": "한국공항보안 주식회사",
-      "title": "한국공항보안주 김포국제공항 항공보안직 기간제 근로자 채용 항공경비 안내보조",
-      "location": "서울특별시 강서구 하늘길 38 김포국제공항",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-07",
-      "posted": "2026-11-03",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147935829&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-07T03:57:40+09:00",
-      "new": true
-    },
     {
       "company": "(주) 맨파워코리아",
       "title": "[부산/강서구] 녹산공단 공장 경비직원 단기 파트직 채용 (출입관리)",
@@ -176,6 +161,21 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147992617&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-06T06:52:27+09:00",
+      "new": true
+    },
+    {
+      "company": "케이엘네트웍스(주)",
+      "title": "갈산역-cctv관제/초보가능/인센티브/주말,주중근무 선택가능",
+      "location": "인천 부평구 부평대로 283 A동 705호",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-26",
+      "posted": "2026-11-06",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148010654&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-08T00:44:42+09:00",
       "new": true
     },
     {
