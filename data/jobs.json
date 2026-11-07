@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T12:54:55+09:00",
+  "updated_at": "2026-11-07T16:02:17+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -71,21 +71,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040003878&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-11-07T10:03:30+09:00",
-      "new": true
-    },
-    {
-      "company": "회사명 확인",
-      "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148017668&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-07T06:46:51+09:00",
       "new": true
     },
     {
@@ -281,6 +266,21 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611050001157&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-06T06:52:27+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148017668&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-07T06:46:51+09:00",
       "new": true
     },
     {
