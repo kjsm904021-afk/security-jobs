@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T03:50:03+09:00",
+  "updated_at": "2026-11-08T06:42:35+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -17,9 +17,9 @@
       "found": 6
     },
     "알바천국": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 9
     },
     "알바몬": {
       "ok": false,
@@ -56,6 +56,36 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040003878&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-11-07T10:03:30+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "라스트가드 채용정보 : 주말반 및 프리랜서 신입 및 경력 경호원/보안요원 모집 합니다 - 알바천국",
+      "location": "근무지 확인",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "특수경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148032037&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-08T06:42:35+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "격일",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148017668&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-07T06:46:51+09:00",
       "new": true
     },
     {
@@ -119,6 +149,21 @@
       "new": false
     },
     {
+      "company": "주식회사 포시즌파트너스",
+      "title": "경호.보안 요원 모집 (주말알바가능)",
+      "location": "인천 중구 공항로424번길 50 (IBC 월드게이트) 813호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-21",
+      "posted": "2026-11-08",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148040946&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-08T06:42:35+09:00",
+      "new": true
+    },
+    {
       "company": "주원지엘에스(주)",
       "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
       "location": "경기 김포시 풍무2로 11 (센터권역)",
@@ -149,21 +194,6 @@
       "new": true
     },
     {
-      "company": "(주)유켄씨인터텍",
-      "title": "[이마트 화정점] 보안사원 모집 (신임경비교육 이수자 우대)",
-      "location": "경기 고양시 덕양구 백양로 79 (이마트)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-25",
-      "posted": "2026-11-05",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147992617&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": true
-    },
-    {
       "company": "케이엘네트웍스(주)",
       "title": "갈산역-cctv관제/초보가능/인센티브/주말,주중근무 선택가능",
       "location": "인천 부평구 부평대로 283 A동 705호",
@@ -176,6 +206,21 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148010654&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-08T00:44:42+09:00",
+      "new": true
+    },
+    {
+      "company": "(주)유켄씨인터텍",
+      "title": "[이마트 화정점] 보안사원 모집 (신임경비교육 이수자 우대)",
+      "location": "경기 고양시 덕양구 백양로 79 (이마트)",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-28",
+      "posted": "2026-11-08",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=147992679&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-08T06:42:35+09:00",
       "new": true
     },
     {
@@ -266,21 +311,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611050001157&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": true
-    },
-    {
-      "company": "회사명 확인",
-      "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "격일",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148017668&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-07T06:46:51+09:00",
       "new": true
     },
     {
