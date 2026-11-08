@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T10:10:01+09:00",
+  "updated_at": "2026-11-08T12:57:28+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 6
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -77,7 +77,7 @@
       "company": "회사명 확인",
       "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
       "location": "근무지 확인",
-      "shift": "격일",
+      "shift": "주간",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
@@ -104,21 +104,6 @@
       "new": true
     },
     {
-      "company": "에이원",
-      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
-      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-10",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "특수경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-05T10:11:16+09:00",
-      "new": false
-    },
-    {
       "company": "유니에스시큐리티",
       "title": "김포공항 대한항공 화물보안검색",
       "location": "김포공항 화물청사",
@@ -132,21 +117,6 @@
       "commute": "○",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
-    },
-    {
-      "company": "순복음아파트입주자대표회의",
-      "title": "경비직원",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 국회대로76가길 11 순복음아파트 (여의도동)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-20",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "아파트 경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270000625&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-05T10:11:16+09:00",
-      "new": false
     },
     {
       "company": "주식회사 포시즌파트너스",
@@ -297,21 +267,6 @@
       "commute": "○",
       "first_seen": "2026-11-07T03:57:40+09:00",
       "new": true
-    },
-    {
-      "company": "선문그린존",
-      "title": "경비원 모집",
-      "location": "인천광역시 남동구 인천광역시 남동구 남촌동로45번길 3 (남촌동 3층)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-11-05",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611050001157&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": false
     },
     {
       "company": "월드유니텍㈜",
