@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T03:50:06+09:00",
+  "updated_at": "2026-11-09T06:42:47+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 9
+      "found": 8
     },
     "알바몬": {
       "ok": false,
@@ -60,17 +60,17 @@
     },
     {
       "company": "회사명 확인",
-      "title": "라스트가드 채용정보 : 주말반 및 프리랜서 신입 및 경력 경호원/보안요원 모집 합니다 - 알바천국",
+      "title": "아너러블 honorable 채용정보 : 보안요원 및 수행요원 구합니다 - 알바천국",
       "location": "근무지 확인",
-      "shift": "야간",
+      "shift": "주간",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
       "source": "알바천국",
-      "type": "특수경비",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148032037&listmenucd=SEARCH",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148047834&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-11-08T06:42:35+09:00",
+      "first_seen": "2026-11-09T06:42:47+09:00",
       "new": true
     },
     {
@@ -179,21 +179,6 @@
       "new": false
     },
     {
-      "company": "케이엘네트웍스(주)",
-      "title": "갈산역-cctv관제/초보가능/인센티브/주말,주중근무 선택가능",
-      "location": "인천 부평구 부평대로 283 A동 705호",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-26",
-      "posted": "2026-11-06",
-      "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148010654&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-08T00:44:42+09:00",
-      "new": true
-    },
-    {
       "company": "(주)유켄씨인터텍",
       "title": "[이마트 화정점] 보안사원 모집 (신임경비교육 이수자 우대)",
       "location": "경기 고양시 덕양구 백양로 79 (이마트)",
@@ -251,7 +236,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "○",
       "first_seen": "2026-11-07T03:57:40+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -266,7 +251,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
       "commute": "○",
       "first_seen": "2026-11-07T03:57:40+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -281,7 +266,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
       "first_seen": "2026-11-07T03:57:40+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "선문그린존",
@@ -341,7 +326,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
       "first_seen": "2026-11-07T03:57:40+09:00",
-      "new": true
+      "new": false
     }
   ]
 }
