@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T06:42:35+09:00",
+  "updated_at": "2026-11-08T10:10:01+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -41,7 +41,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147990493&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "한송에이치티에스",
@@ -191,7 +191,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147983571&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "케이엘네트웍스(주)",
@@ -311,7 +311,7 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611050001157&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "월드유니텍㈜",
