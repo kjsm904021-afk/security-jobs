@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T13:00:07+09:00",
+  "updated_at": "2026-11-09T16:31:31+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,7 +8,7 @@
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
@@ -62,7 +62,7 @@
       "company": "회사명 확인",
       "title": "아너러블 honorable 채용정보 : 보안요원 및 수행요원 구합니다 - 알바천국",
       "location": "근무지 확인",
-      "shift": "08:00~20:00 / 09:00~16:00",
+      "shift": "07:00~17:00 / 19:00~08:00",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
