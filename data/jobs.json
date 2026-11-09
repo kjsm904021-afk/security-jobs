@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:42:47+09:00",
+  "updated_at": "2026-11-09T10:13:32+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 8
+      "found": 9
     },
     "알바몬": {
       "ok": false,
@@ -56,13 +56,13 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040003878&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-11-07T10:03:30+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "회사명 확인",
       "title": "아너러블 honorable 채용정보 : 보안요원 및 수행요원 구합니다 - 알바천국",
       "location": "근무지 확인",
-      "shift": "주간",
+      "shift": "08:00~20:00 / 09:00~16:00",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
@@ -86,7 +86,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148014755&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-07T06:46:51+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "에이원",
@@ -177,6 +177,21 @@
       "commute": "○",
       "first_seen": "2026-11-06T06:52:27+09:00",
       "new": false
+    },
+    {
+      "company": "케이엘네트웍스(주)",
+      "title": "갈산역-cctv관제/초보가능/인센티브/주말,주중근무 선택가능",
+      "location": "인천 부평구 부평대로 283 A동 705호",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-11-26",
+      "posted": "2026-11-06",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148010654&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-09T10:13:32+09:00",
+      "new": true
     },
     {
       "company": "(주)유켄씨인터텍",
@@ -296,7 +311,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148017668&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-07T06:46:51+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "월드유니텍㈜",
