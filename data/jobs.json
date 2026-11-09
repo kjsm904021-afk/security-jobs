@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T03:59:30+09:00",
+  "updated_at": "2026-11-10T06:53:57+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 10
+      "found": 9
     },
     "알바몬": {
       "ok": false,
@@ -29,49 +29,19 @@
   },
   "jobs": [
     {
-      "company": "(주) 맨파워코리아",
-      "title": "[부산/강서구] 녹산공단 공장 경비직원 단기 파트직 채용 (출입관리)",
-      "location": "부산 강서구 녹산산업중로 83 니키소씨이앤드아이지코리아",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-11",
-      "posted": "2026-11-05",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147990493&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": false
-    },
-    {
-      "company": "동산아이엔스",
-      "title": "밀양 윤병원 경비원 모집",
-      "location": "서울특별시 강서구 서울특별시 강서구 화곡로 223 5층 (화곡동)",
+      "company": "한송에이치티에스",
+      "title": "건설 현장 경비 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 양천로49길 54",
       "shift": "공고 확인",
       "salary": "공고 확인",
-      "deadline": "2026-11-11",
-      "posted": "2026-11-04",
+      "deadline": "공고 확인",
+      "posted": "2026-11-05",
       "source": "인크루트",
       "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610260001282&src=etc*search",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040003878&src=etc*search",
       "commute": "◎",
-      "first_seen": "2026-11-09T22:19:02+09:00",
+      "first_seen": "2026-11-10T06:53:57+09:00",
       "new": true
-    },
-    {
-      "company": "회사명 확인",
-      "title": "(주) 에스텍시스템 채용정보 : 보안 경비 경호 - 알바천국",
-      "location": "근무지 확인",
-      "shift": "격일",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148014755&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-07T06:46:51+09:00",
-      "new": false
     },
     {
       "company": "에이원",
@@ -119,51 +89,6 @@
       "new": true
     },
     {
-      "company": "주식회사 포시즌파트너스",
-      "title": "경호.보안 요원 모집 (주말알바가능)",
-      "location": "인천 중구 공항로424번길 50 (IBC 월드게이트) 813호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-21",
-      "posted": "2026-11-08",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148040946&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-08T06:42:35+09:00",
-      "new": true
-    },
-    {
-      "company": "주원지엘에스(주)",
-      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
-      "location": "경기 김포시 풍무2로 11 (센터권역)",
-      "shift": "07:00~16:00",
-      "salary": "공고 확인",
-      "deadline": "2026-11-24",
-      "posted": "2026-11-05",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147983598&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-05T10:11:16+09:00",
-      "new": false
-    },
-    {
-      "company": "주원지엘에스(주)",
-      "title": "[급구] 480+a/생활물류 수거배송/야간근무/단순수거",
-      "location": "경기 김포시 사우중로 45 (센터권역)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-24",
-      "posted": "2026-11-05",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147983571&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-06T06:52:27+09:00",
-      "new": false
-    },
-    {
       "company": "(주)유켄씨인터텍",
       "title": "[이마트 화정점] 보안사원 모집 (신임경비교육 이수자 우대)",
       "location": "경기 고양시 덕양구 백양로 79 (이마트)",
@@ -176,6 +101,81 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147992679&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-08T06:42:35+09:00",
+      "new": false
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[경비원신임교육이수자] 상암동 대기업사옥 안전통제원 채용",
+      "location": "서울 마포구 월드컵북로 416 주)엘지유플러스 상암사옥",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-11-09",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148057794&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-10T06:53:57+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[경비원신임교육이수자] 상암동 대기업사옥 안전통제원 채용",
+      "location": "서울 마포구 월드컵북로 416 주)엘지유플러스 상암사옥",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-11-09",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148055631&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-10T06:53:57+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[경비원신임교육이수자] 상암동 대기업사옥 안전통제원 채용",
+      "location": "서울 마포구 월드컵북로 416 주)엘지유플러스 상암사옥",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-11-09",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148055403&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-10T06:53:57+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[경비원신임교육이수자] 상암동 대기업사옥 안전통제원 채용",
+      "location": "서울 마포구 월드컵북로 416 주)엘지유플러스 상암사옥",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-11-09",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148055637&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-10T06:53:57+09:00",
+      "new": true
+    },
+    {
+      "company": "주원지엘에스(주)",
+      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
+      "location": "인천 부평구 부평문화로 55 (센터권역)",
+      "shift": "07:00~16:00",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-11-09",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148052019&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-10T06:53:57+09:00",
       "new": true
     },
     {
@@ -326,21 +326,6 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "△",
       "first_seen": "2026-11-10T03:59:30+09:00",
-      "new": true
-    },
-    {
-      "company": "회사명 확인",
-      "title": "아너러블 honorable 채용정보 : 보안요원 및 수행요원 구합니다 - 알바천국",
-      "location": "근무지 확인",
-      "shift": "06:30~15:30 / 07:00~16:00",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148047834&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-11-09T06:42:47+09:00",
       "new": true
     }
   ]
