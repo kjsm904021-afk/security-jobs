@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T22:19:02+09:00",
+  "updated_at": "2026-11-10T01:08:24+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -56,21 +56,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610260001282&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-11-09T22:19:02+09:00",
-      "new": true
-    },
-    {
-      "company": "회사명 확인",
-      "title": "아너러블 honorable 채용정보 : 보안요원 및 수행요원 구합니다 - 알바천국",
-      "location": "근무지 확인",
-      "shift": "09:00~18:00 / 07:00~16:00",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148047834&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-09T06:42:47+09:00",
       "new": true
     },
     {
@@ -218,9 +203,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-09T19:05:14+09:00",
+      "first_seen": "2026-11-10T01:08:24+09:00",
       "new": true
     },
     {
@@ -308,9 +293,24 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-09T19:05:14+09:00",
+      "first_seen": "2026-11-10T01:08:24+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "아너러블 honorable 채용정보 : 보안요원 및 수행요원 구합니다 - 알바천국",
+      "location": "근무지 확인",
+      "shift": "07:00~16:00 / 06:30~15:30",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148047834&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-09T06:42:47+09:00",
       "new": true
     }
   ]
