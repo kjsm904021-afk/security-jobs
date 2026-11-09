@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10T01:08:24+09:00",
+  "updated_at": "2026-11-10T03:59:30+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 4
+      "found": 6
     },
     "사람인": {
       "ok": false,
@@ -224,6 +224,36 @@
       "new": false
     },
     {
+      "company": "㈜삼구아이앤씨",
+      "title": "[삼구아이앤씨] 대한송유관공사 고양저유소 특수경비대원 모집 (특수경비 이수증 필수/고양소재)",
+      "location": "경기 고양시 덕양구 중앙로 323 (화전동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2027-11-08",
+      "posted": "2026-11-09",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "commute": "○",
+      "first_seen": "2026-11-10T03:59:30+09:00",
+      "new": true
+    },
+    {
+      "company": "㈜삼구아이앤씨",
+      "title": "[삼구아이앤씨] 대한송유관공사 고양저유소 특수경비대원 모집 (특수경비 이수증 필수/고양소재)",
+      "location": "경기 고양시 덕양구 중앙로 323 (화전동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2027-11-08",
+      "posted": "2026-11-09",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "commute": "○",
+      "first_seen": "2026-11-10T03:59:30+09:00",
+      "new": true
+    },
+    {
       "company": "회사명 확인",
       "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
       "location": "근무지 확인",
@@ -251,7 +281,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49997539?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=3&sc=630",
       "commute": "△",
       "first_seen": "2026-11-08T03:50:03+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "에스텍시스템",
@@ -293,16 +323,16 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-10T01:08:24+09:00",
+      "first_seen": "2026-11-10T03:59:30+09:00",
       "new": true
     },
     {
       "company": "회사명 확인",
       "title": "아너러블 honorable 채용정보 : 보안요원 및 수행요원 구합니다 - 알바천국",
       "location": "근무지 확인",
-      "shift": "07:00~16:00 / 06:30~15:30",
+      "shift": "06:30~15:30 / 07:00~16:00",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
