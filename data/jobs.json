@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-09T16:31:31+09:00",
+  "updated_at": "2026-11-09T19:05:14+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 5
+      "found": 4
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 6
+      "found": 4
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 8
+      "found": 10
     },
     "알바몬": {
       "ok": false,
@@ -44,25 +44,10 @@
       "new": false
     },
     {
-      "company": "한송에이치티에스",
-      "title": "건설 현장 경비 모집",
-      "location": "서울특별시 강서구 서울특별시 강서구 양천로49길 54",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-11-05",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040003878&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-11-07T10:03:30+09:00",
-      "new": false
-    },
-    {
       "company": "회사명 확인",
       "title": "아너러블 honorable 채용정보 : 보안요원 및 수행요원 구합니다 - 알바천국",
       "location": "근무지 확인",
-      "shift": "07:00~17:00 / 19:00~08:00",
+      "shift": "09:00~18:00 / 07:00~11:00",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
@@ -209,21 +194,6 @@
       "new": false
     },
     {
-      "company": "그린시스템",
-      "title": "경비원 채용",
-      "location": "경기도 부천시 경기도 부천시 원미구 부일로233번길 18 (상동 송내프라자)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2027-01-02",
-      "posted": "2026-11-03",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611030000922&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-05T10:11:16+09:00",
-      "new": false
-    },
-    {
       "company": "㈜삼구아이앤씨",
       "title": "[삼구아이앤씨] 대한송유관공사 고양저유소 특수경비대원 모집 (특수경비 이수증 필수/고양소재)",
       "location": "경기 고양시 덕양구 중앙로 323 (화전동)",
@@ -233,10 +203,10 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-07T03:57:40+09:00",
-      "new": false
+      "first_seen": "2026-11-09T19:05:14+09:00",
+      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -249,21 +219,6 @@
       "source": "잡코리아",
       "type": "특수경비",
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
-      "commute": "○",
-      "first_seen": "2026-11-07T03:57:40+09:00",
-      "new": false
-    },
-    {
-      "company": "㈜삼구아이앤씨",
-      "title": "(주)삼구아이앤씨 S-OIL 인천저유소 특수경비대원 모집",
-      "location": "인천광역시 중구 연안부두로 153 (항동7가) 인천저유소",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2027-10-29",
-      "posted": "2026-10-30",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274988?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "○",
       "first_seen": "2026-11-07T03:57:40+09:00",
       "new": false
@@ -314,6 +269,36 @@
       "new": true
     },
     {
+      "company": "에스텍시스템",
+      "title": "[에스텍시스템] 루이비통 인천공항 보안직원 모집",
+      "location": "인천 중구 공항로 272 (인천공항)",
+      "shift": "3조2교대",
+      "salary": "공고 확인",
+      "deadline": "2026-11-22",
+      "posted": "2026-11-09",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148068591&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-09T19:05:14+09:00",
+      "new": true
+    },
+    {
+      "company": "에스텍시스템",
+      "title": "[에스텍시스템] 샤넬 인천공항 보안직원 모집",
+      "location": "인천 중구 공항로 272 (인천공항)",
+      "shift": "3조2교대",
+      "salary": "공고 확인",
+      "deadline": "2026-11-22",
+      "posted": "2026-11-09",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148068563&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-09T19:05:14+09:00",
+      "new": true
+    },
+    {
       "company": "㈜조은시스템",
       "title": "[인천공항/AACT3] AACT3 특수경비원, 경력자 우대",
       "location": "인천 중구 공항동로295번길 88 (운서동, AACT제3화물터미널) AACT 제3화물터미널",
@@ -323,10 +308,10 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-07T03:57:40+09:00",
-      "new": false
+      "first_seen": "2026-11-09T19:05:14+09:00",
+      "new": true
     }
   ]
 }
