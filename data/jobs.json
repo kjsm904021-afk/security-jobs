@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T18:59:14+09:00",
+  "updated_at": "2026-11-10T22:08:02+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,13 +8,13 @@
     },
     "사람인": {
       "ok": false,
-      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -57,21 +57,6 @@
       "commute": "◎",
       "first_seen": "2026-11-10T12:56:21+09:00",
       "new": true
-    },
-    {
-      "company": "에이원",
-      "title": "[급]인천 인터지스 특수경비원 모집합니다.",
-      "location": "전남광주통합특별시 광양시 전남광주통합특별시 광양시 광양읍 예구길 64 (주)에이원",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-10",
-      "posted": "2026-10-27",
-      "source": "인크루트",
-      "type": "특수경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610270001604&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-08T16:05:17+09:00",
-      "new": false
     },
     {
       "company": "유니에스시큐리티",
