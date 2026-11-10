@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T06:53:57+09:00",
+  "updated_at": "2026-11-10T10:07:48+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -17,9 +17,9 @@
       "found": 4
     },
     "알바천국": {
-      "ok": true,
-      "message": "",
-      "found": 9
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
+      "found": 0
     },
     "알바몬": {
       "ok": false,
