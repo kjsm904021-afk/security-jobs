@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:15:13+09:00",
+  "updated_at": "2026-11-10T18:59:14+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,7 +8,7 @@
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without",
       "found": 0
     },
     "인크루트": {
