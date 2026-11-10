@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T10:07:48+09:00",
+  "updated_at": "2026-11-10T12:56:21+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -17,9 +17,9 @@
       "found": 4
     },
     "알바천국": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 10
     },
     "알바몬": {
       "ok": false,
@@ -41,6 +41,21 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040003878&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-11-10T06:53:57+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "(주) 에스텍시스템 채용정보 : 보안 경비 경호 - 알바천국",
+      "location": "근무지 확인",
+      "shift": "격일",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148014755&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-10T12:56:21+09:00",
       "new": true
     },
     {
