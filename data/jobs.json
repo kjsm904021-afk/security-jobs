@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T06:47:44+09:00",
+  "updated_at": "2026-11-11T10:10:18+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,7 +14,7 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 1
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -28,6 +28,21 @@
     }
   },
   "jobs": [
+    {
+      "company": "한송에이치티에스",
+      "title": "건설 현장 경비 모집",
+      "location": "서울특별시 강서구 서울특별시 강서구 양천로49길 54",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "2026-11-05",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040003878&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-11-11T10:10:18+09:00",
+      "new": true
+    },
     {
       "company": "회사명 확인",
       "title": "(주) 에스텍시스템 채용정보 : 보안 경비 경호 - 알바천국",
@@ -131,6 +146,21 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148093985&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-11T06:47:44+09:00",
+      "new": true
+    },
+    {
+      "company": "벽산빌리지관리사무소",
+      "title": "경비원 모집",
+      "location": "인천광역시 연수구 인천광역시 연수구 한나루로158번길 31 벽산빌리지아파트 (옥련동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-28",
+      "posted": "2026-10-29",
+      "source": "인크루트",
+      "type": "아파트 경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610290001260&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-11-11T10:10:18+09:00",
       "new": true
     },
     {
