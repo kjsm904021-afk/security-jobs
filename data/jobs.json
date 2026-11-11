@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T19:04:21+09:00",
+  "updated_at": "2026-11-11T22:15:01+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -236,7 +236,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148068591&listmenucd=SEARCH",
       "commute": "△",
       "first_seen": "2026-11-09T19:05:14+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "(주)프로에스콤",
