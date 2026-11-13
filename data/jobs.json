@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T04:52:42+09:00",
+  "updated_at": "2026-11-13T10:48:34+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,12 +8,12 @@
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
       "ok": true,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
       "found": 2
     },
     "알바천국": {
@@ -59,21 +59,6 @@
       "new": true
     },
     {
-      "company": "(주) 프로에스콤",
-      "title": "[식사제공] 다이소 부산허브센터 보안사원 채용",
-      "location": "부산 강서구 미음국제3로 31 아성다이소",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-02",
-      "posted": "2026-11-12",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148131490&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-13T04:52:42+09:00",
-      "new": true
-    },
-    {
       "company": "가정동하나아파트1차",
       "title": "아파트 경비원 채용",
       "location": "인천광역시 서해구 인천광역시 서해구 봉오대로318번길 18 (가정동 하나아파트)",
@@ -101,7 +86,7 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611040003878&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-11-11T10:10:18+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "유니에스시큐리티",
@@ -236,6 +221,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
       "first_seen": "2026-11-13T04:52:42+09:00",
+      "new": true
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
+      "location": "인천 중구 공항로 272 인천국제공항 제1여객터미널 2021호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-30",
+      "posted": "2026-11-10",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148081688&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-13T10:48:34+09:00",
       "new": true
     },
     {
