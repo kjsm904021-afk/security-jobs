@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T10:48:34+09:00",
+  "updated_at": "2026-11-13T19:54:46+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,13 +8,13 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -56,6 +56,21 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148131489&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-13T04:52:42+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[식사제공] 다이소 부산허브센터 보안사원 채용",
+      "location": "부산 강서구 미음국제3로 31 아성다이소",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-12-02",
+      "posted": "2026-11-12",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148131490&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-13T19:54:46+09:00",
       "new": true
     },
     {
@@ -132,6 +147,21 @@
       "commute": "○",
       "first_seen": "2026-11-10T06:53:57+09:00",
       "new": false
+    },
+    {
+      "company": "케이티에스엔시",
+      "title": "KBS영일송신소 특수경비원 모집",
+      "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동8가 영신로 220 KnK디지털타워 1804호 (영등포동8가)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-30",
+      "posted": "2026-11-13",
+      "source": "인크루트",
+      "type": "특수경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611130003782&src=etc*search",
+      "commute": "○",
+      "first_seen": "2026-11-13T19:54:46+09:00",
+      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -221,21 +251,6 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
       "first_seen": "2026-11-13T04:52:42+09:00",
-      "new": true
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "[현대면세점 인천공항점] 면세점 보안사원 채용",
-      "location": "인천 중구 공항로 272 인천국제공항 제1여객터미널 2021호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-30",
-      "posted": "2026-11-10",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148081688&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-11-13T10:48:34+09:00",
       "new": true
     },
     {
