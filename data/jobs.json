@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14T19:20:03+09:00",
+  "updated_at": "2026-11-15T02:58:19+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 7
     },
     "사람인": {
       "ok": false,
@@ -28,6 +28,21 @@
     }
   },
   "jobs": [
+    {
+      "company": "㈜아스타아이비에스",
+      "title": "[SK인천석유화학 특수경비대] 특경대원 모집(경력, 신입)",
+      "location": "인천 서구 봉수대로 415 (원창동, 에스케이에너지(주),SK인천석유화학(주)) 특수경비대",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-30",
+      "posted": "2026-11-10",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50336372?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
+      "commute": "◎",
+      "first_seen": "2026-11-15T02:58:19+09:00",
+      "new": true
+    },
     {
       "company": "주원지엘에스(주)",
       "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
@@ -56,7 +71,7 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611110003617&src=etc*search",
       "commute": "◎",
       "first_seen": "2026-11-12T20:00:01+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "한송에이치티에스",
@@ -240,6 +255,21 @@
     },
     {
       "company": "㈜삼구아이앤씨",
+      "title": "[삼구아이앤씨] 대한송유관공사 고양저유소 특수경비대원 모집 (특수경비 이수증 필수/고양소재)",
+      "location": "경기 고양시 덕양구 중앙로 323 (화전동)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2027-10-01",
+      "posted": "2026-10-02",
+      "source": "잡코리아",
+      "type": "특수경비",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "commute": "○",
+      "first_seen": "2026-11-15T02:58:19+09:00",
+      "new": true
+    },
+    {
+      "company": "㈜삼구아이앤씨",
       "title": "(주)삼구아이앤씨 S-OIL 인천저유소 특수경비대원 모집",
       "location": "인천광역시 중구 연안부두로 153 (항동7가) 인천저유소",
       "shift": "공고 확인",
@@ -278,25 +308,10 @@
       "posted": "2026-11-09",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-10T03:59:30+09:00",
-      "new": false
-    },
-    {
-      "company": "월드유니텍㈜",
-      "title": "인천공항 SPK화물터미널 특수경비원 모집",
-      "location": "인천 중구 공항동로295번길 77-45 (운서동, 항공터미널비) 화물터미널C동 SPK화물터미널",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-14",
-      "posted": "2026-09-15",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49997539?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
-      "commute": "△",
-      "first_seen": "2026-11-11T00:55:14+09:00",
-      "new": false
+      "first_seen": "2026-11-15T02:58:19+09:00",
+      "new": true
     },
     {
       "company": "㈜조은시스템",
