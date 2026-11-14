@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T02:58:19+09:00",
+  "updated_at": "2026-11-15T07:20:43+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 9
+      "found": 7
     },
     "알바몬": {
       "ok": false,
@@ -89,21 +89,6 @@
       "new": false
     },
     {
-      "company": "회사명 확인",
-      "title": "(주)농협파트너스 채용정보 : [농협 울산유통센터]하나로마트 보안업무 직원 모집(1/1일 입사) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "격일",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148151010&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-14T04:39:07+09:00",
-      "new": true
-    },
-    {
       "company": "유니에스시큐리티",
       "title": "김포공항 대한항공 화물보안검색",
       "location": "김포공항 화물청사",
@@ -117,21 +102,6 @@
       "commute": "○",
       "new": false,
       "first_seen": "2026-10-13T01:10:00+09:00"
-    },
-    {
-      "company": "(주)유켄씨인터텍",
-      "title": "[이마트 화정점] 보안사원 모집 (신임경비교육 이수자 우대)",
-      "location": "경기 고양시 덕양구 백양로 79 (이마트)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-11-28",
-      "posted": "2026-11-08",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=147992679&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-08T06:42:35+09:00",
-      "new": false
     },
     {
       "company": "(주) 프로에스콤",
@@ -164,78 +134,63 @@
       "new": true
     },
     {
-      "company": "주원지엘에스(주)",
-      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
-      "location": "인천 서해구 중봉대로 594 (센터권역)",
-      "shift": "07:00~16:00",
+      "company": "(주) 프로에스콤",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
       "salary": "공고 확인",
-      "deadline": "2026-12-02",
-      "posted": "2026-11-13",
+      "deadline": "2026-12-04",
+      "posted": "2026-11-14",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148139046&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148166996&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-11-14T04:39:07+09:00",
+      "first_seen": "2026-11-15T07:20:43+09:00",
       "new": true
     },
     {
       "company": "(주) 프로에스콤",
-      "title": "[야간고정] 트윈타워 보안사원 채용",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "야간",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
       "salary": "공고 확인",
-      "deadline": "2026-12-03",
-      "posted": "2026-11-13",
+      "deadline": "2026-12-04",
+      "posted": "2026-11-14",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148152998&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148156237&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-11-14T04:39:07+09:00",
+      "first_seen": "2026-11-15T07:20:43+09:00",
       "new": true
     },
     {
       "company": "(주) 프로에스콤",
-      "title": "[야간고정] 트윈타워 보안사원 채용",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "야간",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
       "salary": "공고 확인",
-      "deadline": "2026-12-03",
-      "posted": "2026-11-13",
+      "deadline": "2026-12-04",
+      "posted": "2026-11-14",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148152065&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148156236&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-11-14T04:39:07+09:00",
+      "first_seen": "2026-11-15T07:20:43+09:00",
       "new": true
     },
     {
       "company": "(주) 프로에스콤",
-      "title": "[야간고정] 트윈타워 보안사원 채용",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "야간",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
       "salary": "공고 확인",
-      "deadline": "2026-12-03",
-      "posted": "2026-11-13",
+      "deadline": "2026-12-04",
+      "posted": "2026-11-14",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148149182&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148166997&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-11-14T04:39:07+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[야간고정] 트윈타워 보안사원 채용",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-03",
-      "posted": "2026-11-13",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148150013&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-14T19:20:03+09:00",
+      "first_seen": "2026-11-15T07:20:43+09:00",
       "new": true
     },
     {
@@ -326,6 +281,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "△",
       "first_seen": "2026-11-14T04:39:07+09:00",
+      "new": true
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[롯데면세점 인천공항점/월270만-식대별도(약20만)] 보안사원 채용",
+      "location": "인천 중구 공항로 271 (인천국제공항역) 인천국제공항 T1, T2 내 롯데면세점",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-02",
+      "posted": "2026-11-12",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148125733&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-15T07:20:43+09:00",
       "new": true
     }
   ]
