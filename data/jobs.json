@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T04:39:07+09:00",
+  "updated_at": "2026-11-14T10:25:53+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 10
+      "found": 9
     },
     "알바몬": {
       "ok": false,
@@ -72,6 +72,21 @@
       "commute": "◎",
       "first_seen": "2026-11-11T10:10:18+09:00",
       "new": false
+    },
+    {
+      "company": "회사명 확인",
+      "title": "(주)농협파트너스 채용정보 : [농협 울산유통센터]하나로마트 보안업무 직원 모집(1/1일 입사) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148151010&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-14T04:39:07+09:00",
+      "new": true
     },
     {
       "company": "유니에스시큐리티",
@@ -149,21 +164,6 @@
       "new": true
     },
     {
-      "company": "주원지엘에스(주)",
-      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
-      "location": "경기 고양시 덕양구 삼원로 63 (센터권역)",
-      "shift": "07:00~16:00",
-      "salary": "공고 확인",
-      "deadline": "2026-12-02",
-      "posted": "2026-11-13",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148138991&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-14T04:39:07+09:00",
-      "new": true
-    },
-    {
       "company": "(주) 프로에스콤",
       "title": "[야간고정] 트윈타워 보안사원 채용",
       "location": "서울 영등포구 여의대로 128 트윈타워",
@@ -204,21 +204,6 @@
       "source": "알바천국",
       "type": "경호",
       "url": "https://www.alba.co.kr/job/Detail?adid=148149182&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-14T04:39:07+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[야간고정] 트윈타워 보안사원 채용",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-03",
-      "posted": "2026-11-13",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148150013&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-14T04:39:07+09:00",
       "new": true
@@ -284,21 +269,6 @@
       "new": false
     },
     {
-      "company": "회사명 확인",
-      "title": "(주)농협파트너스 채용정보 : [농협 울산유통센터]하나로마트 보안업무 직원 모집(1/1일 입사) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "격일",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148151010&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-14T04:39:07+09:00",
-      "new": true
-    },
-    {
       "company": "월드유니텍㈜",
       "title": "인천공항 SPK화물터미널 특수경비원 모집",
       "location": "인천 중구 공항동로295번길 77-45 (운서동, 항공터미널비) 화물터미널C동 SPK화물터미널",
@@ -326,6 +296,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "△",
       "first_seen": "2026-11-14T04:39:07+09:00",
+      "new": true
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[롯데면세점 인천공항점/월270만-식대별도(약20만)] 보안사원 채용",
+      "location": "인천 중구 공항로 271 (인천국제공항역) 인천국제공항 T1, T2 내 롯데면세점",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-02",
+      "posted": "2026-11-12",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148125733&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-14T10:25:53+09:00",
       "new": true
     }
   ]
