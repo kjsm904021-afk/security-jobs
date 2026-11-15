@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T01:19:19+09:00",
+  "updated_at": "2026-11-16T07:46:36+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 7
+      "found": 3
     },
     "알바몬": {
       "ok": false,
@@ -56,7 +56,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148139065&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-14T04:39:07+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "가정동하나아파트1차",
@@ -117,66 +117,6 @@
       "commute": "○",
       "first_seen": "2026-11-13T19:54:46+09:00",
       "new": false
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
-      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-04",
-      "posted": "2026-11-14",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148166996&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-15T07:20:43+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
-      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-04",
-      "posted": "2026-11-14",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148156237&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-15T07:20:43+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
-      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-04",
-      "posted": "2026-11-14",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148156236&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-15T07:20:43+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
-      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-04",
-      "posted": "2026-11-14",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148166997&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-15T07:20:43+09:00",
-      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
