@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-16T15:22:09+09:00",
+  "updated_at": "2026-11-17T04:33:32+09:00",
   "source_status": {
     "잡코리아": {
-      "ok": true,
-      "message": "",
-      "found": 8
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded w",
+      "found": 0
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 3
+      "found": 6
     },
     "알바몬": {
       "ok": false,
@@ -28,6 +28,36 @@
     }
   },
   "jobs": [
+    {
+      "company": "(주) 스카우트",
+      "title": "(주)스카우트 경비 모집 11/16일 하루 근무",
+      "location": "부산 강서구 녹산산업북로 30 (스타빌루스)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-11-16",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148202283&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-17T04:33:32+09:00",
+      "new": true
+    },
+    {
+      "company": "청우제강",
+      "title": "경비원 모집",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산화전로 24 (주)청우제강",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-11-16",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160005089&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-11-17T04:33:32+09:00",
+      "new": true
+    },
     {
       "company": "㈜아스타아이비에스",
       "title": "[SK인천석유화학 특수경비대] 특경대원 모집(경력, 신입)",
@@ -46,32 +76,17 @@
     {
       "company": "주원지엘에스(주)",
       "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
-      "location": "서울 강서구 화곡로68길 15 (센터권역)",
+      "location": "인천 계양구 오조산로45번길 11 (센터권역)",
       "shift": "07:00~16:00",
       "salary": "공고 확인",
-      "deadline": "2026-12-02",
-      "posted": "2026-11-13",
+      "deadline": "2026-12-06",
+      "posted": "2026-11-16",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148139065&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148187293&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-11-14T04:39:07+09:00",
-      "new": false
-    },
-    {
-      "company": "가정동하나아파트1차",
-      "title": "아파트 경비원 채용",
-      "location": "인천광역시 서해구 인천광역시 서해구 봉오대로318번길 18 (가정동 하나아파트)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-11-11",
-      "source": "인크루트",
-      "type": "아파트 경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611110003617&src=etc*search",
-      "commute": "◎",
-      "first_seen": "2026-11-12T20:00:01+09:00",
-      "new": false
+      "first_seen": "2026-11-17T04:33:32+09:00",
+      "new": true
     },
     {
       "company": "한송에이치티에스",
@@ -89,21 +104,6 @@
       "new": false
     },
     {
-      "company": "(주) 프로에스콤",
-      "title": "[경비원신임교육이수자] 상암동 대기업사옥 안전통제원 채용",
-      "location": "서울 마포구 월드컵북로 416 주)엘지유플러스 상암사옥",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-11-29",
-      "posted": "2026-11-09",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148057794&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-10T06:53:57+09:00",
-      "new": false
-    },
-    {
       "company": "케이티에스엔시",
       "title": "KBS영일송신소 특수경비원 모집",
       "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동8가 영신로 220 KnK디지털타워 1804호 (영등포동8가)",
@@ -117,6 +117,66 @@
       "commute": "○",
       "first_seen": "2026-11-13T19:54:46+09:00",
       "new": false
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[야간고정] 트윈타워 보안사원 채용",
+      "location": "서울 영등포구 여의대로 128 트윈타워",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-12-06",
+      "posted": "2026-11-16",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148199271&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-17T04:33:32+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[야간고정] 트윈타워 보안사원 채용",
+      "location": "서울 영등포구 여의대로 128 트윈타워",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-12-06",
+      "posted": "2026-11-16",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148199097&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-17T04:33:32+09:00",
+      "new": true
+    },
+    {
+      "company": "주식회사 캡스텍 경북지점",
+      "title": "엘앤에프 보안대원 모집합니다.",
+      "location": "대구 달성군 구지면 국가산단대로19길 40 엘앤에프 구지3공장",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-12-06",
+      "posted": "2026-11-16",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148202407&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-17T04:33:32+09:00",
+      "new": true
+    },
+    {
+      "company": "주원지엘에스(주)",
+      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
+      "location": "경기 부천시 오정구 원종로 64 (센터권역)",
+      "shift": "07:00~16:00",
+      "salary": "공고 확인",
+      "deadline": "2026-12-06",
+      "posted": "2026-11-16",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148187299&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-17T04:33:32+09:00",
+      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -146,7 +206,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "○",
       "first_seen": "2026-11-15T02:58:19+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -191,7 +251,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
       "commute": "○",
       "first_seen": "2026-11-15T02:58:19+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜조은시스템",
@@ -206,21 +266,6 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=4&sc=630",
       "commute": "△",
       "first_seen": "2026-11-16T01:19:19+09:00",
-      "new": true
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "[롯데면세점 인천공항점/월270만-식대별도(약20만)] 보안사원 채용",
-      "location": "인천 중구 공항로 271 (인천국제공항역) 인천국제공항 T1, T2 내 롯데면세점",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-12-02",
-      "posted": "2026-11-12",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148125733&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-11-15T07:20:43+09:00",
       "new": true
     },
     {
