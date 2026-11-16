@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T07:46:36+09:00",
+  "updated_at": "2026-11-16T15:22:09+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -13,7 +13,7 @@
     },
     "인크루트": {
       "ok": true,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
       "found": 3
     },
     "알바천국": {
