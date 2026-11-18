@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18T00:56:35+09:00",
+  "updated_at": "2026-11-18T09:56:26+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 5
     },
     "사람인": {
       "ok": false,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 12
     },
     "알바몬": {
       "ok": false,
@@ -59,18 +59,153 @@
       "new": true
     },
     {
-      "company": "주원지엘에스(주)",
-      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
-      "location": "인천 계양구 오조산로45번길 11 (센터권역)",
-      "shift": "07:00~16:00",
+      "company": "(주) 더맨",
+      "title": "롯데제타스마트센터 보안사원 모집",
+      "location": "부산 강서구 미음산단로 320 롯데제타스마트센터 1층 보안실",
+      "shift": "야간",
       "salary": "공고 확인",
-      "deadline": "2026-12-06",
-      "posted": "2026-11-16",
+      "deadline": "2026-12-07",
+      "posted": "2026-11-17",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148187293&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148226630&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-11-17T04:33:32+09:00",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
+      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148226210&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
+      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148226303&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
+      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148226163&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
+      "title": "[임대기사모집] 대형 간선 맞춤배차 /경비 회사 선결제/ 중장거리 운행",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148225632&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
+      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148226156&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
+      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148226173&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
+      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148225670&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
+      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148226185&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
+      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148226273&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
       "new": true
     },
     {
@@ -119,66 +254,6 @@
       "new": false
     },
     {
-      "company": "(주) 프로에스콤",
-      "title": "[야간고정] 트윈타워 보안사원 채용",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-06",
-      "posted": "2026-11-16",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148199271&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-17T04:33:32+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[야간고정] 트윈타워 보안사원 채용",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-06",
-      "posted": "2026-11-16",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148199097&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-17T04:33:32+09:00",
-      "new": true
-    },
-    {
-      "company": "주식회사 캡스텍 경북지점",
-      "title": "엘앤에프 보안대원 모집합니다.",
-      "location": "대구 달성군 구지면 국가산단대로19길 40 엘앤에프 구지3공장",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-06",
-      "posted": "2026-11-16",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148202407&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-17T04:33:32+09:00",
-      "new": true
-    },
-    {
-      "company": "주원지엘에스(주)",
-      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
-      "location": "경기 부천시 오정구 원종로 64 (센터권역)",
-      "shift": "07:00~16:00",
-      "salary": "공고 확인",
-      "deadline": "2026-12-06",
-      "posted": "2026-11-16",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148187299&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-17T04:33:32+09:00",
-      "new": true
-    },
-    {
       "company": "㈜삼구아이앤씨",
       "title": "[삼구아이앤씨] 대한송유관공사 고양저유소 특수경비대원 모집 (특수경비 이수증 필수/고양소재)",
       "location": "경기 고양시 덕양구 중앙로 323 (화전동)",
@@ -192,21 +267,6 @@
       "commute": "○",
       "first_seen": "2026-11-18T00:56:35+09:00",
       "new": true
-    },
-    {
-      "company": "㈜삼구아이앤씨",
-      "title": "[삼구아이앤씨] 대한송유관공사 고양저유소 특수경비대원 모집 (특수경비 이수증 필수/고양소재)",
-      "location": "경기 고양시 덕양구 중앙로 323 (화전동)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2027-10-01",
-      "posted": "2026-10-02",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
-      "commute": "○",
-      "first_seen": "2026-11-15T02:58:19+09:00",
-      "new": false
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -233,10 +293,10 @@
       "posted": "2026-11-09",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-15T02:58:19+09:00",
-      "new": false
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
     },
     {
       "company": "국제경보산업",
@@ -266,6 +326,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "△",
       "first_seen": "2026-11-17T12:49:44+09:00",
+      "new": true
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[롯데면세점 인천공항점/월270만-식대별도(약20만)] 보안사원 채용",
+      "location": "인천 중구 공항로 271 (인천국제공항역) 인천국제공항 T1, T2 내 롯데면세점",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-02",
+      "posted": "2026-11-12",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148125733&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-18T09:56:26+09:00",
       "new": true
     }
   ]
