@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T09:56:26+09:00",
+  "updated_at": "2026-11-18T20:35:46+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -83,6 +83,21 @@
       "posted": "2026-11-18",
       "source": "알바천국",
       "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148226163&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
+      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
       "url": "https://www.alba.co.kr/job/Detail?adid=148226210&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-18T09:56:26+09:00",
@@ -99,21 +114,6 @@
       "source": "알바천국",
       "type": "보안/경비",
       "url": "https://www.alba.co.kr/job/Detail?adid=148226303&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-18T09:56:26+09:00",
-      "new": true
-    },
-    {
-      "company": "유진종합물류",
-      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
-      "location": "서울 강서구 양천로 547 1309호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-12-08",
-      "posted": "2026-11-18",
-      "source": "알바천국",
-      "type": "보안/경비",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148226163&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-18T09:56:26+09:00",
       "new": true
