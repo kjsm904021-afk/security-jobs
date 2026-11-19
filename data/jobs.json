@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T11:32:20+09:00",
+  "updated_at": "2026-11-19T20:33:55+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,13 +8,13 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 4
+      "found": 3
     },
     "알바천국": {
       "ok": true,
@@ -374,25 +374,10 @@
       "new": true
     },
     {
-      "company": "국제경보산업",
-      "title": "경비원",
-      "location": "서울특별시 영등포구 서울특별시 영등포구 당산로 237 (당산동6가)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "2026-11-17",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611170001729&src=etc*search",
-      "commute": "○",
-      "first_seen": "2026-11-18T00:56:35+09:00",
-      "new": true
-    },
-    {
       "company": "회사명 확인",
       "title": "(주)프로에스콤 채용정보 : [월-금/월232만원/인덕원역] NH농협IT통합센터 보안검색 사원 채용 - 알바천국",
       "location": "근무지 확인",
-      "shift": "격일",
+      "shift": "주간",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
@@ -407,7 +392,7 @@
       "company": "회사명 확인",
       "title": "(주)프로에스콤 채용정보 : [월-금/월232만원/인덕원역] NH농협IT통합센터 보안검색 사원 채용 - 알바천국",
       "location": "근무지 확인",
-      "shift": "10:00~16:00 / 09:00~18:00",
+      "shift": "09:00~18:00 / 10:00~16:00",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
@@ -422,7 +407,7 @@
       "company": "회사명 확인",
       "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
       "location": "근무지 확인",
-      "shift": "격일",
+      "shift": "주간",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
@@ -446,7 +431,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "△",
       "first_seen": "2026-11-17T12:49:44+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "(주)프로에스콤",
