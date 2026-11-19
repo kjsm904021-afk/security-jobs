@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T05:27:53+09:00",
+  "updated_at": "2026-11-19T11:32:20+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,7 +8,7 @@
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
@@ -68,21 +68,6 @@
       "posted": "2026-11-18",
       "source": "알바천국",
       "type": "보안/경비",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148226303&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-18T09:56:26+09:00",
-      "new": true
-    },
-    {
-      "company": "유진종합물류",
-      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
-      "location": "서울 강서구 양천로 547 1309호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-12-08",
-      "posted": "2026-11-18",
-      "source": "알바천국",
-      "type": "보안/경비",
       "url": "https://www.alba.co.kr/job/Detail?adid=148226163&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-18T09:56:26+09:00",
@@ -105,7 +90,7 @@
     },
     {
       "company": "유진종합물류",
-      "title": "[임대기사모집] 대형 간선 맞춤배차 /경비 회사 선결제/ 중장거리 운행",
+      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
       "location": "서울 강서구 양천로 547 1309호",
       "shift": "공고 확인",
       "salary": "공고 확인",
@@ -113,7 +98,7 @@
       "posted": "2026-11-18",
       "source": "알바천국",
       "type": "보안/경비",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148225632&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148226303&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-18T09:56:26+09:00",
       "new": true
@@ -150,6 +135,21 @@
     },
     {
       "company": "유진종합물류",
+      "title": "[임대기사모집] 대형 간선 맞춤배차 /경비 회사 선결제/ 중장거리 운행",
+      "location": "서울 강서구 양천로 547 1309호",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "보안/경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148225632&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-18T09:56:26+09:00",
+      "new": true
+    },
+    {
+      "company": "유진종합물류",
       "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
       "location": "서울 강서구 양천로 547 1309호",
       "shift": "공고 확인",
@@ -176,21 +176,6 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148226185&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-18T09:56:26+09:00",
-      "new": true
-    },
-    {
-      "company": "유진종합물류",
-      "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
-      "location": "서울 강서구 양천로 547 1309호",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-12-08",
-      "posted": "2026-11-18",
-      "source": "알바천국",
-      "type": "보안/경비",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148226286&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-19T05:27:53+09:00",
       "new": true
     },
     {
@@ -293,6 +278,21 @@
       "posted": "2026-11-18",
       "source": "알바천국",
       "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148246035&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-19T05:27:53+09:00",
+      "new": true
+    },
+    {
+      "company": "프로에스콤",
+      "title": "[쿠팡 인천 BRF센터/월271만] CCTV 및 보안 시스템 운용 담당자",
+      "location": "인천 서해구 북항로120번길 55 쿠팡 인천 BRF 센터",
+      "shift": "3조2교대",
+      "salary": "공고 확인",
+      "deadline": "2026-12-08",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
       "url": "https://www.alba.co.kr/job/Detail?adid=148246036&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-19T05:27:53+09:00",
@@ -309,21 +309,6 @@
       "source": "알바천국",
       "type": "CCTV/통합관제",
       "url": "https://www.alba.co.kr/job/Detail?adid=148245630&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-19T05:27:53+09:00",
-      "new": true
-    },
-    {
-      "company": "프로에스콤",
-      "title": "[쿠팡 인천 BRF센터/월271만] CCTV 및 보안 시스템 운용 담당자",
-      "location": "인천 서해구 북항로120번길 55 쿠팡 인천 BRF 센터",
-      "shift": "3조2교대",
-      "salary": "공고 확인",
-      "deadline": "2026-12-08",
-      "posted": "2026-11-18",
-      "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148246035&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-19T05:27:53+09:00",
       "new": true
@@ -407,13 +392,13 @@
       "company": "회사명 확인",
       "title": "(주)프로에스콤 채용정보 : [월-금/월232만원/인덕원역] NH농협IT통합센터 보안검색 사원 채용 - 알바천국",
       "location": "근무지 확인",
-      "shift": "야간",
+      "shift": "격일",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
       "source": "알바천국",
-      "type": "특수경비",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148246833&listmenucd=SEARCH",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148247465&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-19T05:27:53+09:00",
       "new": true
@@ -422,13 +407,13 @@
       "company": "회사명 확인",
       "title": "(주)프로에스콤 채용정보 : [월-금/월232만원/인덕원역] NH농협IT통합센터 보안검색 사원 채용 - 알바천국",
       "location": "근무지 확인",
-      "shift": "격일",
+      "shift": "10:00~16:00 / 09:00~18:00",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
       "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148247465&listmenucd=SEARCH",
+      "type": "특수경비",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148246833&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-19T05:27:53+09:00",
       "new": true
@@ -461,6 +446,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "△",
       "first_seen": "2026-11-17T12:49:44+09:00",
+      "new": true
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[롯데면세점 인천공항점/월270만-식대별도(약20만)] 보안사원 채용",
+      "location": "인천 중구 공항로 271 (인천국제공항역) 인천국제공항 T1, T2 내 롯데면세점",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-02",
+      "posted": "2026-11-12",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148125733&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-19T11:32:20+09:00",
       "new": true
     }
   ]
