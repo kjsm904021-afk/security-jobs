@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T20:31:23+09:00",
+  "updated_at": "2026-11-21T05:10:45+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -13,13 +13,13 @@
     },
     "인크루트": {
       "ok": true,
-      "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
+      "message": "",
       "found": 2
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 7
+      "found": 6
     },
     "알바몬": {
       "ok": false,
@@ -74,21 +74,6 @@
       "new": false
     },
     {
-      "company": "(주) 더맨",
-      "title": "롯데제타스마트센터 보안사원 모집",
-      "location": "부산 강서구 미음산단로 320 롯데제타스마트센터 1층 보안실",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-09",
-      "posted": "2026-11-19",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148267861&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-20T05:31:46+09:00",
-      "new": true
-    },
-    {
       "company": "㈜조은시스템",
       "title": "[김해공항/대한항공 테크센터] 특수경비원 모집",
       "location": "부산 강서구 테크센터로 55 (대저2동) 대한항공 테크센터",
@@ -107,7 +92,7 @@
       "company": "회사명 확인",
       "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
       "location": "근무지 확인",
-      "shift": "야간",
+      "shift": "주간",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
@@ -150,17 +135,32 @@
     },
     {
       "company": "주원지엘에스(주)",
-      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
-      "location": "경기 부천시 오정구 원종로 64 (센터권역)",
-      "shift": "07:00~16:00",
+      "title": "[급구] 490+a/생활물류 수거배송/야간근무/단순수거",
+      "location": "인천 부평구 평천로 396 (센터권역)",
+      "shift": "야간",
       "salary": "공고 확인",
-      "deadline": "2026-12-06",
-      "posted": "2026-11-16",
+      "deadline": "2026-12-09",
+      "posted": "2026-11-20",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148187299&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148275357&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-11-20T05:31:46+09:00",
+      "first_seen": "2026-11-21T05:10:45+09:00",
+      "new": true
+    },
+    {
+      "company": "주원지엘에스(주)",
+      "title": "[급구] 490+a/생활물류 수거배송/야간근무/단순수거",
+      "location": "인천 남동구 백범로 376 (센터권역)",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-12-09",
+      "posted": "2026-11-20",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148275530&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-21T05:10:45+09:00",
       "new": true
     },
     {
@@ -236,21 +236,6 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
       "first_seen": "2026-11-20T11:17:44+09:00",
-      "new": true
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "[롯데면세점 인천공항점/월270만-식대별도(약20만)] 보안사원 채용",
-      "location": "인천 중구 공항로 271 (인천국제공항역) 인천국제공항 T1, T2 내 롯데면세점",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-12-02",
-      "posted": "2026-11-12",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148125733&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-11-19T11:32:20+09:00",
       "new": true
     },
     {
