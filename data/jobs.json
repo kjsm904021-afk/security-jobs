@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T19:56:56+09:00",
+  "updated_at": "2026-11-22T04:11:15+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 7
+      "found": 8
     },
     "알바몬": {
       "ok": false,
@@ -98,9 +98,24 @@
       "posted": "",
       "source": "알바천국",
       "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148265054&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148307366&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-11-20T05:31:46+09:00",
+      "first_seen": "2026-11-22T04:11:15+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148307119&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-22T04:11:15+09:00",
       "new": true
     },
     {
@@ -119,33 +134,18 @@
       "new": false
     },
     {
-      "company": "에이셋",
-      "title": "[에이셋] 프리랜서 경호/경비 인력 모집.",
-      "location": "서울 영등포구 양평로 157 (선유도 투웨니퍼스트밸리)(근무지X/사무실)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-12-01",
-      "posted": "2026-11-18",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148249655&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-19T05:27:53+09:00",
-      "new": false
-    },
-    {
       "company": "주원지엘에스(주)",
-      "title": "[급구] 490+a/생활물류 수거배송/야간근무/단순수거",
-      "location": "인천 부평구 평천로 396 (센터권역)",
-      "shift": "야간",
+      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
+      "location": "경기 부천시 오정구 원종로 64 (센터권역)",
+      "shift": "07:00~16:00",
       "salary": "공고 확인",
-      "deadline": "2026-12-09",
-      "posted": "2026-11-20",
+      "deadline": "2026-12-06",
+      "posted": "2026-11-16",
       "source": "알바천국",
       "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148275357&listmenucd=SEARCH",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148187299&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-11-21T05:10:45+09:00",
+      "first_seen": "2026-11-22T04:11:15+09:00",
       "new": true
     },
     {
@@ -161,6 +161,36 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148275530&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-21T05:10:45+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[야간고정] 트윈타워 보안사원 채용",
+      "location": "서울 영등포구 여의대로 128 트윈타워",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-12-11",
+      "posted": "2026-11-21",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148305425&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-22T04:11:15+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[야간고정] 트윈타워 보안사원 채용",
+      "location": "서울 영등포구 여의대로 128 트윈타워",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-12-11",
+      "posted": "2026-11-21",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148299918&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-22T04:11:15+09:00",
       "new": true
     },
     {
@@ -236,21 +266,6 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
       "first_seen": "2026-11-20T11:17:44+09:00",
-      "new": true
-    },
-    {
-      "company": "(주)프로에스콤",
-      "title": "[롯데면세점 인천공항점/월270만-식대별도(약20만)] 보안사원 채용",
-      "location": "인천 중구 공항로 271 (인천국제공항역) 인천국제공항 T1, T2 내 롯데면세점",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-12-02",
-      "posted": "2026-11-12",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148125733&listmenucd=SEARCH",
-      "commute": "△",
-      "first_seen": "2026-11-21T19:56:56+09:00",
       "new": true
     },
     {
