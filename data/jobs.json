@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T05:10:45+09:00",
+  "updated_at": "2026-11-21T11:11:23+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -13,7 +13,7 @@
     },
     "인크루트": {
       "ok": true,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
       "found": 2
     },
     "알바천국": {
@@ -86,7 +86,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50379053?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
       "commute": "◎",
       "first_seen": "2026-11-19T05:27:53+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "회사명 확인",
@@ -131,7 +131,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148249655&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-19T05:27:53+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "주원지엘에스(주)",
