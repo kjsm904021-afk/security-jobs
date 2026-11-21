@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T11:11:23+09:00",
+  "updated_at": "2026-11-21T19:56:56+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 6
+      "found": 7
     },
     "알바몬": {
       "ok": false,
@@ -236,6 +236,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
       "first_seen": "2026-11-20T11:17:44+09:00",
+      "new": true
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[롯데면세점 인천공항점/월270만-식대별도(약20만)] 보안사원 채용",
+      "location": "인천 중구 공항로 271 (인천국제공항역) 인천국제공항 T1, T2 내 롯데면세점",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-02",
+      "posted": "2026-11-12",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148125733&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-21T19:56:56+09:00",
       "new": true
     },
     {
