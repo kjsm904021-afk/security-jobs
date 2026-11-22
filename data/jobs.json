@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22T20:16:09+09:00",
+  "updated_at": "2026-11-23T04:33:26+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 7
+      "found": 6
     },
     "사람인": {
       "ok": false,
@@ -19,7 +19,7 @@
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 8
+      "found": 9
     },
     "알바몬": {
       "ok": false,
@@ -74,48 +74,33 @@
       "new": false
     },
     {
-      "company": "㈜조은시스템",
-      "title": "[김해공항/대한항공 테크센터] 특수경비원 모집",
-      "location": "부산 강서구 테크센터로 55 (대저2동) 대한항공 테크센터",
-      "shift": "공고 확인",
+      "company": "프로에스콤",
+      "title": "[인천 서구/ 쿠팡 인천 4센터만 채용] 보안사원 채용",
+      "location": "인천 서구 갑문4로 25 (쿠팡 인천메가물류센터) 4센터",
+      "shift": "3조2교대",
       "salary": "공고 확인",
-      "deadline": "2026-12-17",
-      "posted": "2026-11-17",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50379053?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630",
-      "commute": "◎",
-      "first_seen": "2026-11-19T05:27:53+09:00",
-      "new": false
-    },
-    {
-      "company": "회사명 확인",
-      "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
+      "deadline": "2026-12-13",
+      "posted": "2026-11-23",
       "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148307366&listmenucd=SEARCH",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148324852&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-11-22T04:11:15+09:00",
+      "first_seen": "2026-11-23T04:33:26+09:00",
       "new": true
     },
     {
-      "company": "회사명 확인",
-      "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "교대",
+      "company": "프로에스콤",
+      "title": "[인천 서해구,미추홀구/ 쿠팡 인천 BRF센터.45센터] 보안사원 채용",
+      "location": "인천 서구 북항로120번길 55 쿠팡 인천 BRF센터.45센터",
+      "shift": "3조2교대",
       "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
+      "deadline": "2026-12-13",
+      "posted": "2026-11-23",
       "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148307119&listmenucd=SEARCH",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148324839&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-11-22T04:11:15+09:00",
+      "first_seen": "2026-11-23T04:33:26+09:00",
       "new": true
     },
     {
@@ -132,6 +117,21 @@
       "commute": "○",
       "first_seen": "2026-11-13T19:54:46+09:00",
       "new": false
+    },
+    {
+      "company": "에이셋",
+      "title": "[에이셋] 프리랜서 경호/경비 인력 모집.",
+      "location": "서울 영등포구 양평로 157 (선유도 투웨니퍼스트밸리)(근무지X/사무실)",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-01",
+      "posted": "2026-11-18",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148249655&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-23T04:33:26+09:00",
+      "new": true
     },
     {
       "company": "주원지엘에스(주)",
@@ -164,33 +164,18 @@
       "new": true
     },
     {
-      "company": "(주) 프로에스콤",
-      "title": "[야간고정] 트윈타워 보안사원 채용",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "야간",
+      "company": "프로에스콤",
+      "title": "[쿠팡 인천 BRF센터/월271만] CCTV 및 보안 시스템 운용 담당자",
+      "location": "인천 서해구 북항로120번길 55 쿠팡 인천 BRF 센터",
+      "shift": "3조2교대",
       "salary": "공고 확인",
-      "deadline": "2026-12-11",
-      "posted": "2026-11-21",
+      "deadline": "2026-12-13",
+      "posted": "2026-11-23",
       "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148305425&listmenucd=SEARCH",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148324840&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-11-22T04:11:15+09:00",
-      "new": true
-    },
-    {
-      "company": "(주) 프로에스콤",
-      "title": "[야간고정] 트윈타워 보안사원 채용",
-      "location": "서울 영등포구 여의대로 128 트윈타워",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-11",
-      "posted": "2026-11-21",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148299918&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-22T04:11:15+09:00",
+      "first_seen": "2026-11-23T04:33:26+09:00",
       "new": true
     },
     {
@@ -203,10 +188,10 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-18T00:56:35+09:00",
-      "new": false
+      "first_seen": "2026-11-23T04:33:26+09:00",
+      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -233,10 +218,10 @@
       "posted": "2026-11-09",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=4&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "○",
-      "first_seen": "2026-11-18T00:56:35+09:00",
-      "new": false
+      "first_seen": "2026-11-23T04:33:26+09:00",
+      "new": true
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -254,6 +239,21 @@
       "new": false
     },
     {
+      "company": "회사명 확인",
+      "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "격일",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148307366&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-22T04:11:15+09:00",
+      "new": true
+    },
+    {
       "company": "㈜조은시스템",
       "title": "[인천공항/AACT3] AACT3 특수경비원, 경력자 우대",
       "location": "인천 중구 공항동로295번길 88 (운서동, AACT제3화물터미널) AACT 제3화물터미널",
@@ -263,10 +263,10 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-20T11:17:44+09:00",
-      "new": false
+      "first_seen": "2026-11-23T04:33:26+09:00",
+      "new": true
     },
     {
       "company": "㈜조은시스템",
@@ -278,10 +278,10 @@
       "posted": "2026-11-19",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399731?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399731?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
-      "first_seen": "2026-11-20T11:17:44+09:00",
-      "new": false
+      "first_seen": "2026-11-23T04:33:26+09:00",
+      "new": true
     }
   ]
 }
