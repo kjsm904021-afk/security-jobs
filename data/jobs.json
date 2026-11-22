@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:15:26+09:00",
+  "updated_at": "2026-11-22T20:16:09+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -221,7 +221,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "○",
       "first_seen": "2026-11-20T11:17:44+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -251,7 +251,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630",
       "commute": "○",
       "first_seen": "2026-11-20T11:17:44+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜조은시스템",
@@ -266,7 +266,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
       "first_seen": "2026-11-20T11:17:44+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜조은시스템",
@@ -281,7 +281,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399731?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "△",
       "first_seen": "2026-11-20T11:17:44+09:00",
-      "new": true
+      "new": false
     }
   ]
 }
