@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T11:10:27+09:00",
+  "updated_at": "2026-11-24T22:38:15+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,18 +8,18 @@
     },
     "사람인": {
       "ok": false,
-      "message": "",
+      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 2
+      "found": 1
     },
     "알바천국": {
-      "ok": false,
-      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
-      "found": 0
+      "ok": true,
+      "message": "",
+      "found": 7
     },
     "알바몬": {
       "ok": false,
@@ -29,18 +29,18 @@
   },
   "jobs": [
     {
-      "company": "청우제강",
-      "title": "경비원 모집",
-      "location": "부산광역시 강서구 부산광역시 강서구 녹산화전로 24 (주)청우제강",
-      "shift": "공고 확인",
+      "company": "(주) 에스텍시스템",
+      "title": "보안 경비 경호",
+      "location": "부산 강서구 녹산산업중로 333 (송정동) 삼성전기 내 부산 멀티캠퍼스",
+      "shift": "07:30~18:30",
       "salary": "공고 확인",
-      "deadline": "2026-11-29",
-      "posted": "2026-11-16",
-      "source": "인크루트",
-      "type": "보안/경비",
-      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160005089&src=etc*search",
+      "deadline": "2026-12-06",
+      "posted": "2026-11-23",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148337585&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-11-24T11:10:27+09:00",
+      "first_seen": "2026-11-24T22:38:15+09:00",
       "new": true
     },
     {
@@ -74,6 +74,21 @@
       "new": false
     },
     {
+      "company": "주원지엘에스(주)",
+      "title": "[급구] 490+a/생활물류 수거배송/야간근무/단순수거",
+      "location": "인천 검단구 원당대로 1039 (센터권역)",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "2026-12-10",
+      "posted": "2026-11-23",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148297946&listmenucd=SEARCH",
+      "commute": "◎",
+      "first_seen": "2026-11-24T22:38:15+09:00",
+      "new": true
+    },
+    {
       "company": "프로에스콤",
       "title": "[인천 서구/ 쿠팡 인천 4센터만 채용] 보안사원 채용",
       "location": "인천 서구 갑문4로 25 (쿠팡 인천메가물류센터) 4센터",
@@ -101,51 +116,6 @@
       "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611130003782&src=etc*search",
       "commute": "○",
       "first_seen": "2026-11-13T19:54:46+09:00",
-      "new": false
-    },
-    {
-      "company": "에이셋",
-      "title": "[에이셋] 프리랜서 경호/경비 인력 모집.",
-      "location": "서울 영등포구 양평로 157 (선유도 투웨니퍼스트밸리)(근무지X/사무실)",
-      "shift": "공고 확인",
-      "salary": "공고 확인",
-      "deadline": "2026-12-01",
-      "posted": "2026-11-18",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148249655&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-23T04:33:26+09:00",
-      "new": true
-    },
-    {
-      "company": "주원지엘에스(주)",
-      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
-      "location": "경기 부천시 오정구 원종로 64 (센터권역)",
-      "shift": "07:00~16:00",
-      "salary": "공고 확인",
-      "deadline": "2026-12-06",
-      "posted": "2026-11-16",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148187299&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-22T04:11:15+09:00",
-      "new": false
-    },
-    {
-      "company": "주원지엘에스(주)",
-      "title": "[급구] 490+a/생활물류 수거배송/야간근무/단순수거",
-      "location": "인천 남동구 백범로 376 (센터권역)",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "2026-12-09",
-      "posted": "2026-11-20",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148275530&listmenucd=SEARCH",
-      "commute": "○",
-      "first_seen": "2026-11-21T05:10:45+09:00",
       "new": false
     },
     {
@@ -222,6 +192,21 @@
       "commute": "○",
       "first_seen": "2026-11-20T11:17:44+09:00",
       "new": false
+    },
+    {
+      "company": "회사명 확인",
+      "title": "주식회사 세진쉴더스 채용정보 : 범죄예방 모집(순찰 및 CCTV관제 경비원신임교육 이수필수입니다) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148336997&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-24T22:38:15+09:00",
+      "new": true
     },
     {
       "company": "㈜조은시스템",
