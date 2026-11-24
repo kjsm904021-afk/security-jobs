@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T21:28:46+09:00",
+  "updated_at": "2026-11-24T11:10:27+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -14,12 +14,12 @@
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 1
+      "found": 2
     },
     "알바천국": {
-      "ok": true,
-      "message": "",
-      "found": 7
+      "ok": false,
+      "message": "HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with ",
+      "found": 0
     },
     "알바몬": {
       "ok": false,
@@ -28,6 +28,21 @@
     }
   },
   "jobs": [
+    {
+      "company": "청우제강",
+      "title": "경비원 모집",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산화전로 24 (주)청우제강",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-11-16",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160005089&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-11-24T11:10:27+09:00",
+      "new": true
+    },
     {
       "company": "유진종합물류",
       "title": "[대현 간선] 임대차/ 맞춤배차 /경비 회사 선결제/ 중장거리 운행/즉시배차",
@@ -116,7 +131,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148187299&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-22T04:11:15+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "주원지엘에스(주)",
