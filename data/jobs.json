@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T22:38:15+09:00",
+  "updated_at": "2026-11-25T08:52:41+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
@@ -8,18 +8,18 @@
     },
     "사람인": {
       "ok": false,
-      "message": "HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded wi",
+      "message": "",
       "found": 0
     },
     "인크루트": {
       "ok": true,
       "message": "HTTPSConnectionPool(host='search.incruit.com', port=443): Max retries exceeded w",
-      "found": 1
+      "found": 2
     },
     "알바천국": {
       "ok": true,
       "message": "",
-      "found": 7
+      "found": 11
     },
     "알바몬": {
       "ok": false,
@@ -28,6 +28,21 @@
     }
   },
   "jobs": [
+    {
+      "company": "청우제강",
+      "title": "경비원 모집",
+      "location": "부산광역시 강서구 부산광역시 강서구 녹산화전로 24 (주)청우제강",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-11-29",
+      "posted": "2026-11-24",
+      "source": "인크루트",
+      "type": "보안/경비",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611160005089&src=etc*search",
+      "commute": "◎",
+      "first_seen": "2026-11-25T08:52:41+09:00",
+      "new": true
+    },
     {
       "company": "(주) 에스텍시스템",
       "title": "보안 경비 경호",
@@ -89,21 +104,6 @@
       "new": true
     },
     {
-      "company": "프로에스콤",
-      "title": "[인천 서구/ 쿠팡 인천 4센터만 채용] 보안사원 채용",
-      "location": "인천 서구 갑문4로 25 (쿠팡 인천메가물류센터) 4센터",
-      "shift": "3조2교대",
-      "salary": "공고 확인",
-      "deadline": "2026-12-13",
-      "posted": "2026-11-23",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148324852&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-23T21:28:46+09:00",
-      "new": true
-    },
-    {
       "company": "케이티에스엔시",
       "title": "KBS영일송신소 특수경비원 모집",
       "location": "서울특별시 영등포구 서울특별시 영등포구 영등포동8가 영신로 220 KnK디지털타워 1804호 (영등포동8가)",
@@ -119,18 +119,78 @@
       "new": false
     },
     {
-      "company": "프로에스콤",
-      "title": "[쿠팡 인천 BRF센터/월271만] CCTV 및 보안 시스템 운용 담당자",
-      "location": "인천 서해구 북항로120번길 55 쿠팡 인천 BRF 센터",
-      "shift": "3조2교대",
+      "company": "주원지엘에스(주)",
+      "title": "[긴급] 490+a/냅킨,티슈 배송/박스포장/주 5일제",
+      "location": "경기 부천시 오정구 원종로 64 (센터권역)",
+      "shift": "07:00~16:00",
       "salary": "공고 확인",
-      "deadline": "2026-12-13",
-      "posted": "2026-11-23",
+      "deadline": "2026-12-06",
+      "posted": "2026-11-16",
       "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148324840&listmenucd=SEARCH",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148187299&listmenucd=SEARCH",
       "commute": "○",
-      "first_seen": "2026-11-23T21:28:46+09:00",
+      "first_seen": "2026-11-25T08:52:41+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-12-14",
+      "posted": "2026-11-24",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148360425&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-25T08:52:41+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[월262만/중장년층우대] JTBC빌딩 보안사원 채용",
+      "location": "서울 마포구 상암산로 38 (JTBC빌딩)",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "2026-12-14",
+      "posted": "2026-11-24",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148358778&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-25T08:52:41+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[초보가능] 금융투자교육원 보안아르바이트 모집",
+      "location": "서울 영등포구 여의나루로 67-8 금융투자교육원",
+      "shift": "17:00~05:00",
+      "salary": "공고 확인",
+      "deadline": "2026-12-14",
+      "posted": "2026-11-24",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148360426&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-25T08:52:41+09:00",
+      "new": true
+    },
+    {
+      "company": "(주) 프로에스콤",
+      "title": "[초보가능] 금융투자교육원 보안아르바이트 모집",
+      "location": "서울 영등포구 여의나루로 67-8 금융투자교육원",
+      "shift": "17:00~05:00",
+      "salary": "공고 확인",
+      "deadline": "2026-12-14",
+      "posted": "2026-11-24",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148334591&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-25T08:52:41+09:00",
       "new": true
     },
     {
@@ -146,7 +206,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630",
       "commute": "○",
       "first_seen": "2026-11-23T04:33:26+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -176,7 +236,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=5&sc=630",
       "commute": "○",
       "first_seen": "2026-11-23T04:33:26+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜삼구아이앤씨",
@@ -221,6 +281,21 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630",
       "commute": "△",
       "first_seen": "2026-11-23T04:33:26+09:00",
+      "new": false
+    },
+    {
+      "company": "(주)프로에스콤",
+      "title": "[롯데면세점 인천공항점/월270만-식대별도(약20만)] 보안사원 채용",
+      "location": "인천 중구 공항로 271 (인천국제공항역) 인천국제공항 T1, T2 내 롯데면세점",
+      "shift": "공고 확인",
+      "salary": "공고 확인",
+      "deadline": "2026-12-02",
+      "posted": "2026-11-12",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148125733&listmenucd=SEARCH",
+      "commute": "△",
+      "first_seen": "2026-11-25T08:52:41+09:00",
       "new": true
     },
     {
@@ -236,7 +311,7 @@
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399731?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630",
       "commute": "△",
       "first_seen": "2026-11-23T04:33:26+09:00",
-      "new": true
+      "new": false
     }
   ]
 }
