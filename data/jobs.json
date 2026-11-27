@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-27T10:42:38+09:00",
+  "updated_at": "2026-11-27T21:10:56+09:00",
   "source_status": {
     "잡코리아": {
       "ok": true,
       "message": "",
-      "found": 7
+      "found": 6
     },
     "사람인": {
       "ok": false,
@@ -59,19 +59,19 @@
       "new": true
     },
     {
-      "company": "㈜조은시스템",
-      "title": "[김해공항/대한항공 테크센터] 특수경비원 모집",
-      "location": "부산 강서구 테크센터로 55 (대저2동) 대한항공 테크센터",
-      "shift": "공고 확인",
+      "company": "회사명 확인",
+      "title": "성진개발-평택 삼성반도체 채용정보 : 평택 삼성반도체 건설현장 남 여 화재감시 안전감시자/용인SK하이닉스 건설현장 - 알바천국",
+      "location": "근무지 확인",
+      "shift": "3조2교대",
       "salary": "공고 확인",
-      "deadline": "2026-12-17",
-      "posted": "2026-11-17",
-      "source": "잡코리아",
-      "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50379053?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=12&sc=630&traceId=f7bc51edfb25822ad69c44f579e2bdad",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148381345&productcd=47&listmenucd=SEARCH",
       "commute": "◎",
-      "first_seen": "2026-11-27T10:42:38+09:00",
-      "new": true
+      "first_seen": "2026-11-25T17:26:53+09:00",
+      "new": false
     },
     {
       "company": "회사명 확인",
@@ -90,21 +90,6 @@
     },
     {
       "company": "회사명 확인",
-      "title": "성진개발-평택 삼성반도체 채용정보 : 평택 삼성반도체 건설현장 남 여 화재감시 안전감시자/용인SK하이닉스 건설현장 - 알바천국",
-      "location": "근무지 확인",
-      "shift": "3조2교대",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148381345&productcd=47&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-25T17:26:53+09:00",
-      "new": true
-    },
-    {
-      "company": "회사명 확인",
       "title": "거제동 레이카운티 보안요원 채용정보 : 거제동 레이카운티 보안요원 - 알바천국",
       "location": "근무지 확인",
       "shift": "격일",
@@ -116,7 +101,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148194123&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-25T17:26:53+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "회사명 확인",
@@ -150,24 +135,9 @@
     },
     {
       "company": "회사명 확인",
-      "title": "신우산업관리 채용정보 : 롯데백화점 잠실점 야간 보안사원 모집 - 알바천국",
-      "location": "근무지 확인",
-      "shift": "주간",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "CCTV/통합관제",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148394319&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-27T10:42:38+09:00",
-      "new": true
-    },
-    {
-      "company": "회사명 확인",
       "title": "주식회사 케이제이엠 채용정보 : 케이터링센터 내 특수경비요원(보안검색.차량검문검색) 남.여 채용 - 알바천국",
       "location": "근무지 확인",
-      "shift": "3조2교대",
+      "shift": "주간",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
@@ -206,7 +176,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148291539&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-25T17:26:53+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "회사명 확인",
@@ -221,7 +191,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=147542791&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-25T17:26:53+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "회사명 확인",
@@ -236,7 +206,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148339576&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-25T17:26:53+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "회사명 확인",
@@ -266,22 +236,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148330949&listmenucd=SEARCH",
       "commute": "◎",
       "first_seen": "2026-11-25T17:26:53+09:00",
-      "new": true
-    },
-    {
-      "company": "회사명 확인",
-      "title": "(주)유니에스 채용정보 : [동국대일산병원] 3~6개월 특수병동 3교대 직원 모집(6개월 이상 가능) - 알바천국",
-      "location": "근무지 확인",
-      "shift": "야간",
-      "salary": "공고 확인",
-      "deadline": "공고 확인",
-      "posted": "",
-      "source": "알바천국",
-      "type": "경호",
-      "url": "https://www.alba.co.kr/job/Detail?adid=148238824&listmenucd=SEARCH",
-      "commute": "◎",
-      "first_seen": "2026-11-25T17:26:53+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "회사명 확인",
@@ -317,7 +272,7 @@
       "company": "회사명 확인",
       "title": "(주)프로에스콤 채용정보 : [롯데면세점 인천공항점/월270만-식대별도(약20만)] 보안사원 채용 - 알바천국",
       "location": "근무지 확인",
-      "shift": "07:00~17:00 / 22:00~06:00",
+      "shift": "22:00~06:00 / 07:00~17:00",
       "salary": "공고 확인",
       "deadline": "공고 확인",
       "posted": "",
@@ -383,9 +338,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630&traceId=f7bc51edfb25822ad69c44f579e2bdad",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630&traceId=b5305ab41d755e72022df97affb39c08",
       "commute": "○",
-      "first_seen": "2026-11-27T10:42:38+09:00",
+      "first_seen": "2026-11-27T21:10:56+09:00",
       "new": true
     },
     {
@@ -398,9 +353,9 @@
       "posted": "2026-10-02",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630&traceId=9ec1a045208eb05c11a0de2201b81e59",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50102243?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=5&sc=630&traceId=54e34b7567b2adcdba083b470b706c60",
       "commute": "○",
-      "first_seen": "2026-11-27T10:42:38+09:00",
+      "first_seen": "2026-11-27T21:10:56+09:00",
       "new": true
     },
     {
@@ -413,9 +368,9 @@
       "posted": "2026-11-09",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=6&sc=630&traceId=f7bc51edfb25822ad69c44f579e2bdad",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=7&sc=630&traceId=b5305ab41d755e72022df97affb39c08",
       "commute": "○",
-      "first_seen": "2026-11-27T10:42:38+09:00",
+      "first_seen": "2026-11-27T21:10:56+09:00",
       "new": true
     },
     {
@@ -428,7 +383,22 @@
       "posted": "2026-11-09",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630&traceId=9ec1a045208eb05c11a0de2201b81e59",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50333360?Oem_Code=C1&logpath=1&stext=%ED%8A%B9%EC%88%98%EA%B2%BD%EB%B9%84&listno=4&sc=630&traceId=54e34b7567b2adcdba083b470b706c60",
+      "commute": "○",
+      "first_seen": "2026-11-27T21:10:56+09:00",
+      "new": true
+    },
+    {
+      "company": "회사명 확인",
+      "title": "신우산업관리 채용정보 : 롯데백화점 잠실점 야간 보안사원 모집 - 알바천국",
+      "location": "근무지 확인",
+      "shift": "주간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "CCTV/통합관제",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148394319&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-27T10:42:38+09:00",
       "new": true
@@ -491,7 +461,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148013092&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-25T17:26:53+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "회사명 확인",
@@ -536,7 +506,22 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148332936&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-25T17:26:53+09:00",
-      "new": true
+      "new": false
+    },
+    {
+      "company": "회사명 확인",
+      "title": "(주)유니에스 채용정보 : [동국대일산병원] 3~6개월 특수병동 3교대 직원 모집(6개월 이상 가능) - 알바천국",
+      "location": "근무지 확인",
+      "shift": "야간",
+      "salary": "공고 확인",
+      "deadline": "공고 확인",
+      "posted": "",
+      "source": "알바천국",
+      "type": "경호",
+      "url": "https://www.alba.co.kr/job/Detail?adid=148238824&listmenucd=SEARCH",
+      "commute": "○",
+      "first_seen": "2026-11-25T17:26:53+09:00",
+      "new": false
     },
     {
       "company": "회사명 확인",
@@ -551,7 +536,7 @@
       "url": "https://www.alba.co.kr/job/Detail?adid=148188706&listmenucd=SEARCH",
       "commute": "○",
       "first_seen": "2026-11-25T17:26:53+09:00",
-      "new": true
+      "new": false
     },
     {
       "company": "㈜조은시스템",
@@ -563,9 +548,9 @@
       "posted": "2026-10-30",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630&traceId=f7bc51edfb25822ad69c44f579e2bdad",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50269068?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=10&sc=630&traceId=b5305ab41d755e72022df97affb39c08",
       "commute": "△",
-      "first_seen": "2026-11-27T10:42:38+09:00",
+      "first_seen": "2026-11-27T21:10:56+09:00",
       "new": true
     },
     {
@@ -578,9 +563,9 @@
       "posted": "2026-11-19",
       "source": "잡코리아",
       "type": "특수경비",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399731?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=8&sc=630&traceId=f7bc51edfb25822ad69c44f579e2bdad",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50399731?Oem_Code=C1&logpath=1&stext=%EA%B2%BD%EB%B9%84&listno=9&sc=630&traceId=b5305ab41d755e72022df97affb39c08",
       "commute": "△",
-      "first_seen": "2026-11-27T10:42:38+09:00",
+      "first_seen": "2026-11-27T21:10:56+09:00",
       "new": true
     }
   ]
